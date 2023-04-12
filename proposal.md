@@ -17,7 +17,7 @@ After finding correlations and testing different influences, can we predict futu
 
 1. The Data will be primarily collected from [kaggle](https://www.kaggle.com/datasets/airbnb/boston):
 - sample period: 9/5/2016 - 9/4/2017
-    - There are 3 data sets included:
+    - There are 3 data sets included from Kaggle:
     1. calendar.csv
         - observation: Airbnb listings
         - rows: 1.31 million
@@ -51,9 +51,12 @@ After finding correlations and testing different influences, can we predict futu
 
 4. High-level data cleaning plan:
 - The 3 datasets that are obtained from Kaggle (calendar.csv, listings.csv, reviews.csv) are already fairly clean
-    - There are several variables that may need to be a different data type to work
-    - Some variables are full of text, and will likely need parsing to be used
-- The last data set is from the 2010 (or 2020) census, and is not in a usable format
+    - There are several variables that may need to be a different data type in order to perform analysis
+    - Some variables are full of text, and will likely need parsing to be used effectively
+    - Some variables are URLs, which likely aren't needed
+    - Because there are so many variables, and some are quite specific:
+        - There are **a LOT** of NAN values that should be replaced with 0 (or a value that is consistent with the context)
+- The last data set is from the 2010 (or 2020) census, and is not in a usable format originally
     - luckily there is a package for python that reads shapefiles effectively:
         - ```import geopandas as gpd```
         
@@ -62,8 +65,7 @@ After finding correlations and testing different influences, can we predict futu
 
 
 
-
-# BELOW IS A TEMPLATE, DELETE BEFORE SUBMISSION 
+# BELOW IS THE TEMPLATE, DELETE BEFORE SUBMISSION 
 
 ## Research Question
 
