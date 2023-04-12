@@ -1,6 +1,50 @@
-# Research Proposal: < Title >
+# Research Proposal: Analysis of Boston Airbnb Listings
+### Big Picture Question: What attributes about a Boston Airbnb listing are most influential to its list price?
 
 By Tommy McDade, Brooks Walsh, and Taylor Sheridan
+
+## Research Question
+
+After finding correlations and testing different influences, can we predict future Airbnb list prices?
+   - This project will be about relationships as well as prediction. 
+       - We will do a thorough EDA on our data set (including visuals) to represent the many relationships between different listing attributes and price.
+       - After the important relationships are determined, we will use regression models and machine learning to create an accurate predictor of list prices?
+           - The metrics for success in this project will be a maximized R-Squared value (*or a different maximized/minimized measurement statistic, based on our choice of model*)
+
+## Necessary Data
+
+1. The Data will be primarily collected from [kaggle](https://www.kaggle.com/datasets/airbnb/boston):
+    - There are 3 data sets included:
+    1. calendar.csv
+        - rows: 1.31 million
+        - columns: 4
+        - index: "listing_id" and "date"
+        - variables: "available (Bool)", "price(continuous)"
+            - price is missing 51% of values
+    2. listings.csv
+        - rows: 3585
+        - columns: 95
+        - index: "id", "scrape_id"
+        - variables: too many to reasonably include in a proposal
+            - a few examples:
+                - "host_since", "maximum_nights", "require_guest_profile_picture"
+    3. reviews.csv
+        - rows: 68.3k
+        - columns: 6
+        - index: "listing_id", "id", "reviewer_id"
+
+   - What is an observation, e.g. a firm, or a firm-year, etc.
+   - What is the sample period?
+   - What are the sample conditions? (Years, restrictions you anticipate (e.g. exclude or require some industries)
+   - What variables are absolutely necessary and what would you like to have if possible?
+
+1. To display maps and geographic data, we will need [census data on districts](https://hub.arcgis.com/datasets/15650d31b88646a2ac64a68c3701f655_0/explore?location=42.360613%2C-71.052250%2C13.27).
+    - We will likely be using the shapefile version
+    - If voting districts doesn't work, we should try [census tract data](https://www.arcgis.com/home/item.html?id=5628bfda9466438491219f4d07488a1e)
+1. What are the raw inputs and how will you store them (the folder structure(s) for each input type)? 
+1. Speculate at a high level (not specific code!) about how you'll transform the raw data into the final form.
+
+
 
 ## Research Question
 
@@ -23,3 +67,4 @@ This section should cover:
 2. How will we collect more data? 
 1. What are the raw inputs and how will you store them (the folder structure(s) for each input type)? 
 1. Speculate at a high level (not specific code!) about how you'll transform the raw data into the final form.
+
