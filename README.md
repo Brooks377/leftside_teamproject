@@ -1,5 +1,5 @@
 # Strong Side Left Side: Final Project 
-![](https://media.tenor.com/SmyiqFUXOIIAAAAC/titans-remember.gif =100x100)
+![](https://media.tenor.com/SmyiqFUXOIIAAAAC/titans-remember.gif =10x10)
 
 [Instructions for Overall Report](https://ledatascifi.github.io/ledatascifi-2023/content/assignments/project.html)
 
