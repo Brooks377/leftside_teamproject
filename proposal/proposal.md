@@ -43,7 +43,7 @@ After finding correlations and testing different influences, can we predict futu
 2. To display maps and geographic data, we will need [2020 census tract data](https://data.boston.gov/dataset/census-2020-tracts/resource/1721fbb7-ee56-4a61-9e1b-2f2342d202d1).
     - We will likely be using the shapefile version    
 
-3. The **raw inputs** for this project will be 3 of the 4 data sets described above in .csv format. Potentially also a shapefile for use in geographic data.
+3. The **raw inputs** for this project will be 3 of the 4 data sets described above in .csv format and a shapefile for use in geographic data.
     - All of these data sets will be saved to a folder called "inputs"
     - Any important dataframes/visuals that are created will be saved to a folder called "outputs"
 
@@ -54,36 +54,9 @@ After finding correlations and testing different influences, can we predict futu
     - Some variables are URLs, which likely aren't needed
     - Because there are so many variables, and some are quite specific:
         - There are **a LOT** of NAN values that should be replaced with 0 (or a value that is consistent with the context)
-- The last data set is from the 2010 (or 2020) census, and is not in a usable format originally
+- The last data set (used to create the map) is from 2020 census, and is not in a usable format originally
     - luckily there is a package for python that reads shapefiles effectively:
         - ```import geopandas as gpd```
 
 ## Dashboard Proposal
 ![](final_project_dashboard_proposal.png)
-
-
-
-# BELOW IS THE TEMPLATE, DELETE BEFORE SUBMISSION 
-
-## Research Question
-
-This section should cover:
-1. What do we want to know or what problems are we trying to solve? As in the midterm, you should list (1) the "bigger" question/debate/problem you're interested in, and also (2) the specific research question(s) you'll actually try to answer. 
-    - The research question will be smaller in scope than the big picture question. But the answer to your specific research question should _shed light_ on the bigger question (although it likely won't conclusively answer it).
-    - The answer to your specific research question should _shed light_ on the bigger question (although it likely won't conclusively answer it).
-2. If your project is about relationships, what are the hypotheses you're testing?
-3. If your project is about prediction, what is your metrics of success? [(What are you maximizing?)](https://ledatascifi.github.io/ledatascifi-2022/content/05/03d_whatToMax.html) Can you find a baseline from prior work to give you a ball park to aim for?
-
-## Necessary Data
-
-This section should cover:
-1. What does the final dataset need to look like (mostly dictated by the question and the availability of data):
-   - What is an observation, e.g. a firm, or a firm-year, etc.
-   - What is the sample period?
-   - What are the sample conditions? (Years, restrictions you anticipate (e.g. exclude or require some industries)
-   - What variables are absolutely necessary and what would you like to have if possible?
-1. What data do we have and what data do we need?
-2. How will we collect more data? 
-1. What are the raw inputs and how will you store them (the folder structure(s) for each input type)? 
-1. Speculate at a high level (not specific code!) about how you'll transform the raw data into the final form.
-
