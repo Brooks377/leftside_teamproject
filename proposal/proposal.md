@@ -15,9 +15,9 @@ After finding correlations and testing different influences, can we predict futu
 
 ## Necessary Data
 
-1. The Data will be primarily collected from [kaggle](https://www.kaggle.com/datasets/airbnb/boston):
+1. The Data will be primarily collected from [Inside Airbnb](http://insideairbnb.com/get-the-data/):
 - sample period: 9/5/2016 - 9/4/2017
-    - There are 3 data sets included from Kaggle:
+    - There are 3 data sets included from Inside Airbnb:
     1. calendar.csv
         - observation: Airbnb listings
         - rows: 1.31 million
@@ -48,7 +48,7 @@ After finding correlations and testing different influences, can we predict futu
     - Any important dataframes/visuals that are created will be saved to a folder called "outputs"
 
 4. High-level data cleaning plan:
-- The 3 datasets that are obtained from Kaggle (calendar.csv, listings.csv, reviews.csv) are already fairly clean
+- The 3 datasets that are obtained from Inside Airbnb (calendar.csv, listings.csv, reviews.csv) are already fairly clean
     - There are several variables that may need to be a different data type in order to perform analysis
     - Some variables are full of text, and will likely need parsing to be used effectively
     - Some variables are URLs, which likely aren't needed
