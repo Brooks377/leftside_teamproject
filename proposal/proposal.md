@@ -40,10 +40,8 @@ After finding correlations and testing different influences, can we predict futu
         - index: "listing_id", "id", "reviewer_id"
         - variables: "date", "reviewer_name", "comments"
 
-2. To display maps and geographic data, we will need [census data on districts](https://hub.arcgis.com/datasets/15650d31b88646a2ac64a68c3701f655_0/explore?location=42.360613%2C-71.052250%2C13.27).
-    - We will likely be using the shapefile version
-    - If voting districts doesn't work, we should try [census tract data](https://www.arcgis.com/home/item.html?id=5628bfda9466438491219f4d07488a1e)
-    
+2. To display maps and geographic data, we will need [2020 census tract data](https://data.boston.gov/dataset/census-2020-tracts/resource/1721fbb7-ee56-4a61-9e1b-2f2342d202d1).
+    - We will likely be using the shapefile version    
 
 3. The **raw inputs** for this project will be 3 of the 4 data sets described above in .csv format. Potentially also a shapefile for use in geographic data.
     - All of these data sets will be saved to a folder called "inputs"
@@ -59,9 +57,9 @@ After finding correlations and testing different influences, can we predict futu
 - The last data set is from the 2010 (or 2020) census, and is not in a usable format originally
     - luckily there is a package for python that reads shapefiles effectively:
         - ```import geopandas as gpd```
-        
 
-
+## Dashboard Proposal
+![](final_project_dashboard_proposal.png)
 
 
 
