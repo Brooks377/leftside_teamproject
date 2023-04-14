@@ -5,20 +5,26 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
 
 ## Research Questions
 
-**Relationships**
-1. Do Airbnb hosts take into consideration the amount of vacant housing units in the census tract/neighborhood when setting a list price?
+**Geographic Relationships**
+1. Do Airbnb hosts take into consideration the amount of vacant housing units (not listings, but total houses) in the census tract/neighborhood when setting a list price?
     - If so, which is more important, the tract or the neighborhood (in other words, which area is a better predictor of price)?
 2. What are the most commonly used words in the descriptions/amenities/reviews of the Airbnb listings with the highest/lowest prices?
+    - Does this change with geographic region?
 3. Are Airbnb prices influenced by the price of nearby Airbnb listings?
     - Spatial Regression
+    
+- *The findings of these research questions will be reported in a notebook/markdown file (similar to midterm report)*
 
 **Prediction**
-1. After the important relationships are determined, we will use regression models and machine learning to create an accurate predictor of list prices, extending past 2024. 
-    - Based on a predicted price, we will report the probability that a house this price is booked vs. available.
+1. After the important relationships are determined, we will use regression models and machine learning to create an accurate predictor of list prices, grouped by neighborhood/tract (from 3/2024 to 3/2025). 
+    - Based on a predicted price, we will report the probability that a listing at this price is booked vs. available.
     - In addition, we will report the highest predicted price that has an *"acceptable"* probability of being booked.
-2. We will also predict the amount of vacant/booked listings grouped by neighborhood.
+        - What attributes are the biggest influences to this probability?
+2. We will also predict the amount of available/booked listings grouped by neighborhood.
     - To be used as an indicator
     - Additionally, to be used in tandem with the above prediction for a better report
+
+- *The results of our prediction models will be displayed on a dashboard (with the research questions analysis attached)*
 
 **Discussion of Cross Validation, Out-of-sample methods, and the data sample format**
 - CV STUFF
@@ -31,7 +37,7 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
 1. The Data will be primarily collected from [Inside Airbnb](http://insideairbnb.com/get-the-data/):
     - To download:
         - Click the link above and use "ctrl+F" to search "Boston"
-        - We are using the first 3 data files (does not include neighbourhoods)
+        - We are using the first 3 data files (does not include neighborhoods, we get that data from the Census Bureau)
 - These files include:
     - "listings.csv.gz"
         - Detailed listings data
@@ -45,6 +51,12 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
         - Calendar data including listing availability, prices, and min/max nights (into near future)
         - Unit of observation: Days
         - Calendar range: **3/19/2023 - 3/18/2024**
+    - **For additional robustness**
+        - We are considering whether or not to include archived listing data back to 6/13/2022
+        - It is found in the same location and is in the same format (click "show archived data", scroll to 13 June, 2022)
+        - The addition of this data would allow for a better prediction and a website with more options for data
+        - We would have to be careful of overlapping/gaps in data
+        
 
 2. For use in the dashboard, we will need **2020 Census neighborhood data**:
     - The shapefile for neighborhood outlines is found [here](https://data.boston.gov/dataset/census-2020-block-group-neighborhoods/resource/ed89fab7-aa21-42ce-874b-1b4971ab50fb)
@@ -52,7 +64,7 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
     - Neighborhood-level census statistics are found [here](https://data.boston.gov/dataset/2020-census-for-boston/resource/5800a0a2-6acd-41a3-9fe0-1bf7b038750d)
         - This data frame contains population/demographic statistics
 
-3. To display interesting maps and geographic data (potential to elaborate further on neighborhood stats), we will use **2020 census tract data**:
+3. To display maps and geographic data (potential to elaborate further on neighborhood stats), we will use **2020 census tract data**:
     - The shapefile for tract outlines is found [here](https://data.boston.gov/dataset/census-2020-tracts)
         - We can use this data to map the census tracts of Boston
     - Tract-level census statistics are found [here](https://data.boston.gov/dataset/2020-census-for-boston/resource/013aba13-5985-4067-bba4-a8d3ca9a34ac)
