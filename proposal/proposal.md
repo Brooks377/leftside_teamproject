@@ -89,5 +89,7 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
     - Helpful documentation is found [here](https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/summary-file/2020Census_PL94_171Redistricting_StatesTechDoc_English.pdf)
     - We will likely have to do some re-indexing of some kind
 
-## Dashboard Proposal (**GOTTA CREATE NEW DASHBOARD W/ NEIGHBORHOODS + NEW STATS**)
-![](final_project_dashboard_proposal.png)
+## Streamlit Dashboard Proposal 
+[link to dashboard repo](https://github.com/Brooks377/SSLS_dashboard)
+
+# ADD A SCREENSHOT WHEN DONE
