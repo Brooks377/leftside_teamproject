@@ -24,7 +24,7 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
     - To be used as an indicator
     - Additionally, to be used in tandem with the above prediction for a better report
 
-- *The results of our prediction models will be displayed on a dashboard (with the research questions analysis attached)*
+- *The results of our prediction models will be displayed on a streamlit dashboard (with the research questions analysis attached)*
 
 **Discussion of Cross Validation, Out-of-sample methods, and the data sample format**
 - CV STUFF
