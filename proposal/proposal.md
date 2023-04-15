@@ -17,6 +17,8 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
 
 **Prediction**
 1. After the important relationships are determined, we will use regression models and machine learning to create an accurate predictor of list prices, grouped by neighborhood/tract (from 3/2024 to 3/2025). 
+    - Predicted prices will change per desired listing
+        - We will include predicted high price, low price, and most likely price
     - Based on a predicted price, we will report the probability that a listing at this price is booked vs. available.
     - In addition, we will report the highest predicted price that has an *"acceptable"* probability of being booked.
         - What attributes are the biggest influences to this probability?
@@ -27,9 +29,20 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
 - *The results of our prediction models will be displayed on a streamlit dashboard (with the research questions analysis attached)*
 
 **Discussion of Cross Validation, Out-of-sample methods, and the data sample format**
-- CV STUFF
-- OOS STUFF
-- PRO/CON of SINGLE CROSS SECTION (not exactly sure what he means here)
+- K-Fold Cross Validation
+    - Housing prices change over time, so we will have to create a training data set that represents all change over time
+        - We cannot do a random split of data for the holdout sample because it will cause "over-accuracy"
+        - Instead we will using rolling OOS testing following the guide in the textbook (months instead of years):
+            1. The holdout sample will be the last 3 years. (15%)
+            2. Train and evaluate many models. For each model:
+                1. Train a model on year 1, and predict outcomes in year 2.
+                2. Then train a model on years 1 and 2, and predict outcomes in year 3.
+                3. Then train a model on years 1 - 3, and predict outcomes in year 4.
+                4. Then train a model on years 1 - 4, and predict outcomes in year 5.
+                5. ...
+                6. Then train a model on years 1 - 16, and predict outcomes in year 17.
+            3. Pick your preferred model.
+- Our final desired output is a range of predicted prices, grouped by neighborhood, for each month from 3/2024 - 3/2025
 
 
 ## Necessary Data
@@ -58,25 +71,25 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
         - We would have to be careful of overlapping/gaps in data
         
 
-2. For use in the dashboard, we will need **2020 Census neighborhood data**:
+2. For use in the dashboard and for stat collection, we will need **2020 Census neighborhood data**:
     - The shapefile for neighborhood outlines is found [here](https://data.boston.gov/dataset/census-2020-block-group-neighborhoods/resource/ed89fab7-aa21-42ce-874b-1b4971ab50fb)
         - We can use this data to map the generally-recognized neighborhoods of Boston
     - Neighborhood-level census statistics are found [here](https://data.boston.gov/dataset/2020-census-for-boston/resource/5800a0a2-6acd-41a3-9fe0-1bf7b038750d)
         - This data frame contains population/demographic statistics
 
-3. To display maps and geographic data (potential to elaborate further on neighborhood stats), we will use **2020 census tract data**:
+3. For use in the dashboard and for stat collection, we will need **2020 census tract data**:
     - The shapefile for tract outlines is found [here](https://data.boston.gov/dataset/census-2020-tracts)
         - We can use this data to map the census tracts of Boston
     - Tract-level census statistics are found [here](https://data.boston.gov/dataset/2020-census-for-boston/resource/013aba13-5985-4067-bba4-a8d3ca9a34ac)
         - This data frame contains population/demographic statistics
 
 
-4. The **raw inputs** for this project will be the 3 data frames from *Inside Airbnb* as well as a data frame and a shapefile from Census data
+4. The **raw inputs** for this project will be the data frames from *Inside Airbnb* as well as a data frame and a shapefile from Census data
     - All of these data sets will be saved to a folder called "inputs"
     - Any important dataframes/visuals that are created will be saved to a folder called "outputs"
 
 5. High-level data cleaning plan:
-- The 3 data sets that come from Inside Airbnb are fairly clean
+- The data sets that come from Inside Airbnb are fairly clean
     - Some variables like date and price are in the wrong data type
     - There are some variables that are very specific, and therefore have a significant amount of NAN values
     - To make effective use of these data, we have to merge some (if not all) of the data frames together
