@@ -19,14 +19,27 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
 1. After the important relationships are determined, we will use regression models and machine learning to create an accurate predictor of list prices, grouped by neighborhood/tract (from 3/2024 to 3/2025). 
     - Predicted prices will change per desired listing
         - We will include predicted high price, low price, and most likely price
-    - Based on a predicted price, we will report the probability that a listing at this price is booked vs. available.
-    - In addition, we will report the highest predicted price that has an *"acceptable"* probability of being booked.
+    - Based on a predicted prices, we will report the probability that a listing at this price is available.
         - What attributes are the biggest influences to this probability?
-2. We will also predict the amount of available/booked listings grouped by neighborhood.
+2. We will also predict the amount of available/total listings grouped by neighborhood.
     - To be used as an indicator
     - Additionally, to be used in tandem with the above prediction for a better report
 
 - *The results of our prediction models will be displayed on a streamlit dashboard (with the research questions analysis attached)*
+    - Desired Prediction Final outputs include (This list also appears in dashboard proposal png):
+         - Boston listing prices each month
+              - high/low/avg
+              - Total available listings / total listings (potentially per price?)
+                - Appartments/houses/other
+         - NBH/tract listing prices each month
+              - high/low/avg
+              - Total available listings / total listings (by zone) (potentially per price?)
+                - Appartments/houses/other
+         - Most common words describing high/low price listings
+              - word splatter or short list
+         - Total neightborhood/tract household vacancy stats
+         - Not necessary for report:
+              - would be super easy to add demographic/population data from census
 
 **Discussion of Cross Validation, Out-of-sample methods, and the data sample format**
 - K-Fold Cross Validation
@@ -105,4 +118,4 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
 ## Streamlit Dashboard Proposal 
 [link to dashboard repo](https://github.com/Brooks377/SSLS_dashboard)
 
-# ADD A SCREENSHOT WHEN DONE
+![](final_project_dashboard_proposal_2.0.png)
