@@ -26,20 +26,6 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
     - Additionally, to be used in tandem with the above prediction for a better report
 
 - *The results of our prediction models will be displayed on a streamlit dashboard (with the research questions analysis attached)*
-    - Desired Prediction Final outputs include (This list also appears in dashboard proposal png):
-         - Boston listing prices each month
-              - high/low/avg
-              - Total available listings / total listings (potentially per price?)
-                - Appartments/houses/other
-         - NBH/tract listing prices each month
-              - high/low/avg
-              - Total available listings / total listings (by zone) (potentially per price?)
-                - Appartments/houses/other
-         - Most common words describing high/low price listings
-              - word splatter or short list
-         - Total neightborhood/tract household vacancy stats
-         - Not necessary for report:
-              - would be super easy to add demographic/population data from census
 
 **Discussion of Cross Validation, Out-of-sample methods, and the data sample format**
 - K-Fold Cross Validation
@@ -56,6 +42,22 @@ By Tommy McDade, Brooks Walsh, and Taylor Sheridan
                 6. Then train a model on years 1 - 16, and predict outcomes in year 17.
             3. Pick your preferred model.
 - Our final desired output is a range of predicted prices, grouped by neighborhood, for each month from 3/2024 - 3/2025
+
+### Outputs
+- Desired Final outputs include (This list also appears in dashboard proposal png):
+    - Boston listing prices each month
+         - high/low/avg (actual and predicted)
+         - Total available listings / total listings (potentially per price?) (actual and predicted)
+             - Appartments/houses/other
+    - NBH/tract listing prices each month
+         - high/low/avg (actual and predicted)
+         - Total available listings / total listings (by zone) (potentially per price?) (actual and predicted)
+              - Appartments/houses/other
+    - Most common words describing high/low price listings
+         - word splatter or short list
+    - Total neightborhood/tract household vacancy stats
+    - Not necessary for report:
+         - would be super easy to add demographic/population data from census
 
 
 ## Necessary Data
