@@ -1,0 +1,3865 @@
+id,room_type,census_tract,census_NBH
+3781,Entire home/apt,512,East Boston
+5506,Entire home/apt,814,Roxbury
+6695,Entire home/apt,814,Roxbury
+8789,Entire home/apt,203.02,Beacon Hill
+4765070,Entire home/apt,812,Jamaica Plain
+4863108,Private room,608,South Boston
+4909590,Entire home/apt,7.04,Allston
+5019306,Entire home/apt,601.01,South Boston
+5048406,Private room,915,Dorchester
+5049582,Private room,1204,Jamaica Plain
+5054601,Private room,612.01,South Boston
+5088560,Entire home/apt,708.01,Roxbury
+5166870,Entire home/apt,1202.01,Jamaica Plain
+5203538,Entire home/apt,705.02,South End
+5317935,Entire home/apt,815,Roxbury
+5358934,Private room,818,Roxbury
+5364137,Entire home/apt,511.01,East Boston
+5371051,Entire home/apt,915,Dorchester
+5434353,Entire home/apt,1106.07,Roslindale
+5478135,Entire home/apt,511.01,East Boston
+5495267,Private room,818,Roxbury
+5526487,Entire home/apt,808.01,Mission Hill
+5526514,Entire home/apt,814,Roxbury
+5581575,Entire home/apt,106,Back Bay
+5690424,Entire home/apt,201.01,Beacon Hill
+5709298,Entire home/apt,202,Beacon Hill
+5718801,Entire home/apt,707,South End
+5738018,Entire home/apt,812,Jamaica Plain
+5768819,Entire home/apt,707,South End
+5769127,Entire home/apt,707,South End
+5775139,Private room,7.03,Allston
+5781926,Entire home/apt,604,South Boston
+5782221,Entire home/apt,301,North End
+5806428,Entire home/apt,509.01,East Boston
+5813177,Entire home/apt,104.04,Fenway
+5856633,Entire home/apt,604,South Boston
+5870922,Private room,8.04,Allston
+5903001,Entire home/apt,107.02,Back Bay
+5919529,Entire home/apt,703.02,South End
+5927267,Private room,612.01,South Boston
+5932402,Private room,705.01,South End
+5940866,Private room,507,East Boston
+5967421,Private room,8.04,Allston
+6080461,Entire home/apt,814,Roxbury
+6089865,Entire home/apt,302,North End
+6119918,Entire home/apt,7.01,Allston
+6179374,Private room,8.04,Allston
+6238463,Private room,1204,Jamaica Plain
+6248970,Private room,1205,Jamaica Plain
+6317446,Entire home/apt,604,South Boston
+6317722,Entire home/apt,604,South Boston
+6377998,Entire home/apt,1203.01,Jamaica Plain
+6426364,Entire home/apt,705.02,South End
+6465075,Entire home/apt,1101.05,Jamaica Plain
+6489209,Private room,612.01,South Boston
+6544267,Entire home/apt,806.01,Roxbury
+6603827,Private room,1103.01,Roslindale
+6609546,Private room,606.03,South Boston Waterfront
+6646604,Entire home/apt,5.06,Brighton
+6690605,Entire home/apt,404.01,Charlestown
+6746543,Entire home/apt,702.02,Chinatown
+6758443,Entire home/apt,707,South End
+6758462,Entire home/apt,707,South End
+6758482,Entire home/apt,707,South End
+6759004,Entire home/apt,107.01,Back Bay
+6759439,Entire home/apt,707,South End
+6762011,Entire home/apt,707,South End
+6763409,Entire home/apt,707,South End
+6780077,Private room,912,Dorchester
+6793945,Entire home/apt,709.02,South End
+6800522,Private room,818,Roxbury
+6819620,Private room,818,Roxbury
+6823017,Private room,8.04,Allston
+6843795,Entire home/apt,102.06,Fenway
+6851459,Entire home/apt,707,South End
+6851460,Entire home/apt,707,South End
+6862594,Private room,1204,Jamaica Plain
+6879036,Entire home/apt,107.01,Back Bay
+6882615,Entire home/apt,107.01,Back Bay
+6908525,Entire home/apt,107.01,Back Bay
+6914155,Private room,911,Dorchester
+6914622,Entire home/apt,1201.04,Jamaica Plain
+6921672,Entire home/apt,1206,Jamaica Plain
+7018497,Entire home/apt,301,North End
+7053454,Private room,406,Charlestown
+7054912,Entire home/apt,203.04,West End
+7086825,Private room,1103.01,Roslindale
+7093109,Entire home/apt,1102.01,Roslindale
+7093184,Private room,818,Roxbury
+7161203,Private room,818,Roxbury
+7222349,Private room,921.01,Dorchester
+7239024,Private room,921.01,Dorchester
+7279874,Entire home/apt,102.06,Fenway
+7281884,Entire home/apt,820,Roxbury
+7287822,Entire home/apt,1204,Jamaica Plain
+7298966,Entire home/apt,4.01,Brighton
+7308623,Private room,203.01,West End
+7310887,Entire home/apt,7.01,Brighton
+7330494,Entire home/apt,612.01,South Boston
+7333304,Private room,406,Charlestown
+7453991,Private room,606.03,South Boston Waterfront
+7474044,Entire home/apt,107.01,Back Bay
+7474855,Entire home/apt,107.01,Back Bay
+7475052,Entire home/apt,107.01,Back Bay
+7475215,Entire home/apt,107.01,Back Bay
+7475379,Entire home/apt,107.01,Back Bay
+7475573,Entire home/apt,107.01,Back Bay
+7476340,Entire home/apt,707,South End
+7479725,Private room,1.01,Allston
+7482195,Private room,1103.01,Roslindale
+7499960,Entire home/apt,9815.01,Fenway
+7511737,Entire home/apt,707,South End
+7513605,Entire home/apt,707,South End
+7513906,Entire home/apt,203.02,Beacon Hill
+7514024,Entire home/apt,203.02,Beacon Hill
+7514336,Entire home/apt,203.02,Beacon Hill
+7527149,Entire home/apt,201.01,Beacon Hill
+7531700,Entire home/apt,203.02,Beacon Hill
+7539864,Entire home/apt,1402.02,Hyde Park
+7575052,Entire home/apt,705.02,South End
+7611271,Entire home/apt,603.01,South Boston
+7635616,Entire home/apt,203.02,Beacon Hill
+7637094,Entire home/apt,9818,Jamaica Plain
+7692933,Private room,3.01,Brighton
+7694365,Entire home/apt,707,South End
+7694559,Entire home/apt,707,South End
+7713815,Entire home/apt,203.02,Beacon Hill
+7728499,Entire home/apt,203.02,Beacon Hill
+7832890,Entire home/apt,203.02,Beacon Hill
+7837202,Entire home/apt,203.02,Beacon Hill
+7854872,Entire home/apt,203.02,Beacon Hill
+7856208,Private room,705.02,South End
+7900936,Private room,1402.02,Hyde Park
+7910223,Entire home/apt,1203.01,Jamaica Plain
+7911936,Entire home/apt,203.02,Beacon Hill
+7913309,Entire home/apt,701.04,Downtown
+7916575,Entire home/apt,707,South End
+7920759,Entire home/apt,201.01,Beacon Hill
+7927765,Private room,907,Dorchester
+7934491,Private room,907,Dorchester
+7939556,Private room,907,Dorchester
+7949859,Private room,907,Dorchester
+7984226,Entire home/apt,302,North End
+8014642,Private room,813.02,Roxbury
+8014683,Entire home/apt,701.04,Downtown
+8025718,Entire home/apt,707,South End
+8055839,Entire home/apt,608,South Boston
+8067585,Private room,1202.01,Jamaica Plain
+8082512,Entire home/apt,707,South End
+8112652,Private room,8.04,Allston
+8170181,Entire home/apt,202,Beacon Hill
+8206536,Entire home/apt,707,South End
+8227206,Entire home/apt,305,North End
+8231382,Entire home/apt,502,East Boston
+8381472,Entire home/apt,706,South End
+8390793,Private room,301,North End
+8402408,Private room,709.02,South End
+8403945,Entire home/apt,707,South End
+8483020,Entire home/apt,1304.06,West Roxbury
+8490356,Private room,1402.02,Hyde Park
+8518237,Entire home/apt,4.02,Brighton
+8552338,Private room,1.01,Allston
+8553163,Entire home/apt,106,Back Bay
+8584276,Entire home/apt,101.04,Back Bay
+8596566,Entire home/apt,703.01,South End
+8634599,Private room,1204,Jamaica Plain
+8645254,Private room,1403,Hyde Park
+8720718,Entire home/apt,1206,Jamaica Plain
+8732121,Entire home/apt,203.02,Beacon Hill
+8734707,Private room,814,Roxbury
+8774600,Private room,203.01,West End
+8884103,Private room,203.02,Beacon Hill
+8904297,Private room,1010.02,Mattapan
+8904656,Private room,1010.02,Mattapan
+8908145,Private room,1204,Jamaica Plain
+8923817,Entire home/apt,1204,Jamaica Plain
+8947232,Private room,1005,Dorchester
+9018434,Entire home/apt,1006.01,Dorchester
+9030478,Private room,904,Roxbury
+9078998,Entire home/apt,201.01,Beacon Hill
+9110103,Entire home/apt,1401.07,Hyde Park
+9110708,Entire home/apt,8.05,Allston
+9114896,Entire home/apt,2.01,Brighton
+9130532,Entire home/apt,102.04,Fenway
+9133627,Entire home/apt,203.02,Beacon Hill
+9148781,Entire home/apt,705.02,South End
+9166393,Private room,814,Roxbury
+9216838,Private room,8.05,Allston
+9218312,Private room,1106.07,Roslindale
+9292118,Entire home/apt,1304.02,West Roxbury
+9301075,Private room,1303,West Roxbury
+9340410,Private room,1303,West Roxbury
+9346513,Entire home/apt,108.01,Back Bay
+9349614,Entire home/apt,1202.01,Jamaica Plain
+9349646,Private room,1202.01,Jamaica Plain
+9382898,Private room,501.01,East Boston
+9393163,Private room,101.04,Fenway
+9473816,Entire home/apt,107.02,Back Bay
+9493951,Private room,1006.01,Dorchester
+9494212,Private room,1006.01,Dorchester
+9494511,Private room,1006.01,Dorchester
+9532771,Private room,1204,Jamaica Plain
+9616816,Entire home/apt,804.01,Roxbury
+9685076,Private room,918,Dorchester
+9685085,Private room,1005,Dorchester
+9731479,Entire home/apt,704.02,South End
+9751520,Entire home/apt,512,East Boston
+9813223,Entire home/apt,7.04,Allston
+9834727,Entire home/apt,301,North End
+9878725,Private room,1.01,Allston
+9941923,Entire home/apt,101.04,Fenway
+9970895,Entire home/apt,711.01,South End
+10008626,Entire home/apt,702.02,Chinatown
+10068240,Private room,1006.01,Dorchester
+10123024,Entire home/apt,7.03,Allston
+10132073,Entire home/apt,506,East Boston
+10190260,Private room,804.01,Roxbury
+10249798,Private room,906,Roxbury
+10299047,Entire home/apt,1203.01,Jamaica Plain
+10427199,Entire home/apt,708.02,South End
+10427882,Entire home/apt,707,South End
+10524872,Shared room,4.02,Brighton
+10575430,Entire home/apt,920,Dorchester
+10749312,Entire home/apt,1204,Jamaica Plain
+10787333,Entire home/apt,814,Roxbury
+10835494,Entire home/apt,5.03,Brighton
+10883063,Entire home/apt,812,Jamaica Plain
+11006149,Entire home/apt,809,Mission Hill
+11202183,Entire home/apt,203.02,Beacon Hill
+11240774,Entire home/apt,102.04,Fenway
+11258721,Private room,920,Dorchester
+11271947,Entire home/apt,711.01,South End
+11282071,Private room,702.02,Chinatown
+11313921,Private room,811.02,Mission Hill
+11357756,Entire home/apt,702.01,Downtown
+11370704,Entire home/apt,1202.01,Jamaica Plain
+11376403,Private room,919,Dorchester
+11492423,Private room,607,South Boston
+11521541,Entire home/apt,406,Charlestown
+11592154,Private room,101.04,Fenway
+11639480,Private room,821,Roxbury
+11656698,Entire home/apt,813.02,Roxbury
+11739985,Private room,1205,Jamaica Plain
+11759332,Private room,1005,Dorchester
+11760822,Entire home/apt,5.03,Brighton
+11799953,Entire home/apt,706,South End
+11813641,Entire home/apt,305,North End
+11871190,Shared room,4.02,Brighton
+11973196,Entire home/apt,701.04,Downtown
+12040113,Entire home/apt,1009,Mattapan
+12067685,Entire home/apt,702.02,Chinatown
+12103501,Private room,918,Dorchester
+12170576,Private room,1104.03,Roslindale
+12175961,Private room,1005,Dorchester
+12191871,Entire home/apt,1203.01,Jamaica Plain
+12205324,Entire home/apt,107.01,Back Bay
+12232615,Private room,701.02,Downtown
+12253499,Entire home/apt,7.04,Allston
+12264926,Entire home/apt,108.02,Back Bay
+12269155,Entire home/apt,303.02,Downtown
+12287958,Entire home/apt,705.02,South End
+12301279,Entire home/apt,108.01,Back Bay
+12320063,Private room,810.01,Mission Hill
+12336281,Shared room,4.02,Brighton
+12343708,Private room,918,Dorchester
+12344142,Entire home/apt,504,East Boston
+12351909,Entire home/apt,814,Roxbury
+12372052,Entire home/apt,406,Charlestown
+12382239,Entire home/apt,203.05,West End
+12409042,Private room,8.04,Allston
+12489916,Entire home/apt,108.01,Back Bay
+12492474,Private room,1009,Mattapan
+12496332,Private room,709.01,Roxbury
+12581300,Private room,612.01,South Boston
+12599820,Entire home/apt,301,North End
+12672097,Entire home/apt,104.05,Fenway
+12756776,Entire home/apt,814,Roxbury
+12834650,Private room,2.01,Brighton
+12898177,Entire home/apt,303.02,Downtown
+12899026,Entire home/apt,104.03,Fenway
+12901078,Private room,1009,Mattapan
+12949270,Private room,1204,Jamaica Plain
+12950332,Private room,918,Dorchester
+13032590,Entire home/apt,406,Charlestown
+13044229,Entire home/apt,611.01,South Boston
+13046581,Entire home/apt,1304.04,West Roxbury
+13062783,Private room,810.01,Mission Hill
+13063952,Private room,406,Charlestown
+13077603,Private room,819,Roxbury
+13082258,Private room,104.04,Fenway
+13083058,Entire home/apt,102.04,Fenway
+13091712,Entire home/apt,406,Charlestown
+13166405,Shared room,4.02,Brighton
+13173203,Entire home/apt,304,North End
+13173362,Entire home/apt,106,Back Bay
+13188501,Entire home/apt,202,Beacon Hill
+13189564,Entire home/apt,303.02,Downtown
+13239143,Private room,918,Dorchester
+13239882,Private room,818,Roxbury
+13242393,Private room,918,Dorchester
+13249829,Entire home/apt,202,Beacon Hill
+13249923,Private room,918,Dorchester
+13258244,Private room,819,Roxbury
+13298137,Private room,818,Roxbury
+13333623,Entire home/apt,604,South Boston
+13334098,Entire home/apt,1201.04,Jamaica Plain
+13378923,Entire home/apt,706,South End
+13378936,Entire home/apt,706,South End
+13391640,Entire home/apt,108.01,Back Bay
+13393418,Entire home/apt,507,East Boston
+13394184,Private room,505,East Boston
+13422887,Private room,818,Roxbury
+13428041,Entire home/apt,703.01,South End
+13494185,Entire home/apt,706,South End
+13530359,Private room,8.05,Allston
+13578425,Private room,918,Dorchester
+13594886,Private room,512,East Boston
+13613229,Entire home/apt,1403,Hyde Park
+13613812,Private room,907,Dorchester
+13650313,Entire home/apt,104.03,Fenway
+13657486,Entire home/apt,701.04,Downtown
+13672165,Entire home/apt,612.03,South Boston
+13675884,Private room,918,Dorchester
+13697676,Private room,1402.01,Hyde Park
+13796564,Private room,818,Roxbury
+13797162,Entire home/apt,906,Roxbury
+13810937,Private room,203.01,West End
+13829133,Entire home/apt,1204,Jamaica Plain
+13830152,Private room,406,Charlestown
+13866351,Entire home/apt,919,Dorchester
+13907143,Private room,1402.01,Hyde Park
+13908031,Private room,512,East Boston
+13926284,Entire home/apt,201.01,Beacon Hill
+13951579,Entire home/apt,406,Charlestown
+13959444,Entire home/apt,708.01,Roxbury
+13993185,Entire home/apt,202,Beacon Hill
+14035943,Entire home/apt,304,North End
+14055624,Private room,8.04,Allston
+14057466,Entire home/apt,1204,Jamaica Plain
+14071446,Private room,1204,Jamaica Plain
+14086516,Private room,1009,Mattapan
+14091605,Private room,705.02,South End
+14105971,Entire home/apt,1204,Jamaica Plain
+14109003,Entire home/apt,1207,Jamaica Plain
+14153636,Private room,8.04,Allston
+14186170,Entire home/apt,604,South Boston
+14196181,Entire home/apt,805,Roxbury
+14204600,Entire home/apt,305,North End
+14242888,Private room,1009,Mattapan
+14254537,Entire home/apt,1204,Jamaica Plain
+14414473,Entire home/apt,814,Roxbury
+14426987,Entire home/apt,814,Roxbury
+14452500,Entire home/apt,305,North End
+14460344,Private room,4.01,Brighton
+14470701,Private room,918,Dorchester
+14474114,Private room,1101.06,Jamaica Plain
+14531631,Entire home/apt,1202.01,Jamaica Plain
+14539326,Private room,907,Dorchester
+14566378,Entire home/apt,1204,Jamaica Plain
+14566386,Entire home/apt,1206,Jamaica Plain
+14573951,Entire home/apt,1101.05,Jamaica Plain
+14585335,Entire home/apt,1009,Mattapan
+14600925,Private room,920,Dorchester
+14682931,Private room,813.01,Jamaica Plain
+14686119,Private room,1009,Mattapan
+14704252,Entire home/apt,608,South Boston
+14747561,Private room,918,Dorchester
+14770892,Entire home/apt,705.01,South End
+14778561,Private room,1402.02,Hyde Park
+14799678,Entire home/apt,104.03,Fenway
+14820482,Entire home/apt,703.01,South End
+14868157,Private room,1203.01,Jamaica Plain
+14873100,Private room,612.01,South Boston
+14918032,Entire home/apt,507,East Boston
+14928081,Private room,404.01,Charlestown
+14928333,Private room,608,South Boston
+14943350,Private room,910.01,Dorchester
+14950089,Private room,401,Charlestown
+14950328,Private room,401,Charlestown
+14950476,Private room,404.01,Charlestown
+14970501,Entire home/apt,7.01,Brighton
+14993599,Private room,910.01,Dorchester
+14995433,Entire home/apt,701.04,Downtown
+15016872,Entire home/apt,4.02,Brighton
+15020558,Entire home/apt,403,Charlestown
+15085512,Private room,801,Roxbury
+15122796,Private room,801,Roxbury
+15147053,Entire home/apt,1204,Jamaica Plain
+15148487,Entire home/apt,201.01,Beacon Hill
+15172518,Entire home/apt,101.04,Back Bay
+15177273,Private room,819,Roxbury
+15256830,Private room,910.01,Dorchester
+15281436,Entire home/apt,502,East Boston
+15296865,Entire home/apt,703.02,South End
+15313517,Entire home/apt,910.01,Dorchester
+15342021,Private room,901,Dorchester
+15376003,Private room,604,South Boston
+15405175,Entire home/apt,502,East Boston
+15453527,Private room,819,Roxbury
+15521407,Private room,910.01,Dorchester
+15559436,Entire home/apt,8.05,Allston
+15581608,Entire home/apt,106,Back Bay
+15582062,Entire home/apt,105,Back Bay
+15660279,Entire home/apt,703.02,South End
+15665707,Private room,1402.01,Hyde Park
+15665935,Private room,1402.01,Hyde Park
+15710997,Entire home/apt,922,Dorchester
+15714436,Entire home/apt,512,East Boston
+15773389,Private room,101.04,Fenway
+15819226,Entire home/apt,108.02,Back Bay
+15821724,Entire home/apt,1004,Dorchester
+15832498,Entire home/apt,1206,Jamaica Plain
+15981694,Entire home/apt,102.05,Fenway
+15985435,Entire home/apt,404.01,Charlestown
+16001334,Entire home/apt,108.01,Back Bay
+16013285,Entire home/apt,1006.01,Dorchester
+16040760,Entire home/apt,8.05,Allston
+16121974,Private room,104.04,Fenway
+16148182,Entire home/apt,1403,Hyde Park
+16233671,Private room,406,Charlestown
+16276850,Entire home/apt,606.01,South Boston
+16364879,Private room,406,Charlestown
+16379917,Entire home/apt,1402.01,Hyde Park
+16413314,Private room,814,Roxbury
+16436951,Entire home/apt,201.01,Beacon Hill
+16447567,Private room,916,Dorchester
+16453657,Private room,1005,Dorchester
+16459191,Entire home/apt,107.02,Back Bay
+16464424,Entire home/apt,5.06,Brighton
+16479752,Private room,406,Charlestown
+16515215,Private room,6.04,Allston
+16517776,Private room,406,Charlestown
+16545081,Private room,819,Roxbury
+16671164,Entire home/apt,1005,Dorchester
+16678094,Private room,815,Roxbury
+16692369,Private room,406,Charlestown
+16731118,Private room,916,Dorchester
+16770690,Entire home/apt,1204,Jamaica Plain
+16779363,Entire home/apt,1201.04,Jamaica Plain
+16835622,Shared room,6.04,Allston
+16882031,Private room,922,Dorchester
+16892278,Entire home/apt,1102.01,Roslindale
+16909100,Entire home/apt,1205,Jamaica Plain
+16923467,Private room,1301.01,West Roxbury
+16971718,Entire home/apt,814,Roxbury
+17042433,Entire home/apt,104.03,Fenway
+17063804,Private room,907,Dorchester
+17075037,Entire home/apt,915,Dorchester
+17107742,Entire home/apt,108.02,Back Bay
+17210305,Private room,819,Roxbury
+17222935,Private room,920,Dorchester
+17223845,Private room,920,Dorchester
+17285926,Entire home/apt,703.01,South End
+17296595,Entire home/apt,1204,Jamaica Plain
+17430142,Private room,819,Roxbury
+17463797,Private room,907,Dorchester
+17472272,Entire home/apt,1106.01,West Roxbury
+17476391,Private room,812,Jamaica Plain
+17523133,Private room,1008,Dorchester
+17523630,Entire home/apt,1201.03,Jamaica Plain
+17529340,Entire home/apt,703.01,South End
+17541222,Entire home/apt,814,Roxbury
+17543635,Private room,911,Dorchester
+17559493,Entire home/apt,702.02,Chinatown
+17559756,Entire home/apt,702.02,Chinatown
+17559846,Entire home/apt,701.03,Chinatown
+17567087,Entire home/apt,705.01,South End
+17573922,Entire home/apt,702.02,Chinatown
+17588460,Entire home/apt,104.05,Fenway
+17592876,Entire home/apt,913,Dorchester
+17609053,Entire home/apt,705.02,South End
+17616603,Entire home/apt,708.02,South End
+17676984,Private room,406,Charlestown
+17704067,Private room,918,Dorchester
+17779084,Private room,819,Roxbury
+17791011,Entire home/apt,108.02,Back Bay
+17806747,Entire home/apt,304,North End
+17807912,Entire home/apt,1201.04,Jamaica Plain
+17832598,Entire home/apt,612.03,South Boston
+17849739,Private room,1005,Dorchester
+17907229,Entire home/apt,920,Dorchester
+17927755,Private room,811.02,Mission Hill
+17942707,Entire home/apt,814,Roxbury
+17952482,Private room,916,Dorchester
+17962385,Entire home/apt,707,South End
+17969508,Private room,819,Roxbury
+17974950,Private room,502,East Boston
+17994861,Entire home/apt,708.02,South End
+18023901,Private room,907,Dorchester
+18032982,Entire home/apt,105,Back Bay
+18055117,Private room,919,Dorchester
+18070939,Entire home/apt,107.01,Back Bay
+18159981,Entire home/apt,1005,Dorchester
+18170647,Entire home/apt,5.06,Brighton
+18194673,Private room,1104.03,Roslindale
+18199963,Private room,3.01,Brighton
+18220200,Private room,819,Roxbury
+18240259,Private room,1205,Jamaica Plain
+18290558,Private room,507,East Boston
+18305618,Entire home/apt,1402.01,Hyde Park
+18342681,Private room,506,East Boston
+18342707,Private room,502,East Boston
+18354570,Entire home/apt,108.01,Back Bay
+18396209,Entire home/apt,701.04,Downtown
+18526885,Private room,815,Roxbury
+18557609,Entire home/apt,202,Beacon Hill
+18568481,Entire home/apt,606.02,South Boston Waterfront
+18582571,Entire home/apt,201.01,Beacon Hill
+18584891,Private room,921.01,Dorchester
+18605469,Private room,1008,Dorchester
+18612312,Private room,511.01,East Boston
+18613633,Private room,511.01,East Boston
+18617002,Entire home/apt,712.01,South End
+18656728,Entire home/apt,1203.01,Jamaica Plain
+18736738,Entire home/apt,1301.01,West Roxbury
+18756360,Private room,814,Roxbury
+18777049,Private room,806.01,Roxbury
+18789766,Private room,806.01,Roxbury
+18790023,Private room,1105.02,Roslindale
+18875451,Private room,3.01,Brighton
+18875553,Private room,3.01,Brighton
+18875599,Private room,3.01,Brighton
+18876533,Private room,3.01,Brighton
+18886077,Private room,815,Roxbury
+18898296,Private room,814,Roxbury
+18899037,Private room,814,Roxbury
+18929249,Entire home/apt,406,Charlestown
+18942870,Private room,907,Dorchester
+18945347,Private room,916,Dorchester
+19037094,Entire home/apt,606.03,South Boston Waterfront
+19071875,Entire home/apt,501.01,East Boston
+19100282,Entire home/apt,1201.05,Jamaica Plain
+19103076,Private room,812,Jamaica Plain
+19117781,Private room,922,Dorchester
+19140676,Private room,911,Dorchester
+19149341,Entire home/apt,408.01,Charlestown
+19154786,Entire home/apt,102.06,Fenway
+19174144,Entire home/apt,1202.01,Jamaica Plain
+19182289,Private room,819,Roxbury
+19199379,Entire home/apt,501.01,East Boston
+19209066,Private room,511.01,East Boston
+19225442,Private room,101.04,Back Bay
+19308245,Entire home/apt,202,Beacon Hill
+19310183,Entire home/apt,9813,East Boston
+19356659,Entire home/apt,104.05,Fenway
+19358947,Entire home/apt,702.01,Downtown
+19364110,Private room,809,Mission Hill
+19364446,Private room,2.01,Brighton
+19366533,Private room,1303,West Roxbury
+19373388,Entire home/apt,1005,Dorchester
+19473060,Private room,3.01,Brighton
+19484144,Entire home/apt,1204,Jamaica Plain
+19540224,Entire home/apt,101.04,Fenway
+19574477,Entire home/apt,102.04,Fenway
+19581567,Entire home/apt,401,Charlestown
+19584489,Entire home/apt,701.02,Downtown
+19593368,Entire home/apt,702.01,Downtown
+19727919,Private room,509.01,East Boston
+19735537,Private room,203.04,West End
+19885281,Private room,916,Dorchester
+19904967,Entire home/apt,201.01,Beacon Hill
+19918817,Private room,916,Dorchester
+19969497,Entire home/apt,814,Roxbury
+19996537,Entire home/apt,102.05,Fenway
+19997604,Entire home/apt,101.04,Fenway
+20000347,Entire home/apt,813.02,Roxbury
+20055667,Private room,503,East Boston
+20137039,Entire home/apt,907,Dorchester
+20137476,Private room,202,Beacon Hill
+20152689,Private room,203.02,Beacon Hill
+20229074,Entire home/apt,703.01,South End
+20237145,Entire home/apt,916,Dorchester
+20268369,Private room,503,East Boston
+20269422,Private room,916,Dorchester
+20359898,Entire home/apt,1206,Jamaica Plain
+20406376,Private room,812,Jamaica Plain
+20417844,Private room,607,South Boston
+20420751,Private room,5.03,Brighton
+20446955,Private room,1404,Hyde Park
+20456058,Entire home/apt,7.04,Allston
+20459710,Entire home/apt,809,Mission Hill
+20479416,Private room,509.01,East Boston
+20547874,Private room,5.03,Brighton
+20588785,Private room,702.02,Chinatown
+20634420,Private room,1009,Mattapan
+20649310,Private room,1104.03,Roslindale
+20655696,Entire home/apt,915,Dorchester
+20694962,Private room,7.04,Allston
+20704205,Private room,1304.06,West Roxbury
+20723594,Private room,910.01,Dorchester
+20747657,Private room,1404,Hyde Park
+20754696,Entire home/apt,1201.04,Jamaica Plain
+20772091,Private room,606.04,South Boston Waterfront
+20775116,Entire home/apt,102.04,Fenway
+20785742,Entire home/apt,104.05,Fenway
+20788754,Private room,818,Roxbury
+20812122,Private room,203.04,West End
+20815139,Entire home/apt,406,Charlestown
+20849944,Private room,821,Roxbury
+20868619,Entire home/apt,1.02,Brighton
+20903558,Private room,4.02,Brighton
+20926438,Entire home/apt,9815.01,Fenway
+20978478,Private room,1104.03,Roslindale
+20999140,Entire home/apt,105,Back Bay
+21025191,Private room,1404,Hyde Park
+21096288,Entire home/apt,910.01,Dorchester
+21140575,Private room,919,Dorchester
+21141934,Private room,1005,Dorchester
+21182192,Entire home/apt,703.02,South End
+21185484,Private room,1103.01,Jamaica Plain
+21190750,Entire home/apt,601.01,South Boston
+21230903,Entire home/apt,102.05,Fenway
+21238858,Entire home/apt,7.01,Allston
+21350397,Entire home/apt,705.01,South End
+21369962,Entire home/apt,701.02,Downtown
+21444743,Entire home/apt,107.02,Back Bay
+21445050,Entire home/apt,104.05,Fenway
+21445137,Entire home/apt,202,Beacon Hill
+21445237,Entire home/apt,6.01,Brighton
+21454153,Entire home/apt,608,South Boston
+21484706,Private room,1005,Dorchester
+21486679,Entire home/apt,107.01,Back Bay
+21596829,Entire home/apt,3.01,Brighton
+21597670,Private room,815,Roxbury
+21624391,Entire home/apt,4.01,Brighton
+21661811,Private room,916,Dorchester
+21667214,Private room,907,Dorchester
+21679735,Private room,8.04,Allston
+21679902,Entire home/apt,108.02,Back Bay
+21683291,Private room,1010.02,Mattapan
+21698478,Private room,907,Dorchester
+21701419,Private room,203.01,West End
+21736914,Private room,509.01,East Boston
+21769647,Private room,923,Dorchester
+21779767,Entire home/apt,107.01,Back Bay
+21789235,Entire home/apt,1005,Dorchester
+21799918,Entire home/apt,911,Dorchester
+21800425,Entire home/apt,911,Dorchester
+21802497,Entire home/apt,911,Dorchester
+21815325,Entire home/apt,305,North End
+21824260,Entire home/apt,911,Dorchester
+21824635,Entire home/apt,911,Dorchester
+21824859,Entire home/apt,911,Dorchester
+21826196,Entire home/apt,911,Dorchester
+21826460,Entire home/apt,911,Dorchester
+21826608,Entire home/apt,911,Dorchester
+21897391,Entire home/apt,107.01,Back Bay
+21925988,Private room,406,Charlestown
+21961507,Entire home/apt,1201.04,Jamaica Plain
+22013980,Entire home/apt,1201.05,Jamaica Plain
+22081895,Entire home/apt,606.04,South Boston Waterfront
+22099733,Private room,509.01,East Boston
+22132037,Private room,6.01,Brighton
+22267104,Entire home/apt,601.01,South Boston
+22306805,Entire home/apt,605.01,South Boston
+22327139,Private room,502,East Boston
+22327141,Private room,502,East Boston
+22327142,Private room,509.01,East Boston
+22432082,Private room,1201.05,Jamaica Plain
+22435979,Entire home/apt,705.02,South End
+22627055,Entire home/apt,708.02,South End
+22627141,Entire home/apt,708.02,South End
+22627198,Entire home/apt,706,South End
+22692343,Private room,4.01,Brighton
+22714438,Entire home/apt,705.02,South End
+22768569,Private room,1104.01,Roslindale
+22788158,Entire home/apt,706,South End
+22840213,Entire home/apt,1.02,Brighton
+22845323,Entire home/apt,7.04,Allston
+22859515,Private room,1010.01,Mattapan
+22886713,Entire home/apt,1.02,Brighton
+22918412,Entire home/apt,506,East Boston
+23015741,Entire home/apt,105,Back Bay
+23016377,Shared room,5.03,Brighton
+23017535,Entire home/apt,105,Back Bay
+23017803,Entire home/apt,104.03,Fenway
+23027286,Private room,1010.01,Mattapan
+23027875,Private room,1010.01,Mattapan
+23062683,Entire home/apt,612.04,South Boston Waterfront
+23109832,Entire home/apt,1204,Jamaica Plain
+23127262,Entire home/apt,401,Charlestown
+23128943,Private room,203.05,West End
+23147024,Entire home/apt,810.01,Longwood
+23149016,Entire home/apt,1010.01,Mattapan
+23152798,Entire home/apt,922,Dorchester
+23165210,Entire home/apt,105,Back Bay
+23166408,Entire home/apt,302,North End
+23181189,Private room,203.02,Beacon Hill
+23183205,Entire home/apt,108.02,Back Bay
+23252361,Entire home/apt,304,North End
+23258400,Private room,511.01,East Boston
+23272728,Private room,103,Longwood
+23285785,Entire home/apt,1003,Dorchester
+23287236,Entire home/apt,203.05,West End
+23287239,Entire home/apt,702.02,Chinatown
+23288548,Entire home/apt,702.02,Chinatown
+23289378,Entire home/apt,702.02,Chinatown
+23289684,Entire home/apt,203.01,West End
+23302453,Entire home/apt,702.02,Chinatown
+23302890,Entire home/apt,702.02,Chinatown
+23304072,Entire home/apt,708.02,South End
+23304141,Entire home/apt,706,South End
+23304925,Entire home/apt,7.03,Allston
+23316169,Entire home/apt,814,Roxbury
+23321493,Entire home/apt,203.01,West End
+23375776,Private room,815,Roxbury
+23380501,Private room,819,Roxbury
+23392249,Entire home/apt,702.02,Chinatown
+23393082,Entire home/apt,702.02,Chinatown
+23393395,Entire home/apt,702.02,Chinatown
+23393589,Entire home/apt,702.02,Chinatown
+23394295,Entire home/apt,702.02,Chinatown
+23412602,Entire home/apt,102.04,Fenway
+23483066,Private room,509.01,East Boston
+23487191,Private room,814,Roxbury
+23502271,Entire home/apt,301,North End
+23502542,Private room,303.02,Downtown
+23592161,Entire home/apt,304,North End
+23624354,Entire home/apt,403,Charlestown
+23632539,Entire home/apt,702.02,Chinatown
+23668146,Private room,915,Dorchester
+23687280,Entire home/apt,105,Back Bay
+23687980,Entire home/apt,105,Back Bay
+23761996,Entire home/apt,203.01,West End
+23780136,Entire home/apt,1007,Dorchester
+23790542,Private room,911,Dorchester
+23800657,Entire home/apt,107.02,Back Bay
+23801768,Entire home/apt,512,East Boston
+23805314,Entire home/apt,1106.01,West Roxbury
+23805779,Private room,919,Dorchester
+23822858,Entire home/apt,701.04,Downtown
+23841523,Entire home/apt,203.05,West End
+23842606,Private room,819,Roxbury
+23872975,Entire home/apt,404.01,Charlestown
+23912131,Entire home/apt,203.01,West End
+23918171,Entire home/apt,705.02,South End
+23947734,Private room,1005,Dorchester
+23965606,Entire home/apt,1005,Dorchester
+24032465,Private room,1005,Dorchester
+24034961,Private room,1005,Dorchester
+24035495,Entire home/apt,709.02,South End
+24079621,Entire home/apt,917,Dorchester
+24080196,Private room,910.01,Dorchester
+24087726,Private room,910.01,Dorchester
+24090510,Private room,911,Dorchester
+24094681,Entire home/apt,107.01,Back Bay
+24131246,Entire home/apt,8.05,Allston
+24168312,Entire home/apt,108.02,Back Bay
+24219094,Entire home/apt,9810,Jamaica Plain
+24261049,Entire home/apt,1009,Mattapan
+24265005,Entire home/apt,1201.04,Jamaica Plain
+24277032,Entire home/apt,304,North End
+24324950,Private room,701.04,Downtown
+24325336,Entire home/apt,202,Beacon Hill
+24356120,Entire home/apt,1104.03,Roslindale
+24378766,Entire home/apt,702.01,Downtown
+24401790,Entire home/apt,1203.01,Jamaica Plain
+24412927,Entire home/apt,1010.02,Mattapan
+24471492,Private room,922,Dorchester
+24484501,Entire home/apt,406,Charlestown
+24563107,Entire home/apt,203.01,West End
+24598387,Entire home/apt,612.01,South Boston
+24598890,Private room,1009,Mattapan
+24600107,Entire home/apt,1101.05,Jamaica Plain
+24633212,Private room,809,Mission Hill
+24644312,Shared room,1304.02,West Roxbury
+24645479,Private room,809,Mission Hill
+24647800,Private room,809,Mission Hill
+24749244,Entire home/apt,707,South End
+24756613,Private room,1005,Dorchester
+24783227,Entire home/apt,915,Dorchester
+24829523,Entire home/apt,1009,Mattapan
+24845439,Private room,1203.01,Jamaica Plain
+24865433,Entire home/apt,9815.01,Fenway
+24909410,Entire home/apt,203.05,West End
+24944930,Private room,509.01,East Boston
+24946602,Entire home/apt,1205,Jamaica Plain
+24965806,Entire home/apt,108.02,Back Bay
+24969609,Entire home/apt,5.03,Brighton
+24971621,Private room,1304.02,West Roxbury
+24992422,Entire home/apt,402,Charlestown
+25025114,Private room,922,Dorchester
+25158106,Entire home/apt,702.02,Chinatown
+25266010,Private room,3.02,Brighton
+25284439,Entire home/apt,702.02,Chinatown
+25324358,Private room,1401.05,Hyde Park
+25326962,Private room,504,East Boston
+25328440,Private room,504,East Boston
+25374033,Entire home/apt,701.04,Downtown
+25382635,Private room,203.01,West End
+25416313,Private room,922,Dorchester
+25429787,Private room,1204,Jamaica Plain
+25476466,Entire home/apt,101.04,Fenway
+25520363,Entire home/apt,7.01,Allston
+25531778,Private room,911,Dorchester
+25576444,Entire home/apt,708.02,South End
+25770647,Entire home/apt,701.02,Downtown
+25775084,Private room,1301.01,West Roxbury
+25933888,Entire home/apt,501.01,East Boston
+25947332,Entire home/apt,612.02,South Boston
+25971732,Entire home/apt,106,Back Bay
+25975436,Entire home/apt,106,Back Bay
+26005227,Entire home/apt,703.01,South End
+26012594,Entire home/apt,915,Dorchester
+26013456,Private room,907,Dorchester
+26014903,Entire home/apt,1202.01,Jamaica Plain
+26094005,Private room,1101.04,Roslindale
+26102579,Entire home/apt,512,East Boston
+26104302,Entire home/apt,503,East Boston
+26104687,Entire home/apt,503,East Boston
+26105250,Entire home/apt,503,East Boston
+26105589,Entire home/apt,512,East Boston
+26108847,Entire home/apt,503,East Boston
+26109078,Entire home/apt,503,East Boston
+26109200,Entire home/apt,512,East Boston
+26109264,Entire home/apt,503,East Boston
+26127318,Entire home/apt,101.04,Fenway
+26130154,Private room,811.02,Mission Hill
+26130187,Entire home/apt,304,North End
+26131758,Entire home/apt,503,East Boston
+26132354,Entire home/apt,503,East Boston
+26132566,Entire home/apt,512,East Boston
+26160905,Entire home/apt,1005,Dorchester
+26163695,Private room,1010.02,Mattapan
+26207713,Private room,1207,Jamaica Plain
+26246423,Entire home/apt,1203.01,Jamaica Plain
+26252951,Private room,610,South Boston
+26333739,Entire home/apt,705.01,South End
+26353456,Entire home/apt,1203.01,Jamaica Plain
+26361101,Entire home/apt,707,South End
+26361743,Entire home/apt,106,Back Bay
+26395595,Entire home/apt,1201.04,Jamaica Plain
+26453232,Entire home/apt,1005,Dorchester
+26532751,Private room,1005,Dorchester
+26750505,Private room,915,Dorchester
+26778714,Entire home/apt,705.02,South End
+26828892,Private room,509.01,East Boston
+26849307,Entire home/apt,1402.02,Hyde Park
+26849309,Entire home/apt,1402.02,Hyde Park
+27074605,Private room,1005,Dorchester
+27112752,Entire home/apt,5.06,Brighton
+27158560,Private room,604,South Boston
+27168524,Private room,703.01,South End
+27203329,Private room,504,East Boston
+27251319,Entire home/apt,702.02,Chinatown
+27252588,Entire home/apt,702.02,Chinatown
+27323777,Entire home/apt,202,Beacon Hill
+27339519,Entire home/apt,814,Roxbury
+27371399,Entire home/apt,705.02,South End
+27394276,Private room,1204,Jamaica Plain
+27404136,Entire home/apt,809,Mission Hill
+27501160,Entire home/apt,503,East Boston
+27503398,Entire home/apt,814,Roxbury
+27625974,Entire home/apt,401,Charlestown
+27634728,Entire home/apt,5.03,Brighton
+27661676,Entire home/apt,603.01,South Boston
+27669626,Entire home/apt,702.02,Chinatown
+27784901,Entire home/apt,608,South Boston
+27810970,Private room,818,Roxbury
+27879644,Private room,1402.02,Hyde Park
+27879776,Private room,1402.02,Hyde Park
+27904192,Entire home/apt,203.01,West End
+27906365,Private room,818,Roxbury
+27990313,Private room,1010.02,Mattapan
+27990441,Private room,916,Dorchester
+27990984,Private room,1010.02,Mattapan
+27992316,Entire home/apt,4.01,Brighton
+28014596,Private room,916,Dorchester
+28033271,Private room,910.01,Dorchester
+28036142,Private room,1010.02,Mattapan
+28054656,Private room,922,Dorchester
+28071995,Entire home/apt,1009,Mattapan
+28161172,Private room,1402.02,Hyde Park
+28202522,Private room,922,Dorchester
+28241815,Entire home/apt,106,Back Bay
+28242815,Entire home/apt,105,Back Bay
+28298193,Entire home/apt,305,North End
+28302081,Private room,817,Roxbury
+28360335,Entire home/apt,703.02,South End
+28440873,Entire home/apt,301,North End
+28462016,Private room,1402.02,Hyde Park
+28578655,Private room,1402.02,Hyde Park
+28635984,Entire home/apt,901,Dorchester
+28749495,Private room,818,Roxbury
+28756042,Private room,923,Dorchester
+28770914,Private room,923,Dorchester
+28843171,Private room,818,Roxbury
+28867304,Private room,818,Roxbury
+28912741,Entire home/apt,608,South Boston
+28915006,Private room,511.01,East Boston
+28992318,Private room,6.04,Allston
+29010062,Private room,1.01,Allston
+29037205,Entire home/apt,7.01,Allston
+29064530,Private room,7.04,Allston
+29070339,Entire home/apt,7.01,Allston
+29082416,Private room,1.02,Brighton
+29134558,Private room,510,East Boston
+29213280,Private room,7.04,Allston
+29216550,Private room,1304.04,West Roxbury
+29217663,Private room,1304.04,West Roxbury
+29217949,Private room,1303,West Roxbury
+29218070,Private room,1304.04,West Roxbury
+29237161,Entire home/apt,1201.05,Jamaica Plain
+29256695,Entire home/apt,1206,Jamaica Plain
+29261726,Private room,502,East Boston
+29276776,Entire home/apt,909.01,Dorchester
+29281816,Entire home/apt,1203.01,Jamaica Plain
+29282726,Entire home/apt,1203.01,Jamaica Plain
+29303003,Private room,3.02,Brighton
+29351720,Entire home/apt,102.06,Fenway
+29360278,Entire home/apt,102.06,Fenway
+29366852,Entire home/apt,604,South Boston
+29390698,Entire home/apt,601.01,South Boston
+29489346,Private room,701.04,Downtown
+29513275,Entire home/apt,107.02,Back Bay
+29571217,Private room,1.02,Brighton
+29607084,Entire home/apt,406,Charlestown
+29635339,Entire home/apt,701.02,Downtown
+29664067,Private room,813.01,Jamaica Plain
+29666262,Private room,1204,Jamaica Plain
+29672850,Entire home/apt,106,Back Bay
+29682500,Entire home/apt,108.02,Back Bay
+29702825,Entire home/apt,606.01,South Boston
+29704910,Entire home/apt,701.04,Downtown
+29728508,Entire home/apt,512,East Boston
+29739809,Entire home/apt,703.02,South End
+29831173,Private room,2.02,Brighton
+29833651,Private room,1010.02,Mattapan
+29860624,Private room,818,Roxbury
+29878773,Private room,1007,Dorchester
+29898702,Hotel room,107.02,Back Bay
+29904919,Private room,907,Dorchester
+29929936,Private room,2.02,Brighton
+29931687,Private room,2.02,Brighton
+29982429,Private room,106,Back Bay
+30017679,Entire home/apt,1203.01,Jamaica Plain
+30036357,Hotel room,107.02,Back Bay
+30037052,Hotel room,107.02,Back Bay
+30060158,Hotel room,107.02,Back Bay
+30104396,Private room,106,Back Bay
+30249816,Entire home/apt,1301.01,West Roxbury
+30253609,Private room,904,Roxbury
+30268517,Private room,916,Dorchester
+30273160,Private room,9811,Jamaica Plain
+30286717,Private room,1101.05,Jamaica Plain
+30297660,Private room,1010.01,Mattapan
+30349609,Entire home/apt,502,East Boston
+30390378,Entire home/apt,703.02,South End
+30397078,Entire home/apt,106,Back Bay
+30425726,Entire home/apt,911,Dorchester
+30484530,Private room,1.01,Allston
+30516467,Entire home/apt,606.01,South Boston
+30523091,Entire home/apt,603.01,South Boston
+30533497,Private room,814,Roxbury
+30564539,Private room,1.01,Allston
+30690519,Entire home/apt,701.04,Downtown
+30740992,Entire home/apt,104.04,Fenway
+30858812,Entire home/apt,1101.06,Jamaica Plain
+30929175,Entire home/apt,703.01,South End
+30955485,Private room,702.02,Chinatown
+30964172,Entire home/apt,406,Charlestown
+30981268,Entire home/apt,104.05,Fenway
+31014488,Entire home/apt,1201.03,Jamaica Plain
+31039035,Private room,1009,Mattapan
+31140376,Private room,4.02,Brighton
+31185088,Entire home/apt,1005,Dorchester
+31262321,Entire home/apt,1005,Dorchester
+31484506,Entire home/apt,203.05,West End
+31487769,Entire home/apt,1206,Jamaica Plain
+31591262,Hotel room,107.02,Back Bay
+31636229,Entire home/apt,1401.05,Hyde Park
+31675705,Private room,1101.05,Jamaica Plain
+31764931,Entire home/apt,201.01,Beacon Hill
+31851278,Entire home/apt,922,Dorchester
+31930647,Entire home/apt,201.01,Beacon Hill
+31932336,Entire home/apt,201.01,Beacon Hill
+31952528,Entire home/apt,202,Beacon Hill
+31983770,Entire home/apt,202,Beacon Hill
+31984461,Entire home/apt,202,Beacon Hill
+32012250,Entire home/apt,505,East Boston
+32016148,Private room,914,Dorchester
+32062716,Entire home/apt,203.01,West End
+32102560,Private room,915,Dorchester
+32197096,Entire home/apt,924,Dorchester
+32281287,Entire home/apt,9811,Jamaica Plain
+32309630,Entire home/apt,5.03,Brighton
+32330038,Entire home/apt,701.02,Downtown
+32330134,Entire home/apt,701.04,Downtown
+32330288,Private room,701.04,Downtown
+32330401,Private room,701.04,Downtown
+32330465,Entire home/apt,701.04,Downtown
+32330630,Entire home/apt,701.02,Downtown
+32331200,Entire home/apt,701.02,Downtown
+32366109,Entire home/apt,808.01,Mission Hill
+32402053,Private room,814,Roxbury
+32492523,Entire home/apt,202,Beacon Hill
+32546785,Entire home/apt,1304.02,West Roxbury
+32570059,Private room,703.01,South End
+32592761,Entire home/apt,101.04,Fenway
+32593358,Entire home/apt,1404,Hyde Park
+32605604,Entire home/apt,814,Roxbury
+32632691,Private room,7.03,Allston
+32660989,Entire home/apt,303.01,Downtown
+32687520,Private room,703.02,South End
+32696884,Entire home/apt,1201.04,Jamaica Plain
+32723746,Private room,917,Dorchester
+32764882,Entire home/apt,202,Beacon Hill
+32826985,Private room,401,Charlestown
+32831946,Private room,703.01,South End
+32835031,Private room,701.04,Downtown
+32835033,Private room,701.02,Downtown
+32861080,Entire home/apt,703.02,South End
+32861086,Private room,703.02,South End
+32861088,Entire home/apt,703.01,South End
+32890952,Entire home/apt,1105.01,Roslindale
+32924105,Entire home/apt,818,Roxbury
+32940171,Private room,818,Roxbury
+33013194,Private room,801,Roxbury
+33016886,Private room,906,Roxbury
+33017230,Private room,906,Roxbury
+33156025,Private room,922,Dorchester
+33158116,Private room,906,Roxbury
+33162602,Private room,904,Roxbury
+33196944,Entire home/apt,701.02,Downtown
+33196946,Entire home/apt,701.02,Downtown
+33247115,Entire home/apt,608,South Boston
+33345730,Entire home/apt,105,Back Bay
+33351298,Hotel room,1.02,Brighton
+33351516,Hotel room,1.02,Brighton
+33351519,Hotel room,1.02,Brighton
+33351754,Hotel room,1.02,Brighton
+33352056,Hotel room,1.02,Brighton
+33352066,Hotel room,1.02,Brighton
+33352469,Hotel room,703.02,Downtown
+33352470,Hotel room,703.02,Downtown
+33352471,Hotel room,703.02,South End
+33352473,Hotel room,703.02,Downtown
+33352475,Hotel room,703.02,Downtown
+33352477,Hotel room,703.02,Downtown
+33403880,Entire home/apt,1103.01,Jamaica Plain
+33439464,Entire home/apt,606.01,South Boston
+33440102,Entire home/apt,6.01,Brighton
+33467259,Entire home/apt,5.03,Brighton
+33487000,Private room,4.02,Brighton
+33530646,Entire home/apt,304,North End
+33549373,Entire home/apt,904,Roxbury
+33552900,Entire home/apt,1.02,Brighton
+33586214,Private room,1206,Jamaica Plain
+33638927,Entire home/apt,915,Dorchester
+33672980,Private room,923,Dorchester
+33682929,Private room,1005,Dorchester
+33711194,Entire home/apt,910.01,Dorchester
+33855934,Private room,4.01,Brighton
+33878316,Private room,8.04,Allston
+33959759,Entire home/apt,1009,Mattapan
+33966889,Entire home/apt,922,Dorchester
+34020206,Entire home/apt,801,Roxbury
+34020828,Entire home/apt,922,Dorchester
+34133759,Entire home/apt,106,Back Bay
+34149470,Private room,703.01,South End
+34242176,Private room,509.01,East Boston
+34279736,Entire home/apt,702.02,Chinatown
+34283601,Entire home/apt,504,East Boston
+34342016,Private room,3.02,Brighton
+34422276,Entire home/apt,1005,Dorchester
+34548072,Private room,1005,Dorchester
+34670613,Private room,1404,Hyde Park
+34685709,Entire home/apt,911,Dorchester
+34709924,Hotel room,703.02,Downtown
+34782422,Entire home/apt,406,Charlestown
+34936983,Entire home/apt,201.01,Beacon Hill
+34974052,Entire home/apt,106,Back Bay
+35001266,Entire home/apt,6.04,Allston
+35027638,Private room,507,East Boston
+35038113,Entire home/apt,1202.01,Jamaica Plain
+35061366,Entire home/apt,9818,Jamaica Plain
+35077924,Private room,815,Roxbury
+35079257,Private room,815,Roxbury
+35080086,Private room,814,Roxbury
+35084086,Private room,711.01,South End
+35084498,Private room,711.01,South End
+35161089,Entire home/apt,201.01,Beacon Hill
+35165584,Private room,711.01,South End
+35185474,Entire home/apt,201.01,Beacon Hill
+35238309,Entire home/apt,911,Dorchester
+35292308,Entire home/apt,102.04,Fenway
+35346496,Entire home/apt,1204,Jamaica Plain
+35405830,Private room,1304.02,West Roxbury
+35407404,Private room,1304.02,West Roxbury
+35467463,Entire home/apt,202,Beacon Hill
+35481543,Entire home/apt,202,Beacon Hill
+35547817,Private room,8.04,Allston
+35569935,Entire home/apt,4.01,Brighton
+35576389,Private room,818,Roxbury
+35579707,Private room,506,East Boston
+35583138,Entire home/apt,911,Dorchester
+35605277,Entire home/apt,5.02,Brighton
+35682239,Private room,107.02,Back Bay
+35682265,Private room,703.02,South End
+35682280,Private room,703.02,South End
+35682301,Private room,703.02,South End
+35682313,Private room,703.02,Downtown
+35684143,Entire home/apt,3.02,Brighton
+35689708,Private room,512,East Boston
+35693019,Private room,504,East Boston
+35714054,Private room,1401.07,Hyde Park
+35807024,Entire home/apt,8.05,Allston
+35836205,Entire home/apt,510,East Boston
+35915047,Entire home/apt,106,Back Bay
+35915207,Private room,707,South End
+35916196,Private room,106,Back Bay
+35968526,Private room,8.06,Allston
+35988307,Entire home/apt,701.04,Downtown
+36000657,Private room,910.01,Dorchester
+36002387,Private room,810.01,Longwood
+36002511,Private room,103,Longwood
+36036045,Private room,703.01,South End
+36036348,Private room,703.01,South End
+36036766,Private room,703.02,South End
+36036969,Private room,703.01,South End
+36037367,Private room,703.02,South End
+36037475,Private room,703.01,South End
+36037605,Entire home/apt,703.02,South End
+36060921,Private room,814,Roxbury
+36106804,Entire home/apt,906,Roxbury
+36108417,Private room,604,South Boston
+36113606,Private room,8.04,Allston
+36114933,Private room,8.04,Allston
+36145390,Entire home/apt,915,Dorchester
+36165607,Private room,915,Dorchester
+36179054,Entire home/apt,303.02,Downtown
+36237250,Private room,703.01,South End
+36263543,Private room,9818,Jamaica Plain
+36269353,Private room,701.02,Downtown
+36269751,Private room,701.02,Downtown
+36282491,Private room,703.01,South End
+36291586,Entire home/apt,108.02,Back Bay
+36370563,Entire home/apt,408.01,Charlestown
+36527382,Private room,5.03,Brighton
+36528015,Entire home/apt,1105.01,Roslindale
+36529493,Private room,5.02,Brighton
+36551230,Entire home/apt,814,Roxbury
+36558814,Private room,203.01,West End
+36565227,Entire home/apt,610,South Boston
+36587216,Private room,608,South Boston
+36596382,Entire home/apt,1106.07,Roslindale
+36621324,Entire home/apt,4.02,Brighton
+36621741,Entire home/apt,5.06,Brighton
+36621742,Private room,5.06,Brighton
+36622810,Entire home/apt,408.01,Charlestown
+36636807,Private room,3.01,Brighton
+36664626,Entire home/apt,606.04,South Boston Waterfront
+36687285,Entire home/apt,711.01,South End
+36733785,Private room,501.01,East Boston
+36766020,Private room,3.01,Brighton
+36766327,Entire home/apt,504,East Boston
+36829501,Entire home/apt,9818,Jamaica Plain
+36911216,Entire home/apt,7.03,Allston
+36977405,Private room,914,Dorchester
+37021350,Private room,911,Dorchester
+37023405,Entire home/apt,303.01,Downtown
+37068313,Entire home/apt,606.01,South Boston
+37092569,Entire home/apt,817,Roxbury
+37145151,Entire home/apt,504,East Boston
+37152036,Entire home/apt,201.01,Beacon Hill
+37253472,Entire home/apt,203.02,Beacon Hill
+37296051,Entire home/apt,105,Back Bay
+37310884,Entire home/apt,203.01,West End
+37367776,Private room,605.01,South Boston
+37386681,Entire home/apt,809,Mission Hill
+37461678,Private room,1401.06,Roslindale
+37583345,Entire home/apt,9812.02,South Boston Waterfront
+37589402,Private room,512,East Boston
+37630538,Entire home/apt,108.01,Back Bay
+37655502,Entire home/apt,608,South Boston
+37676016,Entire home/apt,921.01,Dorchester
+37709158,Entire home/apt,105,Back Bay
+37709576,Entire home/apt,304,North End
+37718326,Entire home/apt,701.02,Downtown
+37748817,Private room,4.02,Brighton
+37749165,Entire home/apt,701.02,Downtown
+37768013,Private room,817,Roxbury
+37823144,Entire home/apt,1203.01,Jamaica Plain
+37834744,Entire home/apt,612.04,South Boston Waterfront
+37889446,Entire home/apt,703.01,South End
+37912471,Entire home/apt,403,Charlestown
+37968399,Private room,915,Dorchester
+37968480,Private room,915,Dorchester
+38018931,Entire home/apt,203.02,Beacon Hill
+38106963,Entire home/apt,105,Back Bay
+38127199,Private room,605.01,South Boston
+38127491,Entire home/apt,7.03,Allston
+38127591,Entire home/apt,8.05,Allston
+38128077,Entire home/apt,8.05,Allston
+38128388,Entire home/apt,8.05,Allston
+38128807,Entire home/apt,7.03,Allston
+38129448,Entire home/apt,8.05,Allston
+38129565,Entire home/apt,8.05,Allston
+38130228,Entire home/apt,7.03,Allston
+38130377,Entire home/apt,7.03,Allston
+38130459,Entire home/apt,7.03,Allston
+38130674,Entire home/apt,7.03,Allston
+38131730,Entire home/apt,8.05,Allston
+38131851,Entire home/apt,8.05,Allston
+38132369,Shared room,817,Roxbury
+38134488,Entire home/apt,809,Mission Hill
+38148436,Private room,608,South Boston
+38164617,Private room,608,South Boston
+38168575,Entire home/apt,105,Back Bay
+38178173,Entire home/apt,105,Back Bay
+38179248,Entire home/apt,8.05,Allston
+38215747,Entire home/apt,5.03,Brighton
+38274887,Entire home/apt,101.04,Back Bay
+38279103,Private room,7.04,Allston
+38285740,Entire home/apt,712.01,South End
+38301053,Private room,916,Dorchester
+38311023,Private room,915,Dorchester
+38352489,Entire home/apt,708.02,South End
+38377602,Entire home/apt,815,Roxbury
+38382899,Entire home/apt,1206,Jamaica Plain
+38384895,Private room,1206,Jamaica Plain
+38385157,Private room,1206,Jamaica Plain
+38385300,Private room,812,Jamaica Plain
+38385513,Private room,812,Jamaica Plain
+38388360,Private room,4.02,Brighton
+38391365,Private room,7.04,Allston
+38391507,Private room,7.04,Allston
+38401070,Private room,7.04,Allston
+38401377,Private room,6.04,Allston
+38407434,Private room,706,South End
+38412757,Private room,7.04,Allston
+38422629,Entire home/apt,703.02,South End
+38433315,Private room,703.02,South End
+38513768,Entire home/apt,105,Back Bay
+38513869,Entire home/apt,101.04,Back Bay
+38643550,Entire home/apt,105,Back Bay
+38647730,Entire home/apt,511.01,East Boston
+38697559,Private room,1206,Jamaica Plain
+38849678,Entire home/apt,2.02,Brighton
+38908913,Private room,1101.04,Roslindale
+38915419,Entire home/apt,101.04,Back Bay
+38923194,Private room,1101.04,Roslindale
+38971283,Entire home/apt,1207,Jamaica Plain
+39029259,Private room,6.04,Allston
+39045406,Entire home/apt,814,Roxbury
+39056629,Private room,906,Roxbury
+39129814,Entire home/apt,612.01,South Boston
+39199659,Private room,906,Roxbury
+39202885,Entire home/apt,1403,Hyde Park
+39242821,Private room,703.01,South End
+39250599,Private room,2.02,Brighton
+39281476,Entire home/apt,814,Roxbury
+39390476,Entire home/apt,711.01,South End
+39394763,Entire home/apt,610,South Boston
+39536784,Entire home/apt,920,Dorchester
+39575894,Entire home/apt,1202.01,Jamaica Plain
+39604562,Entire home/apt,108.02,Back Bay
+39610492,Entire home/apt,605.01,South Boston
+39621523,Entire home/apt,703.01,South End
+39633100,Entire home/apt,203.05,West End
+39686073,Entire home/apt,9815.01,Fenway
+39700598,Private room,906,Roxbury
+39732562,Entire home/apt,5.03,Brighton
+39772695,Private room,907,Dorchester
+39788966,Entire home/apt,510,East Boston
+39818553,Private room,708.02,South End
+39820036,Private room,107.02,Back Bay
+39893738,Entire home/apt,1005,Dorchester
+39907832,Entire home/apt,101.04,Back Bay
+39908091,Entire home/apt,6.01,Brighton
+39966579,Private room,803,Roxbury
+39971003,Private room,703.02,South End
+39984676,Entire home/apt,1201.05,Jamaica Plain
+39999591,Entire home/apt,608,South Boston
+40012368,Entire home/apt,105,Back Bay
+40023655,Private room,1005,Dorchester
+40035442,Private room,703.01,South End
+40117803,Entire home/apt,703.02,South End
+40173876,Entire home/apt,703.01,South End
+40283311,Private room,404.01,Charlestown
+40287437,Private room,1011.02,Mattapan
+40299766,Entire home/apt,107.01,Back Bay
+40348580,Entire home/apt,701.02,Downtown
+40364138,Shared room,808.01,Mission Hill
+40365393,Entire home/apt,604,South Boston
+40375320,Entire home/apt,701.04,Downtown
+40375467,Entire home/apt,701.04,Downtown
+40423797,Entire home/apt,606.01,South Boston
+40424027,Private room,6.04,Allston
+40424417,Private room,7.04,Allston
+40429003,Entire home/apt,107.02,Back Bay
+40439006,Entire home/apt,1005,Dorchester
+40481158,Private room,811.02,Mission Hill
+40493715,Entire home/apt,5.06,Brighton
+40493790,Entire home/apt,5.03,Brighton
+40512451,Private room,703.02,South End
+40524063,Private room,711.01,South End
+40538985,Entire home/apt,705.02,South End
+40540109,Private room,7.04,Allston
+40567601,Entire home/apt,5.02,Brighton
+40572099,Entire home/apt,5.03,Brighton
+40593640,Entire home/apt,904,Roxbury
+40594409,Entire home/apt,904,Roxbury
+40613042,Entire home/apt,610,South Boston
+40617998,Entire home/apt,5.06,Brighton
+40622067,Entire home/apt,5.03,Brighton
+40677987,Entire home/apt,1201.05,Jamaica Plain
+40729917,Entire home/apt,203.05,West End
+40730006,Entire home/apt,203.05,West End
+40802120,Entire home/apt,703.02,South End
+40843926,Private room,703.02,South End
+40844698,Private room,703.02,South End
+40845057,Private room,703.01,South End
+40882667,Private room,703.02,South End
+40919597,Private room,203.04,West End
+40919810,Private room,203.04,West End
+40919826,Private room,203.05,West End
+40932844,Entire home/apt,303.02,Downtown
+40971703,Entire home/apt,203.05,West End
+40983705,Private room,1011.02,Mattapan
+40991111,Entire home/apt,502,East Boston
+40991291,Entire home/apt,502,East Boston
+41076686,Entire home/apt,106,Back Bay
+41076804,Entire home/apt,106,Back Bay
+41102403,Entire home/apt,303.02,Downtown
+41102453,Entire home/apt,303.02,Downtown
+41102476,Entire home/apt,303.02,Downtown
+41105586,Entire home/apt,702.01,Downtown
+41171395,Private room,907,Dorchester
+41186382,Private room,203.01,West End
+41231372,Entire home/apt,705.01,South End
+41262612,Private room,917,Dorchester
+41360515,Entire home/apt,201.01,Beacon Hill
+41374463,Entire home/apt,501.01,East Boston
+41397978,Private room,707,South End
+41415978,Entire home/apt,919,Dorchester
+41474462,Entire home/apt,705.02,South End
+41482444,Entire home/apt,1101.05,Jamaica Plain
+41624190,Private room,906,Roxbury
+41645010,Private room,912,Dorchester
+41645478,Private room,912,Dorchester
+41666852,Private room,912,Dorchester
+41706168,Private room,912,Dorchester
+41763645,Entire home/apt,813.02,Roxbury
+41765021,Entire home/apt,703.01,South End
+41785294,Entire home/apt,702.02,Chinatown
+41785374,Entire home/apt,702.02,Chinatown
+41785889,Entire home/apt,702.02,Chinatown
+41799161,Private room,907,Dorchester
+41876953,Private room,907,Dorchester
+41876957,Private room,907,Dorchester
+41878371,Private room,813.02,Roxbury
+41903226,Entire home/apt,702.02,Chinatown
+41907280,Private room,912,Dorchester
+41915144,Entire home/apt,303.02,Downtown
+41925155,Entire home/apt,106,Back Bay
+41949153,Entire home/apt,8.06,Allston
+41949812,Entire home/apt,810.01,Mission Hill
+41953347,Entire home/apt,106,Back Bay
+41953381,Entire home/apt,106,Back Bay
+41963580,Entire home/apt,1102.01,Roslindale
+41963633,Entire home/apt,1102.01,Roslindale
+41974765,Private room,701.02,Downtown
+41992786,Entire home/apt,1005,Dorchester
+41997583,Entire home/apt,403,Charlestown
+42065556,Hotel room,106,Back Bay
+42080145,Entire home/apt,202,Beacon Hill
+42080174,Entire home/apt,702.02,Chinatown
+42080205,Entire home/apt,702.02,Chinatown
+42116996,Entire home/apt,701.04,Downtown
+42195053,Entire home/apt,202,Beacon Hill
+42239298,Private room,1402.02,Hyde Park
+42249143,Entire home/apt,4.01,Brighton
+42328735,Shared room,1203.01,Jamaica Plain
+42355564,Private room,906,Roxbury
+42358001,Private room,1203.01,Jamaica Plain
+42379429,Private room,1203.01,Jamaica Plain
+42404818,Private room,812,Jamaica Plain
+42434040,Private room,814,Roxbury
+42487067,Entire home/apt,915,Dorchester
+42517503,Entire home/apt,1008,Dorchester
+42530390,Private room,912,Dorchester
+42534167,Private room,912,Dorchester
+42535434,Private room,912,Dorchester
+42591679,Private room,906,Roxbury
+42708089,Entire home/apt,6.01,Brighton
+42708127,Entire home/apt,6.01,Brighton
+42708174,Entire home/apt,6.01,Brighton
+42739841,Private room,911,Dorchester
+42750772,Private room,915,Dorchester
+42750982,Private room,910.01,Dorchester
+42807059,Entire home/apt,603.01,South Boston
+42833412,Entire home/apt,806.01,Roxbury
+42833990,Entire home/apt,806.01,Roxbury
+42834234,Entire home/apt,806.01,Roxbury
+42834617,Entire home/apt,814,Roxbury
+42870400,Private room,907,Dorchester
+42870430,Private room,907,Dorchester
+42882611,Private room,711.01,South End
+42915815,Private room,203.05,West End
+42930687,Entire home/apt,105,Back Bay
+42937960,Private room,202,Beacon Hill
+42951433,Private room,911,Dorchester
+42952307,Private room,911,Dorchester
+42959813,Private room,912,Dorchester
+42960879,Private room,911,Dorchester
+42961112,Private room,915,Dorchester
+42962143,Private room,911,Dorchester
+42975758,Private room,8.06,Allston
+42980478,Private room,1.01,Allston
+43012146,Private room,906,Roxbury
+43020977,Private room,911,Dorchester
+43031462,Private room,910.01,Dorchester
+43032465,Entire home/apt,704.02,South End
+43032495,Entire home/apt,704.02,South End
+43032512,Entire home/apt,704.02,South End
+43068840,Private room,6.04,Allston
+43069940,Entire home/apt,303.01,Downtown
+43071363,Entire home/apt,703.01,South End
+43097089,Entire home/apt,612.01,South Boston
+43102656,Private room,612.01,South Boston
+43121210,Entire home/apt,612.04,South Boston Waterfront
+43124341,Private room,4.02,Brighton
+43131613,Private room,104.08,Fenway
+43137799,Private room,302,North End
+43163112,Private room,104.03,Fenway
+43205956,Entire home/apt,922,Dorchester
+43206047,Private room,9818,Jamaica Plain
+43267987,Entire home/apt,702.02,Chinatown
+43275982,Entire home/apt,702.02,Chinatown
+43276219,Entire home/apt,702.02,Chinatown
+43276852,Entire home/apt,702.02,Chinatown
+43277216,Entire home/apt,702.02,Chinatown
+43277439,Entire home/apt,702.02,Chinatown
+43300494,Entire home/apt,702.02,Chinatown
+43301136,Entire home/apt,702.02,Chinatown
+43301292,Entire home/apt,702.02,Chinatown
+43301511,Entire home/apt,702.02,Chinatown
+43394464,Entire home/apt,1201.04,Jamaica Plain
+43566910,Entire home/apt,612.04,South Boston Waterfront
+43596061,Private room,5.03,Brighton
+43605329,Entire home/apt,107.01,Back Bay
+43673971,Entire home/apt,107.02,Back Bay
+43690440,Entire home/apt,911,Dorchester
+43690671,Entire home/apt,911,Dorchester
+43690782,Entire home/apt,911,Dorchester
+43715032,Hotel room,703.02,South End
+43757873,Entire home/apt,406,Charlestown
+43806155,Entire home/apt,203.05,West End
+43833357,Entire home/apt,408.01,Charlestown
+43861872,Entire home/apt,201.01,Beacon Hill
+43899519,Entire home/apt,815,Roxbury
+43913326,Entire home/apt,702.02,Chinatown
+43921650,Entire home/apt,702.02,Chinatown
+43921666,Entire home/apt,702.02,Chinatown
+43957058,Entire home/apt,702.02,Chinatown
+43957067,Entire home/apt,702.02,Chinatown
+43957080,Entire home/apt,702.02,Chinatown
+43977877,Entire home/apt,703.02,South End
+43994299,Private room,406,Charlestown
+44014524,Entire home/apt,702.01,Downtown
+44053258,Entire home/apt,702.02,Chinatown
+44058140,Entire home/apt,814,Roxbury
+44058785,Entire home/apt,702.02,Chinatown
+44060070,Entire home/apt,702.02,Chinatown
+44060731,Entire home/apt,702.02,Chinatown
+44131827,Entire home/apt,702.02,Chinatown
+44132244,Entire home/apt,702.02,Chinatown
+44132493,Entire home/apt,702.02,Chinatown
+44132871,Entire home/apt,702.02,Chinatown
+44133273,Entire home/apt,702.02,Chinatown
+44133942,Entire home/apt,702.02,Chinatown
+44134617,Entire home/apt,702.02,Chinatown
+44134875,Entire home/apt,702.02,Chinatown
+44135035,Entire home/apt,702.02,Chinatown
+44135040,Entire home/apt,408.01,Charlestown
+44135317,Entire home/apt,702.02,Chinatown
+44135482,Entire home/apt,702.02,Chinatown
+44135642,Entire home/apt,702.02,Chinatown
+44135845,Entire home/apt,702.02,Chinatown
+44135980,Entire home/apt,702.02,Chinatown
+44136170,Entire home/apt,702.02,Chinatown
+44136328,Entire home/apt,702.02,Chinatown
+44146793,Entire home/apt,702.02,Chinatown
+44146948,Entire home/apt,702.02,Chinatown
+44147204,Entire home/apt,702.02,Chinatown
+44203028,Entire home/apt,402,Charlestown
+44207601,Private room,708.02,South End
+44242670,Entire home/apt,106,Back Bay
+44261204,Entire home/apt,108.02,Back Bay
+44262044,Entire home/apt,701.04,Downtown
+44340294,Entire home/apt,1105.01,Roslindale
+44355337,Private room,814,Roxbury
+44356157,Private room,203.04,West End
+44426167,Private room,907,Dorchester
+44483556,Private room,907,Dorchester
+44522245,Entire home/apt,201.01,Beacon Hill
+44549370,Entire home/apt,5.06,Brighton
+44740904,Entire home/apt,606.03,South Boston Waterfront
+44776954,Entire home/apt,606.03,South Boston Waterfront
+44776967,Entire home/apt,606.03,South Boston Waterfront
+44820346,Private room,1007,Dorchester
+44821182,Private room,1008,Dorchester
+44824639,Entire home/apt,702.01,Downtown
+44824831,Entire home/apt,702.01,Downtown
+44906627,Entire home/apt,705.02,South End
+45028281,Entire home/apt,1205,Jamaica Plain
+45031773,Entire home/apt,5.06,Brighton
+45069092,Entire home/apt,1204,Jamaica Plain
+45095953,Entire home/apt,702.01,Downtown
+45096003,Entire home/apt,606.03,South Boston Waterfront
+45096017,Entire home/apt,606.03,South Boston Waterfront
+45112213,Entire home/apt,801,Roxbury
+45133862,Entire home/apt,4.02,Brighton
+45141028,Entire home/apt,704.02,South End
+45141056,Entire home/apt,704.02,South End
+45235650,Entire home/apt,102.06,Fenway
+45253366,Entire home/apt,302,North End
+45256497,Entire home/apt,104.03,Fenway
+45311024,Entire home/apt,809,Mission Hill
+45329963,Entire home/apt,304,North End
+45346226,Shared room,703.02,South End
+45349148,Private room,702.01,Downtown
+45354353,Private room,8.04,Allston
+45354387,Private room,8.06,Allston
+45354534,Private room,8.04,Allston
+45422003,Entire home/apt,702.01,Downtown
+45440353,Entire home/apt,9813,East Boston
+45443503,Entire home/apt,606.03,South Boston Waterfront
+45449241,Private room,702.01,Downtown
+45493742,Entire home/apt,701.02,Downtown
+45493951,Entire home/apt,701.02,Downtown
+45494260,Entire home/apt,701.02,Downtown
+45501019,Entire home/apt,503,East Boston
+45501951,Entire home/apt,701.02,Downtown
+45502178,Entire home/apt,701.02,Downtown
+45502853,Entire home/apt,408.01,Charlestown
+45529756,Private room,911,Dorchester
+45531129,Entire home/apt,104.03,Fenway
+45531759,Entire home/apt,104.05,Fenway
+45539554,Entire home/apt,701.02,Downtown
+45539765,Entire home/apt,701.02,Downtown
+45542821,Entire home/apt,701.02,Downtown
+45543316,Entire home/apt,701.02,Downtown
+45543382,Entire home/apt,701.02,Downtown
+45632722,Entire home/apt,406,Charlestown
+45641345,Private room,1101.04,Roslindale
+45652898,Entire home/apt,1201.03,Jamaica Plain
+45658966,Private room,1101.04,Roslindale
+45675549,Entire home/apt,701.02,Downtown
+45676233,Entire home/apt,701.02,Downtown
+45678417,Private room,4.01,Brighton
+45679998,Entire home/apt,704.02,South End
+45680010,Entire home/apt,104.03,Fenway
+45680018,Entire home/apt,104.03,Fenway
+45680039,Entire home/apt,203.05,West End
+45689038,Entire home/apt,701.04,Downtown
+45689053,Entire home/apt,702.02,Chinatown
+45689060,Entire home/apt,701.04,Downtown
+45689076,Entire home/apt,701.04,Downtown
+45689110,Entire home/apt,701.04,Downtown
+45689125,Entire home/apt,701.04,Downtown
+45689363,Entire home/apt,701.04,Downtown
+45689388,Entire home/apt,701.04,Downtown
+45698782,Entire home/apt,512,East Boston
+45699854,Entire home/apt,512,East Boston
+45699883,Entire home/apt,512,East Boston
+45717383,Entire home/apt,406,Charlestown
+45726239,Entire home/apt,712.01,South End
+45786202,Private room,102.06,Fenway
+45828592,Entire home/apt,305,North End
+45844741,Entire home/apt,916,Dorchester
+45860458,Entire home/apt,108.02,Back Bay
+45863993,Entire home/apt,509.01,East Boston
+45928000,Entire home/apt,702.01,Downtown
+45948516,Entire home/apt,910.01,Dorchester
+45972855,Entire home/apt,813.01,Jamaica Plain
+45984708,Entire home/apt,703.02,South End
+45986472,Entire home/apt,512,East Boston
+45988903,Entire home/apt,512,East Boston
+45989572,Entire home/apt,512,East Boston
+45990475,Entire home/apt,512,East Boston
+45999950,Entire home/apt,512,East Boston
+46000101,Entire home/apt,512,East Boston
+46000223,Entire home/apt,512,East Boston
+46000458,Entire home/apt,512,East Boston
+46005070,Entire home/apt,512,East Boston
+46005073,Entire home/apt,512,East Boston
+46006191,Entire home/apt,512,East Boston
+46006469,Entire home/apt,512,East Boston
+46037756,Entire home/apt,406,Charlestown
+46051711,Entire home/apt,5.02,Brighton
+46074186,Entire home/apt,102.06,Fenway
+46074220,Entire home/apt,102.05,Fenway
+46078424,Private room,906,Roxbury
+46085675,Entire home/apt,102.05,Fenway
+46100310,Entire home/apt,102.05,Fenway
+46107420,Entire home/apt,8.05,Allston
+46117175,Entire home/apt,104.08,Fenway
+46135135,Entire home/apt,301,North End
+46190639,Entire home/apt,301,North End
+46231756,Entire home/apt,503,East Boston
+46232976,Hotel room,203.05,West End
+46237380,Private room,303.02,Downtown
+46241939,Entire home/apt,709.02,South End
+46326658,Entire home/apt,104.04,Fenway
+46326668,Entire home/apt,104.04,Fenway
+46332155,Entire home/apt,1302,West Roxbury
+46376416,Private room,102.05,Fenway
+46418775,Private room,102.06,Fenway
+46419095,Private room,102.06,Fenway
+46427592,Entire home/apt,1201.03,Jamaica Plain
+46445272,Entire home/apt,102.06,Fenway
+46527422,Private room,102.06,Fenway
+46529051,Private room,911,Dorchester
+46529422,Private room,102.06,Fenway
+46529601,Private room,102.06,Fenway
+46529824,Private room,102.06,Fenway
+46575998,Entire home/apt,701.02,Downtown
+46576175,Private room,701.04,Downtown
+46576290,Private room,701.02,Downtown
+46579459,Entire home/apt,701.02,Downtown
+46580146,Entire home/apt,3.02,Brighton
+46601936,Entire home/apt,203.01,West End
+46660059,Entire home/apt,104.08,Fenway
+46696466,Entire home/apt,203.04,West End
+46697368,Entire home/apt,203.01,West End
+46873714,Entire home/apt,202,Beacon Hill
+46915451,Entire home/apt,201.01,Beacon Hill
+46925307,Entire home/apt,4.01,Brighton
+46928289,Entire home/apt,5.06,Brighton
+46964831,Entire home/apt,701.02,Downtown
+46965461,Entire home/apt,701.02,Downtown
+46966358,Entire home/apt,701.02,Downtown
+46982246,Entire home/apt,701.02,Downtown
+46982433,Entire home/apt,701.02,Downtown
+46982800,Entire home/apt,701.02,Downtown
+46983441,Entire home/apt,701.02,Downtown
+46983650,Entire home/apt,701.02,Downtown
+46984210,Entire home/apt,701.04,Downtown
+46984660,Entire home/apt,701.02,Downtown
+46988955,Entire home/apt,108.02,Back Bay
+46991477,Entire home/apt,305,North End
+47090495,Entire home/apt,702.01,Downtown
+47091672,Entire home/apt,6.03,Brighton
+47091700,Entire home/apt,6.03,Brighton
+47092175,Entire home/apt,6.03,Brighton
+47092198,Entire home/apt,6.03,Brighton
+47092230,Entire home/apt,6.03,Brighton
+47092243,Entire home/apt,6.03,Brighton
+47092332,Entire home/apt,6.03,Brighton
+47094818,Entire home/apt,6.03,Brighton
+47097863,Entire home/apt,702.02,Chinatown
+47137042,Entire home/apt,1106.07,Roslindale
+47183492,Entire home/apt,301,North End
+47205103,Entire home/apt,8.05,Allston
+47205524,Entire home/apt,8.05,Allston
+47205962,Entire home/apt,7.03,Allston
+47206121,Entire home/apt,8.05,Allston
+47216060,Private room,506,East Boston
+47217287,Entire home/apt,8.05,Allston
+47272572,Private room,104.04,Fenway
+47331829,Entire home/apt,301,North End
+47353361,Entire home/apt,401,Charlestown
+47353854,Entire home/apt,916,Dorchester
+47354776,Entire home/apt,917,Dorchester
+47355090,Entire home/apt,917,Dorchester
+47356077,Entire home/apt,917,Dorchester
+47373862,Entire home/apt,701.04,Downtown
+47374298,Entire home/apt,701.04,Downtown
+47374576,Entire home/apt,701.04,Downtown
+47374701,Entire home/apt,701.04,Downtown
+47374978,Entire home/apt,701.04,Downtown
+47384208,Entire home/apt,701.04,Downtown
+47384387,Entire home/apt,701.04,Downtown
+47384475,Entire home/apt,701.04,Downtown
+47384597,Entire home/apt,701.04,Downtown
+47384885,Entire home/apt,701.04,Downtown
+47385123,Entire home/apt,705.01,South End
+47406533,Entire home/apt,608,South Boston
+47407295,Entire home/apt,701.04,Downtown
+47407478,Entire home/apt,701.04,Downtown
+47408174,Entire home/apt,701.04,Downtown
+47408663,Entire home/apt,701.04,Downtown
+47425133,Entire home/apt,102.06,Fenway
+47426948,Entire home/apt,107.01,Back Bay
+47441090,Entire home/apt,806.01,Roxbury
+47487652,Entire home/apt,701.04,Downtown
+47492421,Entire home/apt,701.04,Downtown
+47536459,Entire home/apt,920,Dorchester
+47567526,Entire home/apt,1004,Dorchester
+47576607,Entire home/apt,107.02,Back Bay
+47770530,Entire home/apt,201.01,Beacon Hill
+47775251,Private room,201.01,Beacon Hill
+47780618,Entire home/apt,510,East Boston
+47786467,Entire home/apt,1206,Jamaica Plain
+47812533,Entire home/apt,303.02,Downtown
+47867613,Entire home/apt,605.01,South Boston
+47873448,Entire home/apt,502,East Boston
+47890883,Entire home/apt,1006.03,Dorchester
+47907306,Private room,102.06,Fenway
+47907508,Private room,102.06,Fenway
+47907616,Private room,102.06,Fenway
+47952948,Entire home/apt,711.01,South End
+47953387,Entire home/apt,509.01,East Boston
+47954520,Entire home/apt,703.02,Downtown
+47987715,Entire home/apt,701.02,Downtown
+47999268,Entire home/apt,5.03,Brighton
+48000343,Entire home/apt,701.04,Downtown
+48000570,Entire home/apt,701.04,Downtown
+48001395,Entire home/apt,202,Beacon Hill
+48001583,Entire home/apt,108.02,Back Bay
+48001788,Entire home/apt,106,Back Bay
+48001906,Entire home/apt,301,North End
+48014877,Entire home/apt,701.02,Downtown
+48014985,Entire home/apt,701.02,Downtown
+48015070,Entire home/apt,702.01,Downtown
+48015562,Entire home/apt,702.02,Chinatown
+48015728,Entire home/apt,701.02,Downtown
+48015810,Entire home/apt,701.02,Downtown
+48015886,Entire home/apt,702.01,Downtown
+48016221,Entire home/apt,201.01,Beacon Hill
+48016238,Entire home/apt,711.01,South End
+48018582,Entire home/apt,304,North End
+48026506,Entire home/apt,701.02,Downtown
+48027058,Entire home/apt,107.02,Back Bay
+48027264,Entire home/apt,106,Back Bay
+48027391,Entire home/apt,701.02,Downtown
+48027607,Entire home/apt,701.02,Downtown
+48027808,Entire home/apt,301,North End
+48030134,Entire home/apt,9803,Roxbury
+48040052,Private room,1.01,Allston
+48080557,Entire home/apt,701.02,Downtown
+48080614,Entire home/apt,305,North End
+48091769,Entire home/apt,711.01,South End
+48092931,Entire home/apt,305,North End
+48093039,Entire home/apt,101.04,Fenway
+48093229,Entire home/apt,101.04,Fenway
+48103324,Entire home/apt,701.04,Downtown
+48103622,Entire home/apt,303.02,Downtown
+48103833,Entire home/apt,701.04,Downtown
+48107926,Entire home/apt,606.01,South Boston
+48107968,Entire home/apt,809,Mission Hill
+48110328,Private room,1101.06,Jamaica Plain
+48112272,Private room,4.01,Brighton
+48115849,Private room,4.01,Brighton
+48119145,Private room,4.01,Brighton
+48120609,Private room,8.04,Allston
+48122230,Entire home/apt,101.04,Back Bay
+48131435,Entire home/apt,703.02,South End
+48149056,Entire home/apt,1205,Jamaica Plain
+48173950,Entire home/apt,1401.07,Hyde Park
+48206409,Entire home/apt,303.02,Downtown
+48210616,Private room,4.02,Brighton
+48210680,Entire home/apt,901,Dorchester
+48231177,Entire home/apt,701.02,Downtown
+48243795,Private room,4.02,Brighton
+48244238,Private room,4.02,Brighton
+48246588,Entire home/apt,5.03,Brighton
+48246976,Entire home/apt,701.04,Downtown
+48248044,Entire home/apt,701.02,Downtown
+48282351,Entire home/apt,108.02,Back Bay
+48285608,Entire home/apt,701.04,Downtown
+48297633,Entire home/apt,301,North End
+48298464,Entire home/apt,705.02,South End
+48300372,Private room,510,East Boston
+48300526,Private room,510,East Boston
+48300619,Private room,509.01,East Boston
+48329199,Entire home/apt,1101.06,Jamaica Plain
+48357656,Entire home/apt,406,Charlestown
+48361088,Private room,701.02,Downtown
+48364663,Entire home/apt,814,Mission Hill
+48365518,Private room,907,Dorchester
+48394518,Entire home/apt,814,Roxbury
+48394920,Private room,814,Roxbury
+48399405,Entire home/apt,809,Mission Hill
+48403559,Private room,2.01,Brighton
+48423808,Entire home/apt,203.02,Beacon Hill
+48439840,Entire home/apt,303.02,Downtown
+48450883,Entire home/apt,202,Beacon Hill
+48454886,Entire home/apt,101.04,Back Bay
+48464723,Entire home/apt,912,Dorchester
+48466008,Entire home/apt,709.02,South End
+48488417,Entire home/apt,702.02,Chinatown
+48530677,Entire home/apt,701.02,Downtown
+48558413,Private room,5.06,Brighton
+48559363,Private room,5.05,Brighton
+48562692,Entire home/apt,907,Dorchester
+48585748,Entire home/apt,1106.07,Roslindale
+48597887,Entire home/apt,708.01,Roxbury
+48597894,Entire home/apt,708.01,Roxbury
+48597943,Entire home/apt,708.01,Roxbury
+48597948,Entire home/apt,708.01,Roxbury
+48597957,Entire home/apt,708.01,Roxbury
+48601192,Entire home/apt,701.04,Downtown
+48601455,Entire home/apt,303.02,Downtown
+48601985,Entire home/apt,303.02,Downtown
+48602602,Entire home/apt,303.02,Downtown
+48611199,Entire home/apt,911,Dorchester
+48641606,Entire home/apt,1011.01,Mattapan
+48675718,Entire home/apt,1102.01,Roslindale
+48713521,Entire home/apt,101.04,Fenway
+48730619,Private room,902,Dorchester
+48730960,Private room,902,Dorchester
+48731143,Private room,902,Dorchester
+48739565,Entire home/apt,612.04,South Boston Waterfront
+48748471,Entire home/apt,502,East Boston
+48748798,Entire home/apt,502,East Boston
+48764211,Entire home/apt,709.02,South End
+48771117,Private room,1403,Hyde Park
+48788607,Private room,510,East Boston
+48788842,Private room,510,East Boston
+48802286,Entire home/apt,612.01,South Boston
+48805065,Entire home/apt,701.02,Downtown
+48805748,Entire home/apt,701.04,Downtown
+48806117,Private room,907,Dorchester
+48806121,Private room,907,Dorchester
+48807191,Entire home/apt,701.04,Downtown
+48809197,Entire home/apt,701.02,Downtown
+48825405,Entire home/apt,808.01,Mission Hill
+48869229,Private room,819,Roxbury
+48881055,Entire home/apt,102.05,Fenway
+48883519,Entire home/apt,702.01,Downtown
+48883658,Entire home/apt,915,Dorchester
+48905210,Entire home/apt,920,Dorchester
+48926365,Entire home/apt,606.01,South Boston
+48926379,Entire home/apt,606.01,South Boston
+48926392,Entire home/apt,606.01,South Boston
+48926432,Entire home/apt,606.01,South Boston
+48940511,Private room,815,Roxbury
+48941504,Private room,819,Roxbury
+48942888,Private room,819,Roxbury
+48952329,Private room,819,Roxbury
+48954003,Entire home/apt,701.02,Downtown
+48954898,Private room,701.02,Downtown
+48960170,Private room,1004,Dorchester
+48960486,Private room,1004,Dorchester
+48960619,Private room,1004,Dorchester
+48960774,Entire home/apt,1004,Dorchester
+48961025,Private room,1004,Dorchester
+48971352,Entire home/apt,7.01,Allston
+48997821,Entire home/apt,1105.01,Roslindale
+49012571,Entire home/apt,1205,Jamaica Plain
+49024263,Entire home/apt,201.01,Beacon Hill
+49024833,Entire home/apt,101.04,Back Bay
+49041122,Entire home/apt,304,North End
+49051734,Entire home/apt,922,Dorchester
+49067845,Entire home/apt,1009,Mattapan
+49075129,Entire home/apt,201.01,Beacon Hill
+49076097,Entire home/apt,922,Dorchester
+49076821,Entire home/apt,703.02,Downtown
+49077632,Entire home/apt,910.01,Dorchester
+49099902,Entire home/apt,911,Dorchester
+49126810,Entire home/apt,201.01,Beacon Hill
+49126882,Entire home/apt,107.01,Back Bay
+49127943,Entire home/apt,911,Dorchester
+49128400,Entire home/apt,1203.01,Jamaica Plain
+49188782,Entire home/apt,102.04,Fenway
+49188871,Entire home/apt,102.04,Fenway
+49188886,Entire home/apt,102.04,Fenway
+49188948,Entire home/apt,102.04,Fenway
+49192216,Private room,1101.05,Jamaica Plain
+49194329,Entire home/apt,201.01,Beacon Hill
+49201633,Entire home/apt,102.04,Fenway
+49227111,Private room,907,Dorchester
+49257300,Private room,703.02,South End
+49258187,Shared room,703.02,South End
+49258627,Private room,703.01,South End
+49306861,Entire home/apt,305,North End
+49313516,Entire home/apt,202,Beacon Hill
+49319706,Private room,711.01,South End
+49362534,Private room,4.02,Brighton
+49364349,Private room,4.02,Brighton
+49364638,Entire home/apt,102.05,Fenway
+49378244,Private room,1007,Dorchester
+49380252,Entire home/apt,907,Dorchester
+49424441,Entire home/apt,701.02,Downtown
+49425157,Entire home/apt,501.01,East Boston
+49458996,Entire home/apt,102.06,Fenway
+49463334,Entire home/apt,303.01,Downtown
+49475364,Entire home/apt,303.02,Downtown
+49484066,Private room,3.01,Brighton
+49485216,Entire home/apt,3.01,Brighton
+49487023,Entire home/apt,302,North End
+49499728,Entire home/apt,303.01,Downtown
+49499760,Private room,4.02,Brighton
+49502344,Entire home/apt,6.03,Brighton
+49512414,Entire home/apt,702.01,Downtown
+49516205,Entire home/apt,702.01,Downtown
+49517949,Entire home/apt,303.01,Downtown
+49541030,Entire home/apt,703.02,South End
+49563625,Entire home/apt,911,Dorchester
+49567118,Entire home/apt,702.01,Downtown
+49567991,Entire home/apt,814,Roxbury
+49571907,Entire home/apt,1302,West Roxbury
+49584172,Private room,1010.01,Mattapan
+49610522,Entire home/apt,102.06,Fenway
+49610778,Entire home/apt,702.02,Chinatown
+49638279,Entire home/apt,814,Roxbury
+49639865,Entire home/apt,108.02,Back Bay
+49641165,Entire home/apt,107.01,Back Bay
+49714366,Entire home/apt,815,Roxbury
+49715280,Entire home/apt,814,Roxbury
+49716208,Entire home/apt,814,Roxbury
+49730420,Entire home/apt,814,Roxbury
+49749352,Private room,608,South Boston
+49800523,Entire home/apt,104.03,Fenway
+49812726,Entire home/apt,201.01,Beacon Hill
+49916971,Entire home/apt,708.01,Roxbury
+49916983,Entire home/apt,4.02,Brighton
+49917068,Entire home/apt,106,Back Bay
+49918081,Entire home/apt,6.01,Brighton
+49941156,Private room,819,Roxbury
+49945328,Private room,4.02,Brighton
+49959608,Entire home/apt,916,Dorchester
+49996009,Private room,1005,Dorchester
+49998870,Entire home/apt,1006.01,Dorchester
+50007180,Private room,1006.01,Dorchester
+50009640,Private room,1005,Dorchester
+50009772,Private room,1006.01,Dorchester
+50009924,Private room,1005,Dorchester
+50017083,Entire home/apt,105,Back Bay
+50017182,Entire home/apt,105,Back Bay
+50031855,Entire home/apt,604,South Boston
+50032574,Entire home/apt,605.01,South Boston
+50042062,Entire home/apt,105,Back Bay
+50051655,Entire home/apt,605.01,South Boston
+50078989,Entire home/apt,604,South Boston
+50079025,Entire home/apt,604,South Boston
+50080921,Entire home/apt,604,South Boston
+50084140,Entire home/apt,512,East Boston
+50084542,Entire home/apt,512,East Boston
+50084994,Entire home/apt,512,East Boston
+50085332,Entire home/apt,512,East Boston
+50123443,Entire home/apt,604,South Boston
+50123512,Entire home/apt,604,South Boston
+50171555,Entire home/apt,701.02,Downtown
+50174682,Entire home/apt,702.01,Downtown
+50186733,Private room,5.06,Brighton
+50187850,Private room,1204,Jamaica Plain
+50193759,Entire home/apt,305,North End
+50194533,Entire home/apt,701.04,Downtown
+50194793,Entire home/apt,702.02,Chinatown
+50197218,Entire home/apt,507,East Boston
+50205719,Entire home/apt,702.02,Chinatown
+50206794,Entire home/apt,702.02,Chinatown
+50207629,Entire home/apt,702.02,Chinatown
+50209175,Entire home/apt,702.02,Chinatown
+50210809,Entire home/apt,702.02,Chinatown
+50211422,Entire home/apt,702.02,Chinatown
+50245981,Entire home/apt,301,North End
+50247613,Entire home/apt,702.01,Downtown
+50262105,Entire home/apt,701.02,Downtown
+50264962,Entire home/apt,702.02,Chinatown
+50282574,Entire home/apt,702.02,Chinatown
+50283962,Entire home/apt,702.02,Chinatown
+50306168,Entire home/apt,701.04,Downtown
+50325521,Entire home/apt,1401.02,Hyde Park
+50338863,Entire home/apt,810.01,Longwood
+50341639,Entire home/apt,706,South End
+50359377,Entire home/apt,810.01,Mission Hill
+50359591,Entire home/apt,810.01,Mission Hill
+50386523,Entire home/apt,105,Back Bay
+50386543,Entire home/apt,105,Back Bay
+50390642,Private room,8.04,Allston
+50392987,Private room,1.01,Allston
+50393798,Entire home/apt,509.01,East Boston
+50397482,Entire home/apt,509.01,East Boston
+50398371,Entire home/apt,803,Roxbury
+50416070,Entire home/apt,810.01,Mission Hill
+50416639,Entire home/apt,810.01,Mission Hill
+50461294,Private room,1304.02,West Roxbury
+50463949,Entire home/apt,9818,Jamaica Plain
+50467770,Private room,2.02,Brighton
+50562977,Entire home/apt,5.02,Brighton
+50563099,Entire home/apt,703.02,South End
+50563127,Entire home/apt,703.02,South End
+50573372,Private room,8.04,Allston
+50608358,Entire home/apt,101.04,Back Bay
+50608389,Entire home/apt,5.02,Brighton
+50608396,Entire home/apt,304,North End
+50661496,Entire home/apt,102.04,Fenway
+50677319,Entire home/apt,8.04,Allston
+50696753,Entire home/apt,701.02,Downtown
+50721021,Private room,817,Roxbury
+50730611,Entire home/apt,703.02,South End
+50731729,Entire home/apt,1010.02,Mattapan
+50744430,Private room,3.01,Brighton
+50770780,Entire home/apt,814,Roxbury
+50772498,Private room,4.02,Brighton
+50870667,Private room,101.04,Fenway
+50874201,Entire home/apt,512,East Boston
+50879406,Entire home/apt,701.02,Downtown
+50898388,Private room,101.04,Fenway
+50898544,Private room,101.04,Fenway
+50898660,Private room,101.04,Fenway
+50917545,Entire home/apt,203.02,Beacon Hill
+50919398,Entire home/apt,1004,Dorchester
+50996559,Private room,814,Roxbury
+51017675,Private room,8.06,Allston
+51035250,Entire home/apt,810.01,Longwood
+51066227,Private room,1403,Hyde Park
+51067847,Entire home/apt,203.02,Beacon Hill
+51072005,Entire home/apt,511.01,East Boston
+51086141,Private room,9818,Jamaica Plain
+51086366,Private room,9818,Jamaica Plain
+51143502,Entire home/apt,1005,Dorchester
+51143720,Entire home/apt,202,Beacon Hill
+51154191,Entire home/apt,301,North End
+51173009,Entire home/apt,506,East Boston
+51176342,Private room,101.04,Fenway
+51190850,Private room,814,Roxbury
+51192155,Private room,814,Roxbury
+51218046,Entire home/apt,1009,Mattapan
+51229537,Entire home/apt,4.01,Brighton
+51234805,Private room,9815.01,Fenway
+51274775,Entire home/apt,6.03,Brighton
+51274818,Entire home/apt,6.03,Brighton
+51279945,Entire home/apt,708.02,South End
+51284572,Entire home/apt,701.04,Downtown
+51300156,Entire home/apt,101.04,Back Bay
+51307010,Entire home/apt,305,North End
+51312245,Entire home/apt,709.02,South End
+51320323,Entire home/apt,708.02,South End
+51320970,Entire home/apt,703.01,South End
+51324293,Entire home/apt,708.02,South End
+51324936,Entire home/apt,6.04,Allston
+51329008,Entire home/apt,8.04,Allston
+51329497,Entire home/apt,6.01,Allston
+51341795,Entire home/apt,102.06,Fenway
+51346469,Entire home/apt,708.02,South End
+51346781,Entire home/apt,708.02,South End
+51346962,Entire home/apt,708.02,South End
+51347022,Entire home/apt,706,South End
+51347133,Entire home/apt,708.02,South End
+51367349,Entire home/apt,503,East Boston
+51375228,Entire home/apt,919,Dorchester
+51402086,Private room,1.02,Brighton
+51417227,Entire home/apt,6.04,Allston
+51424954,Entire home/apt,703.01,South End
+51425756,Entire home/apt,703.01,South End
+51426626,Private room,703.02,South End
+51427362,Entire home/apt,703.01,South End
+51434034,Entire home/apt,305,North End
+51536008,Private room,914,Dorchester
+51537117,Entire home/apt,1010.02,Mattapan
+51555199,Entire home/apt,706,South End
+51557278,Entire home/apt,705.02,South End
+51557452,Entire home/apt,709.02,South End
+51562101,Private room,1.02,Brighton
+51572681,Entire home/apt,6.03,Brighton
+51572775,Entire home/apt,708.01,Roxbury
+51572785,Entire home/apt,708.01,Roxbury
+51572791,Entire home/apt,6.03,Brighton
+51573185,Entire home/apt,708.01,Roxbury
+51595864,Entire home/apt,701.02,Downtown
+51613428,Private room,1.01,Allston
+51619254,Entire home/apt,702.02,Chinatown
+51621253,Entire home/apt,702.02,Chinatown
+51626666,Entire home/apt,5.02,Brighton
+51633385,Entire home/apt,702.02,Chinatown
+51633862,Entire home/apt,512,East Boston
+51635398,Entire home/apt,512,East Boston
+51639653,Entire home/apt,5.02,Brighton
+51644354,Private room,8.04,Allston
+51654389,Private room,1.02,Brighton
+51681154,Entire home/apt,102.05,Fenway
+51695358,Entire home/apt,706,South End
+51709919,Private room,814,Roxbury
+51709920,Private room,814,Roxbury
+51709928,Private room,814,Roxbury
+51710933,Entire home/apt,510,East Boston
+51711675,Entire home/apt,201.01,Beacon Hill
+51721621,Private room,920,Dorchester
+51721946,Entire home/apt,6.03,Brighton
+51722040,Entire home/apt,6.03,Brighton
+51722050,Private room,4.02,Brighton
+51723791,Private room,8.05,Allston
+51724000,Private room,8.04,Allston
+51728708,Private room,3.01,Brighton
+51729341,Private room,3.01,Brighton
+51729676,Private room,3.01,Brighton
+51731513,Private room,907,Dorchester
+51747209,Entire home/apt,303.02,Downtown
+51759433,Private room,3.02,Brighton
+51760247,Entire home/apt,304,North End
+51783130,Entire home/apt,1203.01,Jamaica Plain
+51799762,Entire home/apt,1207,Jamaica Plain
+51804426,Private room,907,Dorchester
+51810948,Entire home/apt,301,North End
+51812329,Entire home/apt,106,Back Bay
+51824163,Entire home/apt,202,Beacon Hill
+51827678,Entire home/apt,1005,Dorchester
+51838132,Entire home/apt,708.01,Roxbury
+51846253,Entire home/apt,703.01,South End
+51850846,Entire home/apt,813.01,Jamaica Plain
+51872976,Entire home/apt,106,Back Bay
+51879873,Entire home/apt,708.02,South End
+51909400,Entire home/apt,818,Roxbury
+51944717,Entire home/apt,922,Dorchester
+51979378,Entire home/apt,709.02,South End
+52025181,Private room,506,East Boston
+52046024,Entire home/apt,705.01,South End
+52060181,Entire home/apt,8.06,Allston
+52065756,Entire home/apt,612.03,South Boston
+52069412,Entire home/apt,1102.01,Roslindale
+52085163,Entire home/apt,701.02,Downtown
+52085396,Entire home/apt,701.02,Downtown
+52093011,Entire home/apt,1206,Jamaica Plain
+52107205,Entire home/apt,702.01,Downtown
+52112631,Entire home/apt,7.03,Allston
+52113003,Entire home/apt,701.02,Downtown
+52113324,Entire home/apt,512,East Boston
+52124041,Entire home/apt,1008,Dorchester
+52161120,Entire home/apt,911,Dorchester
+52164968,Private room,511.01,East Boston
+52205576,Private room,102.04,Fenway
+52234647,Entire home/apt,102.04,Fenway
+52247132,Private room,1403,Hyde Park
+52249525,Entire home/apt,711.01,South End
+52253773,Entire home/apt,201.01,Beacon Hill
+52264392,Private room,1403,Hyde Park
+52285741,Entire home/apt,813.02,Roxbury
+52312207,Entire home/apt,708.01,Roxbury
+52358493,Entire home/apt,301,North End
+52358553,Entire home/apt,301,North End
+52358561,Entire home/apt,612.04,South Boston Waterfront
+52360274,Entire home/apt,301,North End
+52360279,Entire home/apt,711.01,South End
+52367380,Private room,818,Roxbury
+52367763,Private room,818,Roxbury
+52367950,Private room,106,Back Bay
+52376819,Entire home/apt,605.01,South Boston
+52381144,Entire home/apt,301,North End
+52384026,Private room,106,Back Bay
+52384493,Entire home/apt,301,North End
+52389631,Entire home/apt,911,Dorchester
+52421831,Entire home/apt,1002,Dorchester
+52421929,Private room,106,Back Bay
+52422200,Private room,106,Back Bay
+52422480,Private room,106,Back Bay
+52422690,Private room,106,Back Bay
+52422789,Private room,106,Back Bay
+52425384,Entire home/apt,1204,Jamaica Plain
+52453541,Entire home/apt,1005,Dorchester
+52468803,Entire home/apt,705.01,South End
+52468920,Entire home/apt,804.01,Roxbury
+52491654,Entire home/apt,1204,Jamaica Plain
+52516299,Private room,907,Dorchester
+52531349,Private room,401,Charlestown
+52537112,Entire home/apt,820,Roxbury
+52585555,Private room,8.04,Allston
+52592047,Private room,8.04,Allston
+52605162,Private room,814,Roxbury
+52613030,Private room,8.04,Allston
+52614016,Private room,8.06,Allston
+52615785,Entire home/apt,701.02,Downtown
+52615817,Entire home/apt,701.04,Downtown
+52630071,Entire home/apt,1008,Dorchester
+52631635,Private room,6.03,Brighton
+52636956,Private room,907,Dorchester
+52637370,Entire home/apt,305,North End
+52653198,Private room,1304.02,West Roxbury
+52672205,Entire home/apt,915,Dorchester
+52680602,Entire home/apt,6.03,Brighton
+52680751,Entire home/apt,304,North End
+52681618,Entire home/apt,304,North End
+52682307,Entire home/apt,304,North End
+52700883,Private room,4.01,Brighton
+52740721,Entire home/apt,817,Roxbury
+52747167,Entire home/apt,605.01,South Boston
+52769148,Private room,4.01,Brighton
+52777068,Private room,4.01,Brighton
+52779830,Private room,4.01,Brighton
+52782975,Private room,1206,Jamaica Plain
+52813403,Entire home/apt,703.02,South End
+52835308,Private room,5.06,Brighton
+52835378,Entire home/apt,809,Mission Hill
+52835695,Entire home/apt,810.01,Longwood
+52835965,Entire home/apt,810.01,Mission Hill
+52841676,Private room,4.01,Brighton
+52842002,Private room,5.06,Brighton
+52845327,Entire home/apt,907,Dorchester
+52872801,Private room,5.06,Brighton
+52883886,Entire home/apt,303.02,Downtown
+52891675,Entire home/apt,612.04,South Boston Waterfront
+52891687,Entire home/apt,612.04,South Boston Waterfront
+52904633,Private room,1.02,Brighton
+52912139,Entire home/apt,608,South Boston
+52919260,Entire home/apt,911,Dorchester
+52919269,Entire home/apt,911,Dorchester
+52928460,Entire home/apt,608,South Boston
+52928532,Entire home/apt,608,South Boston
+52928607,Entire home/apt,712.01,South End
+52950613,Entire home/apt,106,Back Bay
+52988852,Entire home/apt,709.02,South End
+53005757,Entire home/apt,703.01,South End
+53010917,Private room,911,Dorchester
+53026499,Private room,107.01,Back Bay
+53026691,Private room,107.01,Back Bay
+53026920,Private room,107.01,Back Bay
+53027109,Private room,107.01,Back Bay
+53027280,Private room,107.01,Back Bay
+53027387,Private room,107.01,Back Bay
+53030044,Private room,107.01,Back Bay
+53043999,Entire home/apt,8.04,Allston
+53056956,Entire home/apt,711.01,South End
+53056962,Entire home/apt,711.01,South End
+53062424,Entire home/apt,707,South End
+53079400,Entire home/apt,509.01,East Boston
+53080905,Entire home/apt,4.01,Brighton
+53090937,Entire home/apt,408.01,Charlestown
+53102896,Entire home/apt,203.01,West End
+53102957,Entire home/apt,203.01,West End
+53109444,Entire home/apt,709.02,South End
+53109651,Entire home/apt,709.02,South End
+53115783,Entire home/apt,604,South Boston
+53115918,Entire home/apt,9812.02,South Boston
+53123543,Entire home/apt,107.01,Back Bay
+53124097,Entire home/apt,107.01,Back Bay
+53124490,Entire home/apt,107.01,Back Bay
+53124828,Entire home/apt,102.06,Fenway
+53125115,Entire home/apt,105,Back Bay
+53126503,Entire home/apt,108.02,Back Bay
+53135802,Entire home/apt,702.01,Downtown
+53136111,Entire home/apt,702.01,Downtown
+53136222,Entire home/apt,702.01,Downtown
+53146859,Entire home/apt,701.04,Downtown
+53148483,Entire home/apt,701.02,Downtown
+53150384,Entire home/apt,702.01,Downtown
+53150655,Entire home/apt,702.01,Downtown
+53163388,Entire home/apt,203.05,West End
+53174170,Entire home/apt,903,Dorchester
+53179806,Entire home/apt,203.01,West End
+53184370,Private room,1005,Dorchester
+53185790,Entire home/apt,601.01,South Boston
+53186940,Entire home/apt,512,East Boston
+53195225,Private room,2.01,Brighton
+53195495,Private room,4.02,Brighton
+53203873,Private room,2.01,Brighton
+53212625,Entire home/apt,504,East Boston
+53215621,Entire home/apt,504,East Boston
+53230939,Private room,819,Roxbury
+53231705,Private room,819,Roxbury
+53233645,Private room,706,South End
+53237415,Entire home/apt,703.02,South End
+53238632,Entire home/apt,702.01,Downtown
+53246997,Private room,812,Jamaica Plain
+53260512,Private room,502,East Boston
+53262933,Entire home/apt,102.05,Fenway
+53263275,Entire home/apt,503,East Boston
+53276736,Entire home/apt,703.01,South End
+53291759,Private room,907,Dorchester
+53292737,Entire home/apt,102.05,Fenway
+53301307,Entire home/apt,2.02,Brighton
+53306288,Entire home/apt,606.04,South Boston Waterfront
+53307896,Entire home/apt,702.01,Downtown
+53307955,Entire home/apt,702.01,Downtown
+53321922,Entire home/apt,1106.07,Roslindale
+53335582,Entire home/apt,701.02,Downtown
+53357953,Entire home/apt,1106.07,Roslindale
+53358922,Private room,507,East Boston
+53359391,Entire home/apt,4.01,Brighton
+53364682,Entire home/apt,203.04,West End
+53375087,Entire home/apt,706,South End
+53378837,Entire home/apt,701.02,Downtown
+53379263,Entire home/apt,702.01,Downtown
+53379287,Entire home/apt,1006.01,Dorchester
+53380226,Entire home/apt,814,Roxbury
+53380236,Entire home/apt,814,Roxbury
+53380284,Entire home/apt,907,Dorchester
+53380324,Entire home/apt,806.01,Roxbury
+53380371,Entire home/apt,1203.01,Jamaica Plain
+53380664,Entire home/apt,702.01,Downtown
+53394270,Entire home/apt,203.02,Beacon Hill
+53426313,Entire home/apt,606.04,South Boston Waterfront
+53428804,Entire home/apt,702.01,Downtown
+53455537,Private room,1203.01,Jamaica Plain
+53462366,Entire home/apt,702.01,Downtown
+53463603,Entire home/apt,502,East Boston
+53471426,Entire home/apt,702.01,Downtown
+53472247,Entire home/apt,706,South End
+53474222,Private room,1203.01,Jamaica Plain
+53477851,Entire home/apt,5.03,Brighton
+53482062,Entire home/apt,201.01,Beacon Hill
+53489502,Entire home/apt,612.04,South Boston Waterfront
+53508014,Entire home/apt,904,Roxbury
+53511250,Entire home/apt,1004,Dorchester
+53512907,Entire home/apt,705.02,South End
+53527110,Entire home/apt,601.01,South Boston
+53541620,Entire home/apt,702.01,Downtown
+53555832,Private room,502,East Boston
+53572353,Entire home/apt,907,Dorchester
+53576070,Entire home/apt,1104.03,Roslindale
+53589268,Entire home/apt,814,Roxbury
+53602315,Entire home/apt,203.05,West End
+53628586,Private room,815,Roxbury
+53631121,Entire home/apt,901,Dorchester
+53631431,Entire home/apt,901,Dorchester
+53631585,Entire home/apt,924,Dorchester
+53654541,Entire home/apt,704.02,South End
+53677607,Entire home/apt,703.02,South End
+53688867,Entire home/apt,8.04,Allston
+53690399,Private room,703.02,South End
+53699018,Entire home/apt,203.01,West End
+53699031,Entire home/apt,203.01,West End
+53702666,Entire home/apt,305,North End
+53719658,Private room,9813,East Boston
+53733454,Entire home/apt,606.04,South Boston Waterfront
+53733834,Entire home/apt,606.04,South Boston Waterfront
+53750995,Entire home/apt,1204,Jamaica Plain
+53756737,Entire home/apt,1201.05,Jamaica Plain
+53772385,Entire home/apt,922,Dorchester
+53774907,Entire home/apt,701.02,Downtown
+53775571,Entire home/apt,701.02,Downtown
+53775865,Entire home/apt,701.02,Downtown
+53785663,Entire home/apt,701.02,Downtown
+53787160,Entire home/apt,701.02,Downtown
+53787344,Entire home/apt,701.02,Downtown
+53801849,Entire home/apt,701.02,Downtown
+53807625,Private room,8.05,Allston
+53829061,Entire home/apt,1301.01,West Roxbury
+53840064,Entire home/apt,711.01,South End
+53851605,Entire home/apt,703.02,South End
+53873246,Private room,5.06,Brighton
+53873487,Private room,5.06,Brighton
+53873611,Entire home/apt,702.01,Downtown
+53893204,Private room,501.01,East Boston
+53898789,Entire home/apt,303.02,Downtown
+53899025,Entire home/apt,504,East Boston
+53914758,Entire home/apt,704.02,South End
+53932819,Entire home/apt,704.02,South End
+53964554,Entire home/apt,704.02,South End
+53971958,Private room,924,Dorchester
+53992722,Entire home/apt,1404,Hyde Park
+54047272,Entire home/apt,108.02,Back Bay
+54051307,Entire home/apt,5.03,Brighton
+54051626,Private room,907,Dorchester
+54052472,Entire home/apt,811.02,Mission Hill
+54054037,Entire home/apt,7.01,Brighton
+54064183,Entire home/apt,704.02,South End
+54133693,Private room,806.01,Roxbury
+54146486,Entire home/apt,1103.01,Roslindale
+54153021,Private room,911,Dorchester
+54159081,Entire home/apt,606.04,South Boston Waterfront
+54159310,Entire home/apt,303.02,Downtown
+54201941,Private room,703.01,South End
+54202253,Entire home/apt,703.02,South End
+54228929,Entire home/apt,203.04,West End
+54232345,Entire home/apt,703.01,South End
+54246555,Entire home/apt,902,Dorchester
+54261439,Private room,1404,Hyde Park
+54266328,Entire home/apt,708.02,South End
+54278398,Entire home/apt,706,South End
+54289419,Entire home/apt,201.01,Beacon Hill
+54314982,Entire home/apt,1104.01,Roslindale
+54339966,Entire home/apt,703.02,South End
+54341236,Entire home/apt,101.04,Back Bay
+54356548,Entire home/apt,202,Beacon Hill
+54365788,Entire home/apt,202,Beacon Hill
+54368337,Entire home/apt,1301.01,West Roxbury
+54384369,Entire home/apt,606.03,South Boston Waterfront
+54384571,Entire home/apt,107.01,Back Bay
+54392466,Entire home/apt,1005,Dorchester
+54399424,Entire home/apt,708.02,South End
+54399467,Entire home/apt,706,South End
+54399802,Entire home/apt,703.01,South End
+513711312599023905,Entire home/apt,101.04,Fenway
+535537043649027970,Entire home/apt,201.01,Beacon Hill
+539376906593556470,Private room,906,Roxbury
+539763396690282333,Private room,907,Dorchester
+541708198615289386,Private room,907,Dorchester
+542466980559114057,Entire home/apt,106,Back Bay
+543380181621602343,Private room,1203.01,Jamaica Plain
+543436362799833668,Entire home/apt,712.01,South End
+543496472575132725,Entire home/apt,1011.01,Mattapan
+544393696272848451,Entire home/apt,1011.01,Mattapan
+544684082770820787,Entire home/apt,108.02,Back Bay
+544686606795535057,Entire home/apt,108.02,Back Bay
+544750698666940056,Private room,8.04,Allston
+545208773690167093,Entire home/apt,505,East Boston
+545795391843407833,Entire home/apt,304,North End
+545946028543152951,Entire home/apt,507,East Boston
+546353867753538442,Entire home/apt,918,Dorchester
+547677768636405349,Entire home/apt,912,Dorchester
+547715812071010970,Private room,6.03,Brighton
+547969758798128722,Private room,501.01,East Boston
+548373258905551128,Entire home/apt,107.01,Back Bay
+548393136882554658,Entire home/apt,107.01,Back Bay
+548409183091048221,Entire home/apt,107.01,Back Bay
+548424627632198069,Entire home/apt,106,Back Bay
+548433540428028477,Entire home/apt,107.01,Back Bay
+548557100734416768,Entire home/apt,1008,Dorchester
+548567174627243063,Entire home/apt,1004,Dorchester
+548571826779353840,Entire home/apt,1004,Dorchester
+548574909691583124,Entire home/apt,1004,Dorchester
+549048342007595380,Entire home/apt,106,Back Bay
+549055903062655337,Entire home/apt,203.04,West End
+549058407111290129,Entire home/apt,108.02,Back Bay
+549537073076655277,Entire home/apt,601.01,South Boston
+549991434525062910,Private room,1403,Hyde Park
+552878688771211713,Shared room,924,Dorchester
+552968006314520018,Entire home/apt,922,Dorchester
+553449835647049763,Entire home/apt,708.02,South End
+553450125818531583,Entire home/apt,708.02,South End
+554310711262761312,Private room,924,Dorchester
+554348528269020772,Entire home/apt,201.01,Beacon Hill
+554364781966575409,Entire home/apt,201.01,Beacon Hill
+554376006267532301,Entire home/apt,702.01,Downtown
+554943232446067139,Entire home/apt,201.01,Beacon Hill
+554979626364724864,Private room,907,Dorchester
+554984815423757176,Private room,907,Dorchester
+555055858866043622,Entire home/apt,701.02,Downtown
+555679630501138101,Entire home/apt,201.01,Beacon Hill
+555687465826158315,Entire home/apt,201.01,Beacon Hill
+555694101481790337,Entire home/apt,201.01,Beacon Hill
+555701180743803386,Entire home/apt,201.01,Beacon Hill
+556665854357343371,Entire home/apt,203.01,West End
+556918256350139004,Private room,902,Dorchester
+556950410338375450,Private room,902,Dorchester
+557094168867486125,Entire home/apt,612.03,South Boston
+557094454595424536,Entire home/apt,612.03,South Boston
+557861915611213552,Entire home/apt,704.02,South End
+557862346669301479,Entire home/apt,612.04,South Boston Waterfront
+558618724978643866,Entire home/apt,105,Back Bay
+558643883416501880,Entire home/apt,105,Back Bay
+558649271934265623,Entire home/apt,105,Back Bay
+558737352827141257,Entire home/apt,702.02,Chinatown
+559879160838472239,Entire home/apt,303.02,Downtown
+560156651716107805,Entire home/apt,102.05,Fenway
+560160957431820744,Entire home/apt,102.04,Fenway
+560165694127534320,Private room,512,East Boston
+560271647691997893,Private room,203.05,West End
+561575169091225652,Entire home/apt,107.02,Back Bay
+562395069475861949,Entire home/apt,102.05,Fenway
+562488761162560535,Entire home/apt,301,North End
+562904961691403095,Entire home/apt,1008,Dorchester
+562907163780109964,Entire home/apt,1008,Dorchester
+562909674759088729,Entire home/apt,712.01,South End
+563794192602066775,Entire home/apt,102.04,Fenway
+564196010785052445,Private room,4.02,Brighton
+564453639733331698,Private room,1206,Jamaica Plain
+564611874420823084,Private room,1.02,Brighton
+565026020916948591,Entire home/apt,202,Beacon Hill
+565061216401674911,Entire home/apt,904,Roxbury
+565180602602398283,Private room,924,Dorchester
+566450430168033283,Entire home/apt,203.02,Beacon Hill
+567263377944351900,Entire home/apt,108.02,Back Bay
+567308226541956011,Entire home/apt,106,Back Bay
+567350456427499210,Entire home/apt,102.04,Fenway
+567399516598733384,Entire home/apt,9818,Jamaica Plain
+568692279938660404,Entire home/apt,303.02,Downtown
+568694788908431933,Entire home/apt,712.01,South End
+569402295823866723,Entire home/apt,8.05,Allston
+569407505309687319,Entire home/apt,203.04,West End
+570124822555104459,Entire home/apt,106,Back Bay
+570980045884661327,Entire home/apt,1.02,Brighton
+571172418540857039,Entire home/apt,1006.03,Dorchester
+571845113465671243,Entire home/apt,202,Beacon Hill
+571988432134426101,Entire home/apt,202,Beacon Hill
+573001187522927612,Entire home/apt,708.02,South End
+573071443078847367,Entire home/apt,8.05,Allston
+573072034648033150,Entire home/apt,712.01,South End
+573397879029683911,Entire home/apt,705.02,South End
+573888797577982081,Private room,605.01,South Boston
+574763198852585805,Entire home/apt,5.03,Brighton
+575165434168387705,Entire home/apt,8.05,Allston
+575165718313349575,Entire home/apt,1301.01,West Roxbury
+575166206846071221,Entire home/apt,1301.01,West Roxbury
+575194687782661541,Entire home/apt,708.02,South End
+575197158772194981,Entire home/apt,708.02,South End
+575336189867925920,Private room,612.03,South Boston
+575375554573801359,Entire home/apt,914,Dorchester
+575446939554069001,Entire home/apt,5.02,Brighton
+576330061675822951,Private room,1304.02,West Roxbury
+577093755825945609,Private room,201.01,Beacon Hill
+577267305218637550,Entire home/apt,1.01,Allston
+577524733457245107,Entire home/apt,1103.01,Jamaica Plain
+577559184783487910,Private room,612.03,South Boston
+577611339928669096,Private room,612.04,South Boston Waterfront
+577685294725125045,Private room,612.03,South Boston
+577711068119608643,Private room,612.04,South Boston Waterfront
+578114881460921853,Entire home/apt,107.01,Back Bay
+578117391619038483,Entire home/apt,708.01,Roxbury
+578364200954146940,Entire home/apt,612.04,South Boston Waterfront
+578392527449087828,Private room,612.03,South Boston
+578476906298443845,Entire home/apt,709.02,South End
+578829581723459472,Entire home/apt,107.01,Back Bay
+578946346482183711,Entire home/apt,706,South End
+578997260391302435,Entire home/apt,612.03,South Boston
+579003720446743556,Private room,612.03,South Boston
+579012272657499009,Private room,612.03,South Boston
+579027527508830274,Private room,612.03,South Boston
+579090542684624459,Entire home/apt,8.06,Allston
+579138346910121164,Private room,612.03,South Boston
+579155637396199837,Private room,612.03,South Boston
+579173215696247499,Private room,612.03,South Boston
+579663257489291633,Entire home/apt,702.01,Downtown
+580336513335041407,Entire home/apt,702.02,Chinatown
+580339548657084895,Entire home/apt,702.02,Chinatown
+580339876979371264,Entire home/apt,702.02,Chinatown
+580340188480812217,Entire home/apt,702.02,Chinatown
+580342069798808551,Entire home/apt,702.02,Chinatown
+580442259470637184,Entire home/apt,702.01,Downtown
+580524519215857438,Entire home/apt,805,Roxbury
+581151517001058166,Entire home/apt,916,Dorchester
+581203675672727339,Entire home/apt,801,Roxbury
+581845796863943366,Private room,1.01,Allston
+582493249514517431,Entire home/apt,606.03,South Boston Waterfront
+582593252621405701,Private room,605.01,South Boston
+582613302102919663,Entire home/apt,502,East Boston
+583153071300551820,Entire home/apt,8.05,Allston
+583160151687130916,Entire home/apt,9815.01,Fenway
+583390764682581251,Private room,605.01,South Boston
+583490014198341479,Private room,605.01,South Boston
+584121613432884934,Private room,605.01,South Boston
+584157763155247644,Private room,604,South Boston
+584190883522728049,Private room,605.01,South Boston
+584203970762003741,Private room,1010.01,Mattapan
+584760167879327211,Private room,101.04,Fenway
+584771737540454016,Private room,605.01,South Boston
+584814729815184984,Private room,604,South Boston
+584818002913089374,Entire home/apt,805,Roxbury
+584823910467802819,Entire home/apt,304,North End
+584864243418353113,Private room,604,South Boston
+585228758807996843,Entire home/apt,304,North End
+585231785977398127,Entire home/apt,203.05,West End
+585232346497472151,Entire home/apt,203.05,West End
+587069521753451150,Entire home/apt,604,South Boston
+587083293351063385,Private room,604,South Boston
+587471406863973740,Entire home/apt,1106.07,Roslindale
+587629587154010008,Entire home/apt,304,North End
+588382556774589566,Entire home/apt,708.02,South End
+589710523815430887,Private room,814,Roxbury
+589755108125958939,Private room,907,Dorchester
+592635565577244428,Entire home/apt,702.01,Downtown
+592638086409776058,Entire home/apt,203.05,West End
+593467526439716295,Entire home/apt,1105.02,Roslindale
+594797282646385297,Entire home/apt,104.03,Fenway
+594799813398624561,Entire home/apt,104.03,Fenway
+594956320360052014,Entire home/apt,106,Back Bay
+595021507855065483,Entire home/apt,1201.03,Jamaica Plain
+595621385126373803,Entire home/apt,814,Roxbury
+595893488862869896,Entire home/apt,203.05,West End
+597199337806607917,Entire home/apt,706,South End
+597524520496132156,Entire home/apt,920,Dorchester
+597809503201657494,Entire home/apt,708.02,South End
+597888159714608856,Entire home/apt,203.04,West End
+598044569796132890,Entire home/apt,102.05,Fenway
+598404279154016952,Entire home/apt,104.03,Fenway
+598426987260237935,Entire home/apt,8.04,Allston
+599162132685597662,Entire home/apt,8.06,Allston
+599331415511157269,Entire home/apt,820,Roxbury
+599648241854747330,Entire home/apt,909.01,Dorchester
+599863497763260039,Entire home/apt,909.01,Dorchester
+599863783947533150,Entire home/apt,909.01,Dorchester
+600323725144022684,Entire home/apt,1102.01,Roslindale
+600739282988225759,Entire home/apt,203.05,West End
+600757629932957907,Entire home/apt,812,Jamaica Plain
+602225731262947748,Entire home/apt,202,Beacon Hill
+602328498990797248,Entire home/apt,202,Beacon Hill
+602716508984845813,Entire home/apt,105,Back Bay
+602880095825799604,Entire home/apt,708.02,South End
+602886384518882283,Entire home/apt,708.02,South End
+602915802064347401,Entire home/apt,708.02,South End
+602995305654647004,Entire home/apt,1004,Dorchester
+603796806092162118,Entire home/apt,105,Back Bay
+604155121530765682,Entire home/apt,903,Dorchester
+604223920210757772,Entire home/apt,712.01,South End
+604229453601694687,Entire home/apt,1101.05,Jamaica Plain
+604231971121077035,Entire home/apt,1101.05,Jamaica Plain
+604232269991905294,Entire home/apt,1101.05,Jamaica Plain
+604232547651700867,Entire home/apt,1101.05,Jamaica Plain
+604234472085817955,Entire home/apt,7.04,Allston
+604341373108909486,Entire home/apt,801,Roxbury
+604951714437257587,Entire home/apt,106,Back Bay
+605048036667993596,Private room,1303,West Roxbury
+605814895112878033,Entire home/apt,102.04,Fenway
+606115720549620588,Entire home/apt,703.01,South End
+606636977781961015,Private room,203.05,West End
+608359192793639653,Entire home/apt,703.02,South End
+608359496810075683,Entire home/apt,303.02,Downtown
+608658771570500261,Entire home/apt,1006.03,Dorchester
+609169499878539964,Entire home/apt,910.01,Dorchester
+609580705394215550,Private room,711.01,Roxbury
+609603178591236907,Entire home/apt,923,Dorchester
+609993404493501490,Entire home/apt,305,North End
+610021158527991851,Entire home/apt,203.04,West End
+610075682992826135,Entire home/apt,6.03,Brighton
+610187488159307972,Private room,920,Dorchester
+610665526579900515,Entire home/apt,608,South Boston
+611575490785459373,Private room,1105.02,Roslindale
+611624616309990699,Entire home/apt,201.01,Beacon Hill
+611786397725012132,Entire home/apt,812,Jamaica Plain
+611835367254543088,Entire home/apt,201.01,Beacon Hill
+611884310638250746,Entire home/apt,701.02,Downtown
+612144696053388604,Entire home/apt,301,North End
+612178312912696733,Entire home/apt,202,Beacon Hill
+612908141225302683,Entire home/apt,708.02,South End
+612916199685233852,Entire home/apt,708.02,South End
+612919537520332335,Entire home/apt,708.02,South End
+612970044547812293,Entire home/apt,106,Back Bay
+612971562909480575,Entire home/apt,105,Back Bay
+613006796957451384,Entire home/apt,706,South End
+613019381875296666,Entire home/apt,105,Back Bay
+613037426702888009,Entire home/apt,805,Roxbury
+614014514201121899,Private room,604,South Boston
+614033255334673390,Entire home/apt,814,Roxbury
+614041853714938330,Entire home/apt,804.01,Roxbury
+614069285602184969,Entire home/apt,814,Roxbury
+614069307180662598,Entire home/apt,814,Roxbury
+614578168426930198,Entire home/apt,804.01,Roxbury
+614662890482582714,Entire home/apt,705.02,South End
+615388600646163891,Entire home/apt,811.01,Mission Hill
+615627054340788049,Entire home/apt,702.01,Downtown
+616252860883053851,Private room,701.04,Downtown
+616616290168209593,Entire home/apt,9815.01,Fenway
+616886094726263774,Entire home/apt,703.02,South End
+617045331988491234,Private room,701.02,Downtown
+617924825724516696,Entire home/apt,203.02,Beacon Hill
+617924872108038105,Entire home/apt,203.02,Beacon Hill
+617958592999391487,Private room,814,Roxbury
+618421869519191726,Private room,814,Roxbury
+618445845546934829,Private room,1.02,Brighton
+618452753663045338,Private room,711.01,Roxbury
+618865640626885363,Private room,919,Dorchester
+618880506823482988,Shared room,919,Dorchester
+618887730772399564,Private room,919,Dorchester
+619253446291935967,Entire home/apt,702.01,Downtown
+619452432107274976,Private room,4.02,Brighton
+619985772757216077,Entire home/apt,909.01,Dorchester
+620273948729922823,Entire home/apt,507,East Boston
+620531678272781158,Entire home/apt,202,Beacon Hill
+620556935741785812,Entire home/apt,203.01,West End
+620559519758727382,Entire home/apt,203.01,West End
+620726386166322193,Entire home/apt,708.01,Roxbury
+620830858423641152,Entire home/apt,706,South End
+620845455818869883,Entire home/apt,105,Back Bay
+620873135155545376,Entire home/apt,105,Back Bay
+620874447347342376,Entire home/apt,105,Back Bay
+620875895680909013,Entire home/apt,105,Back Bay
+622636671975347436,Entire home/apt,102.05,Fenway
+622763086040267783,Entire home/apt,505,East Boston
+623160987006725660,Entire home/apt,105,Back Bay
+623174295658849560,Entire home/apt,708.02,South End
+623619726219332946,Entire home/apt,712.01,South End
+623688785554973621,Private room,924,Dorchester
+623760281755060724,Entire home/apt,1103.01,Jamaica Plain
+624541300397031900,Entire home/apt,706,South End
+625824021434996394,Entire home/apt,703.02,South End
+626347741535457922,Entire home/apt,1403,Hyde Park
+627562151397485626,Entire home/apt,301,North End
+627992010565840410,Entire home/apt,608,South Boston
+627996566570185451,Entire home/apt,203.05,West End
+628133487809262501,Private room,1.02,Brighton
+628193156323727514,Entire home/apt,1007,Dorchester
+628297796477850443,Entire home/apt,7.01,Allston
+628488653049133231,Entire home/apt,511.01,East Boston
+629578258027487108,Private room,1404,Hyde Park
+630246537702714331,Entire home/apt,907,Dorchester
+630270496932782519,Entire home/apt,907,Dorchester
+630286293872807079,Entire home/apt,907,Dorchester
+630353414940639708,Entire home/apt,4.01,Brighton
+630974431440794329,Entire home/apt,907,Dorchester
+630997334269195548,Entire home/apt,105,Back Bay
+631000352683237222,Entire home/apt,105,Back Bay
+631002869915516131,Entire home/apt,105,Back Bay
+631118154967104383,Private room,2.01,Brighton
+632682403112950941,Entire home/apt,907,Dorchester
+633058908634454665,Entire home/apt,701.04,Downtown
+633240905689427322,Entire home/apt,1104.03,Roslindale
+633275399907669824,Private room,1104.01,Roslindale
+633889528816089164,Entire home/apt,107.01,Back Bay
+634046951984427934,Entire home/apt,105,Back Bay
+634543701606720546,Entire home/apt,809,Mission Hill
+634844128587231983,Entire home/apt,2.01,Brighton
+634844184454556559,Private room,2.01,Brighton
+634844247572435230,Private room,2.01,Brighton
+634865431273183644,Entire home/apt,707,South End
+634887497676129670,Entire home/apt,709.02,South End
+634899884370785847,Entire home/apt,709.02,South End
+634944756480605794,Entire home/apt,102.06,Fenway
+635172848375976586,Entire home/apt,911,Dorchester
+635673101620253450,Entire home/apt,806.01,Roxbury
+635678610308167658,Private room,1104.01,Roslindale
+636109865830955355,Entire home/apt,105,Back Bay
+636261037066462204,Entire home/apt,806.01,Roxbury
+636288932942854774,Entire home/apt,805,Roxbury
+636956604504794535,Private room,512,East Boston
+638235027182813304,Entire home/apt,708.02,South End
+638303981895827346,Entire home/apt,706,South End
+638355576393362915,Entire home/apt,512,East Boston
+638473569363708335,Entire home/apt,201.01,Beacon Hill
+638491618000627769,Entire home/apt,202,Beacon Hill
+638908178647698696,Entire home/apt,203.01,West End
+638924072026713547,Entire home/apt,108.02,Back Bay
+638978335989826229,Entire home/apt,201.01,Beacon Hill
+639528544992344909,Private room,911,Dorchester
+639649590229320270,Private room,104.03,Fenway
+639735815387002773,Private room,912,Dorchester
+639763266269494281,Entire home/apt,1004,Dorchester
+639817426617817214,Private room,703.02,South End
+639832722798487399,Private room,911,Dorchester
+640337889243380600,Private room,809,Mission Hill
+640523947541604406,Private room,1004,Dorchester
+640624675505026367,Private room,809,Mission Hill
+640790592484842073,Private room,817,Roxbury
+640925456938448640,Private room,911,Dorchester
+640958137915586536,Private room,912,Dorchester
+641326488882829422,Private room,913,Dorchester
+641394192307018561,Entire home/apt,817,Roxbury
+641610213253152166,Private room,701.04,Downtown
+641634798856574600,Entire home/apt,703.02,South End
+641635114263404601,Private room,2.01,Brighton
+641766241140777161,Entire home/apt,1304.06,West Roxbury
+641962500819403476,Entire home/apt,201.01,Beacon Hill
+641974199506692966,Entire home/apt,201.01,Beacon Hill
+642007190276536466,Entire home/apt,1403,Hyde Park
+642074109633624068,Entire home/apt,608,South Boston
+642574460409151369,Entire home/apt,1204,Jamaica Plain
+642706953473685940,Private room,1403,Hyde Park
+642948081362358926,Entire home/apt,2.02,Brighton
+642978302217695889,Entire home/apt,703.02,South End
+643244026382581730,Entire home/apt,1101.05,Jamaica Plain
+644007536145129443,Entire home/apt,919,Dorchester
+644670109338778596,Entire home/apt,202,Beacon Hill
+645001882646487077,Entire home/apt,1301.01,West Roxbury
+645088937916290483,Private room,914,Dorchester
+645101975588919478,Private room,913,Dorchester
+645102213867782501,Private room,914,Dorchester
+645102668241472505,Private room,914,Dorchester
+645103118371527790,Private room,914,Dorchester
+645103508591613891,Private room,913,Dorchester
+645492700860829268,Entire home/apt,3.02,Brighton
+645528951341127494,Entire home/apt,203.05,West End
+647070457404906638,Entire home/apt,1106.07,Roslindale
+647800372286587019,Entire home/apt,101.03,Fenway
+647924022015612987,Entire home/apt,509.01,East Boston
+648469960214617782,Private room,702.02,Chinatown
+648474274324174035,Private room,809,Mission Hill
+648481499354584185,Private room,907,Dorchester
+648482084671695845,Entire home/apt,203.05,West End
+648494255709096853,Private room,911,Dorchester
+649079170661226008,Private room,907,Dorchester
+649098908133478325,Private room,3.01,Brighton
+649123070655555346,Private room,6.01,Brighton
+649139786422925768,Private room,805,Roxbury
+649153675516551663,Entire home/apt,706,South End
+649160832948433890,Private room,8.04,Allston
+649165575655010861,Private room,8.04,Allston
+649179671464846978,Private room,907,Dorchester
+649227798792183262,Entire home/apt,101.03,Fenway
+649386845524415763,Private room,1304.02,West Roxbury
+649844612884023083,Entire home/apt,512,East Boston
+649939262039043048,Entire home/apt,709.02,South End
+650580862318364555,Private room,1402.02,Hyde Park
+650670596271554040,Entire home/apt,907,Dorchester
+650779319023665511,Entire home/apt,805,Roxbury
+650804708053927547,Entire home/apt,806.01,Roxbury
+651321536161383325,Entire home/apt,1304.02,West Roxbury
+652014243703538999,Entire home/apt,818,Roxbury
+652022293246564522,Private room,1204,Jamaica Plain
+652688151257540112,Entire home/apt,1008,Dorchester
+652928774282974124,Private room,203.01,West End
+653014464547095412,Entire home/apt,612.01,South Boston
+654490902643219901,Entire home/apt,702.01,Downtown
+655514870814006563,Entire home/apt,708.01,Roxbury
+655515158683197472,Entire home/apt,104.03,Fenway
+655515533603303924,Entire home/apt,102.05,Fenway
+655997096618398320,Private room,1104.03,Roslindale
+658610117757260264,Entire home/apt,101.04,Back Bay
+658616819945465934,Entire home/apt,708.02,South End
+658713146354442625,Entire home/apt,101.04,Fenway
+658755874410003182,Entire home/apt,805,Roxbury
+658765857439531363,Entire home/apt,805,Roxbury
+658810825479859452,Entire home/apt,1204,Jamaica Plain
+659156386290642679,Entire home/apt,106,Back Bay
+659421034687309149,Entire home/apt,1102.01,Roslindale
+659511501225097577,Entire home/apt,712.01,South End
+659575049631716636,Entire home/apt,705.01,South End
+660152992531541857,Entire home/apt,102.04,Fenway
+660750253855523277,Entire home/apt,512,East Boston
+660763432786377137,Entire home/apt,1106.01,West Roxbury
+660804988514976374,Entire home/apt,704.02,South End
+660852553947772343,Entire home/apt,708.02,South End
+661308354428480126,Entire home/apt,817,Roxbury
+661308651867285356,Entire home/apt,817,Roxbury
+661509143333692680,Entire home/apt,503,East Boston
+662231064185723309,Entire home/apt,701.04,Downtown
+662251245962689930,Entire home/apt,102.04,Fenway
+662553374632386080,Entire home/apt,1005,Dorchester
+663044754148588277,Entire home/apt,509.01,East Boston
+663554848165356274,Entire home/apt,203.05,West End
+663557367450319424,Entire home/apt,203.05,West End
+664514073741032495,Entire home/apt,701.02,Downtown
+664601123005873489,Entire home/apt,608,South Boston
+665375792698869155,Entire home/apt,612.01,South Boston
+665822089820131536,Private room,1011.02,Mattapan
+666008134174509650,Entire home/apt,8.04,Allston
+666076095878120193,Private room,701.04,Downtown
+666183298864581824,Entire home/apt,201.01,Beacon Hill
+666383993088270320,Entire home/apt,811.02,Mission Hill
+666718114959412512,Entire home/apt,101.04,Fenway
+668249943100869998,Entire home/apt,1104.03,Roslindale
+668800598988690151,Entire home/apt,105,Back Bay
+668804688861479022,Entire home/apt,105,Back Bay
+668818916257742515,Private room,1401.05,Hyde Park
+668877697630181000,Entire home/apt,202,Beacon Hill
+669578357684975033,Entire home/apt,1006.03,Dorchester
+669596090655013207,Private room,707,South End
+669738658809306751,Entire home/apt,202,Beacon Hill
+670091950992430240,Entire home/apt,1009,Mattapan
+670105594005404482,Entire home/apt,107.01,Back Bay
+670516883910999694,Entire home/apt,202,Beacon Hill
+670544036866270163,Entire home/apt,202,Beacon Hill
+670559820149361567,Entire home/apt,202,Beacon Hill
+670815064698753298,Private room,907,Dorchester
+670817415158297599,Private room,907,Dorchester
+670820968492013965,Private room,907,Dorchester
+670830169492638910,Private room,907,Dorchester
+670832387814362529,Private room,907,Dorchester
+670853861375418673,Private room,907,Dorchester
+670856433628554088,Private room,907,Dorchester
+670908998744286704,Private room,907,Dorchester
+670913694486537044,Private room,907,Dorchester
+670918458765140823,Private room,911,Dorchester
+670923183110769496,Private room,8.04,Allston
+670940080239506612,Private room,1.02,Brighton
+670942131080223359,Private room,8.05,Allston
+670965292295048335,Entire home/apt,907,Dorchester
+671034600794115223,Private room,814,Roxbury
+671271554310520439,Entire home/apt,701.02,Downtown
+673236656530788950,Entire home/apt,1005,Dorchester
+673740923378213133,Entire home/apt,106,Back Bay
+673779430984234670,Entire home/apt,612.01,South Boston
+673911068470916090,Entire home/apt,401,Charlestown
+674200591572524984,Private room,1.02,Brighton
+674339474531785753,Entire home/apt,203.05,West End
+674344475189896557,Entire home/apt,102.05,Fenway
+674465521265134935,Entire home/apt,1207,Jamaica Plain
+674482901032623007,Entire home/apt,604,South Boston
+674589935445605774,Entire home/apt,705.02,South End
+675147276041216943,Entire home/apt,203.05,West End
+675554659834743514,Entire home/apt,201.01,Beacon Hill
+676002516489872066,Private room,503,East Boston
+676189572505514047,Entire home/apt,501.01,East Boston
+676257209720573421,Entire home/apt,201.01,Beacon Hill
+676481538201817291,Entire home/apt,106,Back Bay
+676483872976026157,Entire home/apt,702.01,Downtown
+676660060521076230,Entire home/apt,612.03,South Boston
+676691058261718660,Entire home/apt,612.03,South Boston
+676714196426024227,Entire home/apt,612.03,South Boston
+676859212424870949,Entire home/apt,910.01,Dorchester
+676898605599494749,Entire home/apt,910.01,Dorchester
+677637597503515284,Private room,8.04,Allston
+677728857043123324,Private room,711.01,Roxbury
+678087534326768471,Entire home/apt,406,Charlestown
+678198895661062742,Private room,1203.01,Jamaica Plain
+678390600360994715,Entire home/apt,608,South Boston
+678979256927647544,Entire home/apt,106,Back Bay
+678980956677843680,Entire home/apt,107.01,Back Bay
+678981779910322461,Entire home/apt,107.01,Back Bay
+679534339522666861,Entire home/apt,701.02,Downtown
+679872149548804915,Private room,1010.01,Mattapan
+679963181191706468,Private room,2.01,Brighton
+680165867255183002,Entire home/apt,203.05,West End
+681600270846334337,Entire home/apt,203.05,West End
+681783562025076195,Private room,8.04,Allston
+681821351652731860,Entire home/apt,509.01,East Boston
+682571975147334404,Entire home/apt,503,East Boston
+682706928099435560,Private room,911,Dorchester
+683500996865933482,Entire home/apt,303.02,Downtown
+683768558849092912,Entire home/apt,106,Back Bay
+683914608777399176,Entire home/apt,701.04,Downtown
+683914624290121400,Entire home/apt,303.02,Downtown
+683914639091241468,Entire home/apt,701.04,Downtown
+683918385793735810,Entire home/apt,705.01,South End
+684130729774011932,Entire home/apt,403,Charlestown
+684151057102691398,Entire home/apt,1008,Dorchester
+684624691343264937,Entire home/apt,203.05,West End
+684625165516813700,Entire home/apt,909.01,Dorchester
+684685835346260348,Entire home/apt,105,Back Bay
+685264683899873589,Entire home/apt,203.02,Beacon Hill
+685264730379800426,Entire home/apt,202,Beacon Hill
+685414076933412471,Entire home/apt,701.02,Downtown
+685485399501366239,Entire home/apt,201.01,Beacon Hill
+685511413725942222,Entire home/apt,708.02,South End
+685747427112188759,Entire home/apt,1011.01,Mattapan
+685905667259735098,Entire home/apt,203.05,West End
+686237520200515563,Entire home/apt,708.02,South End
+686364498965100576,Entire home/apt,203.01,West End
+686401101148259304,Entire home/apt,1.02,Brighton
+686659102449877793,Entire home/apt,106,Back Bay
+686824424550769622,Entire home/apt,202,Beacon Hill
+686859137338659695,Entire home/apt,1101.05,Jamaica Plain
+686979963987322682,Entire home/apt,203.04,West End
+687078043562545838,Entire home/apt,203.02,Beacon Hill
+687100831526268407,Entire home/apt,203.02,Beacon Hill
+687244854981913174,Entire home/apt,202,Beacon Hill
+688669946899599925,Private room,511.01,East Boston
+688711115284663245,Shared room,511.01,East Boston
+688714633026728261,Private room,511.01,East Boston
+688716415131478976,Private room,511.01,East Boston
+688910480628831655,Entire home/apt,1101.05,Jamaica Plain
+689144548056876223,Entire home/apt,1203.01,Jamaica Plain
+689607534898158572,Entire home/apt,106,Back Bay
+689770378083811650,Entire home/apt,303.02,Downtown
+689792415355732136,Entire home/apt,303.02,Downtown
+689804165985101305,Entire home/apt,303.02,Downtown
+689981885807910567,Entire home/apt,610,South Boston
+690101762087547698,Private room,7.04,Allston
+690306318063206572,Private room,911,Dorchester
+690312496350609388,Private room,907,Dorchester
+690399625055881984,Entire home/apt,1304.02,West Roxbury
+690400586934454556,Entire home/apt,107.01,Back Bay
+690400874919227004,Entire home/apt,107.01,Back Bay
+691291991688138301,Entire home/apt,102.06,Fenway
+691501063530880516,Entire home/apt,202,Beacon Hill
+691815665072110894,Entire home/apt,6.01,Allston
+691827220063553170,Entire home/apt,105,Back Bay
+691831339471414103,Entire home/apt,105,Back Bay
+692705212150139166,Entire home/apt,907,Dorchester
+693015527477884811,Entire home/apt,201.01,Beacon Hill
+693596184039580623,Entire home/apt,708.02,South End
+693758295305744325,Entire home/apt,303.02,Downtown
+694406328277968795,Entire home/apt,201.01,Beacon Hill
+694775703373872053,Entire home/apt,303.01,Downtown
+695474598488938817,Entire home/apt,815,Roxbury
+695542274861997846,Entire home/apt,202,Beacon Hill
+695571625983663432,Entire home/apt,921.01,Dorchester
+695608646617952363,Entire home/apt,201.01,Beacon Hill
+695671958274314392,Private room,511.01,East Boston
+695918936959621754,Entire home/apt,202,Beacon Hill
+695922879473339360,Entire home/apt,1304.04,West Roxbury
+696320235743057283,Private room,907,Dorchester
+696443793557202811,Private room,907,Dorchester
+696898471914040453,Private room,8.04,Allston
+697326322124831562,Entire home/apt,201.01,Beacon Hill
+697403072323629904,Entire home/apt,406,Charlestown
+698717445444426065,Private room,511.01,East Boston
+698725097842104765,Private room,511.01,East Boston
+698729977739907399,Private room,511.01,East Boston
+699500661653286730,Entire home/apt,108.01,Back Bay
+699850764514871361,Entire home/apt,1105.01,Roslindale
+700142117741049119,Entire home/apt,302,North End
+700542874333492403,Entire home/apt,5.06,Brighton
+700778970519082728,Entire home/apt,105,Back Bay
+701274791685463099,Entire home/apt,105,Back Bay
+701320109746373355,Entire home/apt,106,Back Bay
+701903542880060170,Entire home/apt,809,Mission Hill
+701903839431825131,Entire home/apt,811.02,Mission Hill
+702072857749096679,Entire home/apt,701.04,Downtown
+702081197320972498,Entire home/apt,701.04,Downtown
+702086929630286306,Entire home/apt,701.04,Downtown
+702087071845813431,Entire home/apt,303.02,Downtown
+702196791016760152,Entire home/apt,104.04,Fenway
+703444005326529117,Private room,911,Dorchester
+703775139748348565,Entire home/apt,703.02,South End
+703833733256479071,Entire home/apt,5.06,Brighton
+703891073608214161,Entire home/apt,203.04,West End
+704062264957785423,Entire home/apt,203.05,West End
+704785038887176281,Entire home/apt,106,Back Bay
+705009225867603505,Entire home/apt,708.02,South End
+705014843735903932,Entire home/apt,708.02,South End
+705014899720892075,Entire home/apt,708.02,South End
+705016397882848294,Entire home/apt,708.02,South End
+705104239378951885,Entire home/apt,1.02,Brighton
+705177231048177987,Private room,1010.01,Mattapan
+705275638669896820,Private room,906,Roxbury
+706361084592912840,Entire home/apt,303.02,Downtown
+706370390426147910,Entire home/apt,303.02,Downtown
+706378208295989224,Entire home/apt,303.02,Downtown
+706390127263498796,Entire home/apt,701.04,Downtown
+706391605702679581,Entire home/apt,701.04,Downtown
+706395724644588632,Entire home/apt,701.04,Downtown
+706401579813628843,Entire home/apt,303.02,Downtown
+706409928494970624,Entire home/apt,701.04,Downtown
+706418652437318875,Entire home/apt,701.04,Downtown
+706420836006352624,Entire home/apt,303.02,Downtown
+706427301781468018,Entire home/apt,701.04,Downtown
+706435487823408368,Entire home/apt,303.02,Downtown
+706439237549118033,Entire home/apt,701.04,Downtown
+706445990952752456,Entire home/apt,303.02,Downtown
+706455594639449523,Entire home/apt,701.04,Downtown
+706482467893946147,Private room,907,Dorchester
+706537238021100917,Private room,1203.01,Jamaica Plain
+706549728178322535,Entire home/apt,104.08,Fenway
+706551784704814139,Entire home/apt,108.02,Back Bay
+706689347742891165,Private room,906,Roxbury
+707301660357920135,Entire home/apt,7.01,Allston
+707412419280652756,Entire home/apt,203.02,Beacon Hill
+708773897718716368,Entire home/apt,606.03,South Boston Waterfront
+709431052346656350,Entire home/apt,1011.01,Mattapan
+709454279559399856,Private room,512,East Boston
+710061218938630826,Private room,921.01,Dorchester
+710219921415947886,Entire home/apt,605.01,South Boston
+710711738585299206,Private room,814,Roxbury
+710811277169357121,Entire home/apt,511.01,East Boston
+710818159602377636,Entire home/apt,511.01,East Boston
+710822541189911014,Entire home/apt,511.01,East Boston
+710826357260492300,Entire home/apt,511.01,East Boston
+710874139548119890,Entire home/apt,606.01,South Boston
+711040970312431499,Private room,923,Dorchester
+711426239388775679,Entire home/apt,809,Mission Hill
+711448738229382796,Entire home/apt,810.01,Mission Hill
+711476894762823525,Entire home/apt,511.01,East Boston
+711511026921156638,Entire home/apt,511.01,East Boston
+711804721312473870,Private room,511.01,East Boston
+712092718787212242,Entire home/apt,101.04,Back Bay
+712177073029740980,Private room,1206,Jamaica Plain
+712205269097128192,Entire home/apt,102.06,Fenway
+712211369233027399,Private room,102.06,Fenway
+712524834866658437,Entire home/apt,9816,East Boston
+712856955049497663,Private room,906,Roxbury
+713140450013616661,Entire home/apt,920,Dorchester
+713531321139220993,Entire home/apt,901,Dorchester
+713859265245447720,Entire home/apt,1204,Jamaica Plain
+714429437292361326,Entire home/apt,711.01,South End
+714656100145703498,Private room,701.04,Downtown
+715101662823777649,Entire home/apt,504,East Boston
+715157966796616045,Entire home/apt,102.04,Fenway
+715658190467254169,Entire home/apt,605.01,South Boston
+715861080879463407,Entire home/apt,701.04,Downtown
+715986764385449660,Entire home/apt,108.01,Back Bay
+716006377445470301,Entire home/apt,203.01,West End
+716081347764852130,Entire home/apt,610,South Boston
+716081443145047239,Private room,610,South Boston
+716081495310456299,Private room,608,South Boston
+716146741183188855,Private room,906,Roxbury
+716240339038945877,Private room,814,Roxbury
+716263356980405122,Private room,203.05,West End
+716355772092409491,Entire home/apt,4.01,Brighton
+716356023390285317,Entire home/apt,4.01,Brighton
+716446609466368268,Entire home/apt,105,Back Bay
+716698553651312935,Entire home/apt,105,Back Bay
+717947226350098456,Private room,1010.02,Mattapan
+718799886240086989,Private room,924,Dorchester
+719282066128743830,Entire home/apt,811.02,Mission Hill
+719467171987235663,Entire home/apt,924,Dorchester
+719476186511871540,Entire home/apt,924,Dorchester
+719713020849079800,Private room,906,Roxbury
+719724340367709814,Private room,906,Roxbury
+719990238559489665,Entire home/apt,104.08,Fenway
+720198415940291507,Private room,512,East Boston
+720198463166410182,Private room,512,East Boston
+721072866766941762,Entire home/apt,801,Roxbury
+721153561117987321,Private room,4.02,Brighton
+721977955281446033,Entire home/apt,1009,Mattapan
+722338399570459942,Private room,502,East Boston
+723597701376842186,Private room,1005,Dorchester
+724112947978939396,Entire home/apt,102.04,Fenway
+724143624546195023,Entire home/apt,102.04,Fenway
+724351478524114586,Entire home/apt,811.02,Mission Hill
+724605018390971642,Entire home/apt,708.02,South End
+724619994970017699,Entire home/apt,511.01,East Boston
+724685819767873194,Entire home/apt,202,Beacon Hill
+724887655271565890,Entire home/apt,202,Beacon Hill
+725911095531014757,Private room,1.02,Brighton
+726091410655967351,Private room,1.02,Brighton
+726301899677500928,Entire home/apt,502,East Boston
+726322220210519136,Entire home/apt,102.04,Fenway
+726396583833243890,Entire home/apt,801,Roxbury
+727368563191104397,Entire home/apt,101.03,Fenway
+727398544175746362,Entire home/apt,104.03,Fenway
+727398854420249860,Entire home/apt,106,Back Bay
+728299769317666846,Entire home/apt,1004,Dorchester
+728575985684774209,Entire home/apt,510,East Boston
+728876693663285499,Entire home/apt,101.04,Back Bay
+728972728980793880,Entire home/apt,606.03,South Boston Waterfront
+729113483314814109,Entire home/apt,604,South Boston
+729113857278360900,Entire home/apt,606.02,South Boston Waterfront
+729116956823926016,Entire home/apt,203.04,West End
+729254397646619056,Entire home/apt,505,East Boston
+729536185624895704,Entire home/apt,105,Back Bay
+729557022119651821,Private room,918,Dorchester
+729597299173881827,Entire home/apt,107.01,Back Bay
+729658576548339540,Private room,608,South Boston
+729658616450788273,Private room,612.01,South Boston
+729658641176422372,Private room,608,South Boston
+729674674135522012,Entire home/apt,9813,East Boston
+730116135535643478,Entire home/apt,105,Back Bay
+730427842326719531,Entire home/apt,301,North End
+730447098205262414,Private room,502,East Boston
+730465117588795606,Entire home/apt,105,Back Bay
+730478965019511672,Entire home/apt,922,Dorchester
+731257486642956305,Entire home/apt,1204,Jamaica Plain
+731581616930727750,Entire home/apt,702.01,Downtown
+731719702200184603,Entire home/apt,2.01,Brighton
+732336608678199799,Entire home/apt,203.05,West End
+732410256220173645,Entire home/apt,702.01,Downtown
+733286483525314226,Private room,7.04,Allston
+734176057556444753,Private room,512,East Boston
+734538076562901329,Entire home/apt,203.05,West End
+735020170936439393,Entire home/apt,703.02,South End
+735043102004597670,Entire home/apt,203.05,West End
+735590665820048351,Private room,907,Dorchester
+735608452749880070,Private room,4.02,Brighton
+735611010408835148,Private room,912,Dorchester
+735618356327454277,Private room,608,South Boston
+735862946917200932,Private room,304,North End
+735865422396544085,Private room,912,Dorchester
+736082667482150390,Entire home/apt,801,Roxbury
+736099391953919597,Entire home/apt,801,Roxbury
+736997125298255038,Private room,907,Dorchester
+737039433905601620,Private room,814,Roxbury
+737064548472086071,Entire home/apt,1403,Hyde Park
+737160436232469420,Entire home/apt,1404,Hyde Park
+737326597438960986,Entire home/apt,505,East Boston
+737927085330855567,Entire home/apt,701.02,Downtown
+738524928622077555,Entire home/apt,1.02,Brighton
+738534080393093552,Entire home/apt,9818,Jamaica Plain
+739047251301668323,Private room,904,Roxbury
+739103189507280086,Private room,8.04,Allston
+739411169840231494,Entire home/apt,512,East Boston
+739811242615570382,Entire home/apt,1004,Dorchester
+739862329048020441,Private room,911,Dorchester
+739923767144468601,Private room,911,Dorchester
+740369138863393156,Entire home/apt,104.03,Fenway
+740393253260304866,Private room,5.06,Brighton
+740400290363696561,Entire home/apt,707,South End
+741745079064862710,Entire home/apt,912,Dorchester
+741745368954817653,Entire home/apt,4.01,Brighton
+741745644177469549,Entire home/apt,106,Back Bay
+741919382755118639,Entire home/apt,402,Charlestown
+742039562835248222,Entire home/apt,507,East Boston
+742456139806952921,Private room,512,East Boston
+742760728038883935,Private room,509.01,East Boston
+743329198713904828,Entire home/apt,104.04,Fenway
+744426660348132927,Private room,203.05,West End
+745548290198834623,Entire home/apt,202,Beacon Hill
+745758164210682478,Private room,1.02,Brighton
+746281551185136703,Entire home/apt,606.02,South Boston Waterfront
+746387699454983289,Private room,1403,Hyde Park
+746894377671205911,Private room,1403,Hyde Park
+747055377955571433,Entire home/apt,1105.01,Roslindale
+747207823258681243,Entire home/apt,608,South Boston
+747264420873427665,Entire home/apt,703.02,Downtown
+748360987335266464,Entire home/apt,1204,Jamaica Plain
+748442141403421490,Entire home/apt,1201.04,Jamaica Plain
+748583862346785455,Entire home/apt,606.03,South Boston Waterfront
+748711480939888945,Entire home/apt,606.03,South Boston Waterfront
+748829321102851624,Private room,804.01,Roxbury
+748838209942021895,Private room,804.01,Roxbury
+748840383392267716,Private room,711.01,Roxbury
+749810114119035696,Entire home/apt,1204,Jamaica Plain
+749811741480631156,Entire home/apt,7.04,Allston
+749934515407659019,Entire home/apt,305,North End
+749957818849456669,Entire home/apt,107.01,Back Bay
+750481166232183357,Entire home/apt,7.04,Allston
+750804245776969088,Entire home/apt,813.02,Roxbury
+751255733039018358,Entire home/apt,302,North End
+751256340541168925,Entire home/apt,203.04,West End
+751488512523959302,Entire home/apt,504,East Boston
+751701290567528417,Entire home/apt,1.02,Brighton
+752215364659354696,Entire home/apt,704.02,South End
+752749838359816350,Entire home/apt,703.01,South End
+752888532415675876,Entire home/apt,9818,Jamaica Plain
+753003575647696758,Entire home/apt,811.01,Jamaica Plain
+753062897100166560,Private room,918,Dorchester
+753074503492237710,Private room,918,Dorchester
+753080607805650432,Private room,915,Dorchester
+753864604867041831,Entire home/apt,203.02,Beacon Hill
+753865831658652689,Private room,2.01,Brighton
+754223532687110664,Entire home/apt,910.01,Dorchester
+754262361243349365,Entire home/apt,704.02,South End
+754299484662610177,Entire home/apt,606.03,South Boston Waterfront
+754326670470560087,Entire home/apt,606.03,South Boston Waterfront
+754333628848060810,Entire home/apt,9818,Jamaica Plain
+754342535270816668,Entire home/apt,1207,Jamaica Plain
+754921041607835744,Entire home/apt,604,South Boston
+754921465460632358,Entire home/apt,702.02,Chinatown
+755549554190811005,Entire home/apt,107.01,Back Bay
+755549831090119147,Entire home/apt,7.04,Allston
+755550110633481973,Entire home/apt,107.01,Back Bay
+755623527529374356,Entire home/apt,610,South Boston
+755773092035978151,Entire home/apt,606.03,South Boston Waterfront
+755786223082009860,Entire home/apt,606.03,South Boston Waterfront
+755828678571162866,Private room,606.04,South Boston Waterfront
+756324133930417059,Entire home/apt,702.02,Chinatown
+757021735358934310,Entire home/apt,7.04,Allston
+757022023725678837,Entire home/apt,106,Back Bay
+757065362901567243,Entire home/apt,105,Back Bay
+757230411058859668,Private room,4.01,Brighton
+757300759679575355,Private room,1403,Hyde Park
+757581131118742946,Entire home/apt,606.03,South Boston Waterfront
+758249585153279048,Entire home/apt,919,Dorchester
+758653948795940077,Entire home/apt,703.01,South End
+758667094418897675,Entire home/apt,509.01,East Boston
+759387966158667595,Entire home/apt,1304.02,West Roxbury
+759519541184859394,Entire home/apt,201.01,Beacon Hill
+759892648386172163,Entire home/apt,106,Back Bay
+759893468198280917,Entire home/apt,702.01,Downtown
+759894024434692037,Entire home/apt,7.04,Allston
+760139528967323320,Entire home/apt,608,South Boston
+760182484590340645,Entire home/apt,702.01,Downtown
+760250266000906900,Entire home/apt,913,Dorchester
+760402775627338023,Private room,818,Roxbury
+760794921248956440,Entire home/apt,408.01,Charlestown
+761353275730186662,Entire home/apt,203.02,Beacon Hill
+761463490529718145,Entire home/apt,201.01,Beacon Hill
+761650908021397278,Private room,1403,Hyde Park
+762164629747217079,Entire home/apt,106,Back Bay
+762273446510783312,Entire home/apt,606.02,South Boston Waterfront
+762301524209790810,Entire home/apt,404.01,Charlestown
+762385151964696601,Private room,1204,Jamaica Plain
+762582023948839729,Private room,1303,West Roxbury
+762779193061469131,Entire home/apt,203.02,Beacon Hill
+763072543838886407,Entire home/apt,709.02,South End
+763110046866087334,Entire home/apt,107.01,Back Bay
+763119609385925635,Entire home/apt,921.01,Dorchester
+764378872296800230,Entire home/apt,512,East Boston
+765006355721890182,Entire home/apt,702.01,Downtown
+765006895101554698,Entire home/apt,203.02,Beacon Hill
+765083094616115149,Entire home/apt,401,Charlestown
+765120412685249786,Private room,921.01,Dorchester
+765247087922139776,Entire home/apt,708.02,South End
+765266094526448412,Entire home/apt,511.01,East Boston
+765308990151120182,Private room,814,Roxbury
+765318442283229793,Entire home/apt,203.04,West End
+765841349139671626,Entire home/apt,605.01,South Boston
+765841775181131141,Entire home/apt,702.01,Downtown
+765842269075124283,Entire home/apt,203.02,Beacon Hill
+766033472534219878,Entire home/apt,606.03,South Boston Waterfront
+766443317316185027,Entire home/apt,8.05,Allston
+767343070808486562,Private room,1404,Hyde Park
+767351808354008385,Entire home/apt,8.05,Allston
+767352123386196599,Entire home/apt,8.05,Allston
+768023699088310062,Entire home/apt,1105.02,Roslindale
+768249035945598810,Entire home/apt,901,Dorchester
+769510536351407765,Entire home/apt,503,East Boston
+769614253675332089,Entire home/apt,201.01,Beacon Hill
+769728887782115954,Entire home/apt,1007,Dorchester
+770213313440004101,Entire home/apt,102.04,Fenway
+770253074402755290,Entire home/apt,102.04,Fenway
+770275222674087556,Entire home/apt,101.03,Fenway
+770557500197301585,Entire home/apt,201.01,Beacon Hill
+771117597362932880,Entire home/apt,305,North End
+771514389930597622,Private room,509.01,East Boston
+771554926520201061,Private room,907,Dorchester
+771568362494531457,Private room,907,Dorchester
+771690683555872091,Entire home/apt,702.02,Chinatown
+771690696993014228,Entire home/apt,701.04,Downtown
+772110413547372011,Private room,907,Dorchester
+772111586122798293,Private room,907,Dorchester
+772112046835492048,Private room,907,Dorchester
+772245719782019151,Entire home/apt,1404,Hyde Park
+773087156658930209,Private room,913,Dorchester
+773088039458234002,Private room,913,Dorchester
+773090895709887319,Private room,911,Dorchester
+773093189939694704,Private room,911,Dorchester
+773095153316934276,Private room,911,Dorchester
+773112672818432816,Private room,907,Dorchester
+773237797560328210,Entire home/apt,907,Dorchester
+773300404012517210,Entire home/apt,102.04,Fenway
+773728486076845843,Entire home/apt,105,Back Bay
+773990108250892522,Private room,1010.02,Mattapan
+773994151683464256,Entire home/apt,701.04,Downtown
+774537923800863315,Entire home/apt,203.04,West End
+774611525121651574,Entire home/apt,801,Roxbury
+774890533736849094,Entire home/apt,202,Beacon Hill
+775202728436669699,Private room,912,Dorchester
+775261963711450110,Entire home/apt,702.02,Chinatown
+775659358800865129,Entire home/apt,203.02,Beacon Hill
+775989243701381506,Entire home/apt,507,East Boston
+776039493275240855,Entire home/apt,606.03,South Boston Waterfront
+776171132229801192,Entire home/apt,811.02,Mission Hill
+776357275298272961,Entire home/apt,1103.01,Roslindale
+776419658774901321,Entire home/apt,107.01,Back Bay
+776610853880546976,Entire home/apt,702.02,Chinatown
+776676483327846870,Entire home/apt,509.01,East Boston
+776851735956727538,Entire home/apt,705.02,South End
+776971614888195449,Entire home/apt,512,East Boston
+777398422400005628,Private room,608,South Boston
+777536806282878078,Private room,703.02,Downtown
+777727855692108366,Private room,1402.02,Hyde Park
+777800715043740407,Private room,1304.02,West Roxbury
+778111204921535720,Private room,512,East Boston
+778259884527267433,Entire home/apt,102.04,Fenway
+778447421785771490,Entire home/apt,1207,Jamaica Plain
+778887634322331780,Entire home/apt,1001,Dorchester
+779815225467352018,Entire home/apt,202,Beacon Hill
+779875059629800062,Entire home/apt,201.01,Beacon Hill
+779953111262663700,Entire home/apt,202,Beacon Hill
+780234485095973161,Entire home/apt,604,South Boston
+780410442598032881,Entire home/apt,701.02,Downtown
+780430259486467003,Entire home/apt,203.04,West End
+780529778393239822,Entire home/apt,811.01,Jamaica Plain
+780664602488325149,Entire home/apt,1401.05,Hyde Park
+780711147103807485,Entire home/apt,815,Roxbury
+781001738751122967,Entire home/apt,203.04,West End
+781057836995926888,Entire home/apt,101.04,Fenway
+781292733190157822,Entire home/apt,5.03,Brighton
+781403748234346124,Entire home/apt,3.01,Brighton
+781452792968796863,Entire home/apt,102.04,Fenway
+781698350065782786,Entire home/apt,703.02,South End
+782675110910637353,Entire home/apt,1206,Jamaica Plain
+782688475691234607,Private room,907,Dorchester
+782695796810000331,Private room,907,Dorchester
+782697878467722711,Private room,907,Dorchester
+782783572705483591,Private room,906,Roxbury
+782816924241581155,Private room,906,Roxbury
+783250388529289180,Private room,906,Roxbury
+783267228400972863,Private room,906,Roxbury
+783967808259941864,Entire home/apt,608,South Boston
+784067430564924762,Entire home/apt,606.02,South Boston Waterfront
+786298898419241178,Entire home/apt,7.01,Allston
+786807008620011176,Entire home/apt,702.02,Chinatown
+787547387049672102,Entire home/apt,304,North End
+787547697386254974,Entire home/apt,702.02,Chinatown
+787784252654341503,Entire home/apt,1202.01,Jamaica Plain
+787970646648639614,Private room,701.04,Downtown
+788245014138286426,Entire home/apt,604,South Boston
+788431140364663238,Entire home/apt,6.01,Brighton
+788926688853715289,Entire home/apt,901,Dorchester
+789361035607062717,Private room,1403,Hyde Park
+789363443000162028,Private room,1403,Hyde Park
+790042485512163978,Private room,1106.07,Roslindale
+790792776741881561,Entire home/apt,606.04,South Boston Waterfront
+791467696621552585,Entire home/apt,201.01,Beacon Hill
+791873378629717247,Entire home/apt,203.05,West End
+792289216889316126,Entire home/apt,903,Dorchester
+792352880234877032,Entire home/apt,903,Dorchester
+792639238182696179,Entire home/apt,708.02,South End
+792748321556941502,Entire home/apt,105,Back Bay
+793138554432414213,Entire home/apt,924,Dorchester
+793442721651271774,Entire home/apt,703.02,South End
+794003883570818185,Entire home/apt,901,Dorchester
+794482641363972340,Private room,1304.04,West Roxbury
+794842805414477219,Entire home/apt,1203.01,Jamaica Plain
+794844467165235714,Entire home/apt,813.01,Jamaica Plain
+795023096710503837,Entire home/apt,703.01,South End
+795570140673271565,Private room,907,Dorchester
+795570331794250041,Private room,911,Dorchester
+795570354639712244,Private room,907,Dorchester
+795570361088446587,Private room,912,Dorchester
+795570362932946965,Private room,911,Dorchester
+795570364674481061,Private room,907,Dorchester
+795570413010098766,Private room,806.01,Roxbury
+795570414131263988,Private room,911,Dorchester
+795570428141464265,Private room,911,Dorchester
+796477893439161143,Entire home/apt,105,Back Bay
+796562308049271740,Entire home/apt,1202.01,Jamaica Plain
+796938044587864646,Private room,907,Dorchester
+796989532976366651,Entire home/apt,708.02,South End
+797013903904054680,Entire home/apt,702.01,Downtown
+797634392623375373,Entire home/apt,8.05,Allston
+797634833378646656,Entire home/apt,8.05,Allston
+797635200084843258,Entire home/apt,8.05,Allston
+797697617397118428,Entire home/apt,108.01,Back Bay
+797720472136172290,Entire home/apt,108.01,Back Bay
+797730754927496357,Entire home/apt,108.01,Back Bay
+797740187346427325,Entire home/apt,108.01,Back Bay
+797775988160352073,Entire home/apt,1202.01,Jamaica Plain
+798099312102620728,Entire home/apt,502,East Boston
+798126386569821756,Entire home/apt,507,East Boston
+798135966585282833,Entire home/apt,507,East Boston
+798142219538894038,Entire home/apt,502,East Boston
+798149630675132507,Entire home/apt,502,East Boston
+798155071760327765,Entire home/apt,507,East Boston
+798372261806833527,Private room,8.05,Allston
+798524109511991557,Entire home/apt,1005,Dorchester
+798524113485453463,Entire home/apt,1401.02,Hyde Park
+798533622805798105,Entire home/apt,511.01,East Boston
+798537142108234568,Entire home/apt,512,East Boston
+798602855076553875,Entire home/apt,602,South Boston
+799785700040128099,Entire home/apt,1401.02,Hyde Park
+799819309815832960,Entire home/apt,912,Dorchester
+800637547908151839,Entire home/apt,502,East Boston
+800678625525343383,Entire home/apt,511.01,East Boston
+800808185098150315,Private room,811.02,Mission Hill
+801227550338137362,Entire home/apt,1008,Dorchester
+801228312332129657,Entire home/apt,1207,Jamaica Plain
+801588431214926072,Entire home/apt,702.01,Downtown
+802137052578950617,Entire home/apt,701.02,Downtown
+802166304692592773,Private room,4.01,Brighton
+802166342470809052,Private room,6.01,Brighton
+802166365901218905,Private room,6.01,Brighton
+802166369278097230,Private room,2.02,Brighton
+802166374149357825,Private room,6.04,Allston
+802166414075782402,Private room,6.03,Brighton
+802166425848858167,Private room,2.01,Brighton
+802166461233558007,Private room,8.05,Allston
+802166465471226981,Private room,5.06,Brighton
+802166491783280733,Private room,3.02,Brighton
+802167954384473843,Private room,7.03,Allston
+802168022773358676,Private room,5.06,Brighton
+802168194075930547,Private room,4.02,Brighton
+802169420895588385,Private room,3.02,Brighton
+802169461988663900,Private room,2.01,Brighton
+802169545837115903,Private room,8.04,Allston
+802169567442568638,Private room,5.02,Brighton
+802169869804620989,Private room,4.02,Brighton
+802170266584394811,Private room,7.01,Allston
+802170322545902640,Private room,5.05,Brighton
+802170377328011131,Private room,4.02,Brighton
+802170515018702903,Private room,6.01,Brighton
+802170593817051321,Private room,4.02,Brighton
+802494055567893065,Private room,4.01,Brighton
+802738328240255768,Entire home/apt,1304.04,West Roxbury
+802780781022731649,Entire home/apt,203.05,West End
+802781307558619461,Entire home/apt,702.01,Downtown
+803367130300649396,Entire home/apt,203.05,West End
+803384764461309863,Private room,4.02,Brighton
+803385128945157565,Private room,5.02,Brighton
+803385437045066931,Private room,3.02,Brighton
+803385779755101640,Private room,3.02,Brighton
+803522498141952905,Private room,3.01,Brighton
+803590050458462552,Entire home/apt,1102.01,Roslindale
+804299037876795981,Private room,610,South Boston
+804444851986787690,Entire home/apt,8.04,Allston
+804632466382084934,Entire home/apt,105,Back Bay
+805835145703401424,Private room,1004,Dorchester
+805849464095237415,Entire home/apt,511.01,East Boston
+805970465803482514,Entire home/apt,906,Roxbury
+806035937248754832,Entire home/apt,612.03,South Boston
+806399242908056263,Entire home/apt,915,Dorchester
+806597151913967678,Private room,812,Jamaica Plain
+807100186153152075,Entire home/apt,603.01,South Boston
+807100202775921535,Private room,603.01,South Boston
+807100228033273670,Private room,603.01,South Boston
+807100249723439013,Private room,603.01,South Boston
+807100264983723486,Private room,602,South Boston
+807171973012109106,Entire home/apt,108.01,Back Bay
+807720320430482194,Entire home/apt,203.05,West End
+807831116103142653,Entire home/apt,1004,Dorchester
+808445340426157030,Private room,8.05,Allston
+808445375201025126,Private room,1.01,Allston
+808445444402320180,Private room,1.02,Brighton
+808445745335232213,Private room,8.05,Allston
+808445812052017169,Private room,8.06,Allston
+808446005860043071,Private room,8.05,Allston
+808446633871122903,Private room,1.01,Allston
+808446699437364864,Private room,8.04,Allston
+808446742424075707,Private room,8.04,Allston
+808446762334922781,Private room,8.04,Allston
+808446788230276591,Private room,1.01,Allston
+808605340132686770,Entire home/apt,8.06,Allston
+808849892048970179,Entire home/apt,924,Dorchester
+809294142120107869,Entire home/apt,924,Dorchester
+810486207563698410,Entire home/apt,917,Dorchester
+810599812355420457,Private room,907,Dorchester
+810600734422049241,Private room,2.01,Brighton
+810741641342413316,Entire home/apt,105,Back Bay
+810754807767282735,Entire home/apt,203.05,West End
+810755335955230893,Entire home/apt,702.01,Downtown
+810885745553870492,Private room,910.01,Dorchester
+810886898098703379,Private room,7.04,Allston
+810886927491202653,Private room,7.01,Allston
+811115218939361431,Entire home/apt,801,Roxbury
+811358298264468875,Private room,913,Dorchester
+811359445871535448,Private room,911,Dorchester
+811359876091113626,Private room,803,Roxbury
+812151140462420344,Private room,912,Dorchester
+812151194640588301,Private room,803,Roxbury
+812151242805969998,Private room,901,Dorchester
+812151300342076561,Private room,805,Roxbury
+812151326382362968,Private room,809,Mission Hill
+812152129868963255,Private room,6.01,Brighton
+812152875117493040,Private room,6.01,Brighton
+812152968958331284,Private room,6.01,Brighton
+812153098788787996,Private room,4.02,Brighton
+812153226882700582,Private room,6.01,Brighton
+812153265525465334,Private room,4.02,Brighton
+812153762887157132,Private room,4.01,Brighton
+812153788740359451,Private room,4.02,Brighton
+812339061385871053,Entire home/apt,706,South End
+813051556512269029,Entire home/apt,704.02,South End
+813503587403880197,Private room,1301.01,West Roxbury
+813572631608889170,Private room,907,Dorchester
+813572695342158119,Private room,814,Roxbury
+813619015576589022,Entire home/apt,105,Back Bay
+815839460361495314,Private room,1008,Dorchester
+815888454419523581,Private room,304,North End
+815888495169204554,Private room,810.01,Mission Hill
+815888516225707421,Private room,805,Roxbury
+815888536731149952,Private room,810.01,Mission Hill
+815888602711096793,Private room,911,Dorchester
+815888669738887514,Private room,814,Roxbury
+815888768538539332,Private room,1203.01,Jamaica Plain
+816566518065486820,Private room,1304.04,West Roxbury
+816762270292949619,Entire home/apt,703.01,South End
+817800808587484720,Entire home/apt,608,South Boston
+817845985191196832,Private room,1004,Dorchester
+817847623346823442,Private room,1004,Dorchester
+817900073941711544,Private room,1004,Dorchester
+818227632807006512,Entire home/apt,304,North End
+818227698513646684,Entire home/apt,6.03,Brighton
+818228138187480363,Private room,805,Roxbury
+818228197400724584,Private room,805,Roxbury
+818228290642089269,Private room,104.04,Fenway
+818228340647634434,Private room,809,Mission Hill
+818229548408648257,Private room,301,North End
+819349268015691394,Entire home/apt,610,South Boston
+819590588655324085,Private room,510,East Boston
+819678505634560174,Entire home/apt,1102.01,Roslindale
+819772528471769831,Private room,1304.04,West Roxbury
+819799525356493666,Private room,1304.02,West Roxbury
+820388470001096909,Entire home/apt,201.01,Beacon Hill
+820613034214456925,Private room,1.01,Allston
+820837303932798972,Private room,809,Mission Hill
+820838229976666797,Private room,5.06,Brighton
+820838307213765478,Private room,7.01,Allston
+820838413850736920,Private room,4.02,Brighton
+820838443840448491,Private room,5.06,Brighton
+820838478683700337,Private room,1.02,Brighton
+820838555804703071,Private room,6.01,Allston
+820838597034293331,Private room,6.04,Allston
+820839078754752919,Private room,6.01,Allston
+820839111629450677,Private room,4.02,Brighton
+821002212828430699,Private room,8.04,Allston
+821002485842298747,Private room,8.04,Allston
+821004763840087898,Private room,8.04,Allston
+821013844145374041,Private room,8.05,Allston
+821013966880315455,Private room,8.04,Allston
+821024782029882227,Private room,8.04,Allston
+821029810498505253,Private room,8.05,Allston
+821029850845653121,Private room,1.01,Allston
+821501113985650809,Entire home/apt,702.01,Downtown
+821982266463276906,Private room,814,Roxbury
+822313613536123159,Entire home/apt,106,Back Bay
+822315015309420908,Entire home/apt,105,Back Bay
+822426865861767423,Entire home/apt,303.01,Downtown
+822545245850439943,Entire home/apt,303.01,Downtown
+823033241647282507,Entire home/apt,708.02,South End
+823053074553097627,Entire home/apt,1101.05,Jamaica Plain
+823188290343544864,Private room,907,Dorchester
+823188765882674236,Private room,809,Mission Hill
+823188806690269330,Private room,806.01,Roxbury
+823189022462390457,Private room,907,Dorchester
+823189069883661925,Private room,806.01,Roxbury
+823189390734715683,Private room,2.02,Brighton
+823239333188464094,Private room,1010.01,Mattapan
+823248775809886807,Private room,8.05,Allston
+823248822173967117,Private room,8.05,Allston
+824134531822166914,Entire home/apt,503,East Boston
+825324105446149033,Entire home/apt,106,Back Bay
+825491268135433886,Entire home/apt,702.01,Downtown
+825808784280558930,Entire home/apt,1202.01,Jamaica Plain
+825847236320282098,Entire home/apt,6.03,Brighton
+825847770808405248,Entire home/apt,6.03,Brighton
+826047869168781527,Entire home/apt,303.02,Downtown
+826050313568127136,Entire home/apt,303.02,Downtown
+826154106774733494,Entire home/apt,305,North End
+826176959727340048,Entire home/apt,305,North End
+826363069735851240,Entire home/apt,1011.01,Mattapan
+826364677804486229,Entire home/apt,1011.01,Mattapan
+826562966046818110,Entire home/apt,6.03,Brighton
+826611132709253784,Private room,805,Roxbury
+826611220353352256,Private room,809,Mission Hill
+826611295396418977,Private room,814,Roxbury
+826611347568153860,Private room,814,Roxbury
+826663216050345089,Entire home/apt,105,Back Bay
+826707081510296209,Entire home/apt,303.02,Downtown
+826848948623401246,Entire home/apt,702.02,Chinatown
+826915410213840891,Private room,1106.07,Roslindale
+826990034800976237,Private room,1106.07,Roslindale
+827002804846503204,Private room,1005,Dorchester
+827013427283941098,Private room,1004,Dorchester
+827621935761246987,Entire home/apt,906,Roxbury
+827632538794278508,Private room,915,Dorchester
+827638402198229089,Private room,8.05,Allston
+827763943278645414,Private room,1010.02,Mattapan
+828014040320230036,Entire home/apt,702.02,Chinatown
+828194448965037333,Entire home/apt,701.04,Downtown
+828386525464240771,Entire home/apt,107.01,Back Bay
+828386531456139949,Entire home/apt,107.01,Back Bay
+828414752318279232,Entire home/apt,107.01,Back Bay
+828416110846192220,Entire home/apt,107.01,Back Bay
+828424408884495054,Entire home/apt,107.01,Back Bay
+828431379798940279,Entire home/apt,107.01,Back Bay
+828888465289215959,Private room,917,Dorchester
+829935330548464265,Entire home/apt,201.01,Beacon Hill
+831005655020855662,Entire home/apt,202,Beacon Hill
+831012935165221418,Entire home/apt,202,Beacon Hill
+831047752291942377,Entire home/apt,108.02,Back Bay
+831051071190439900,Entire home/apt,1207,Jamaica Plain
+831097348583700730,Entire home/apt,1201.03,Jamaica Plain
+831175366363021615,Entire home/apt,105,Back Bay
+831243046336628042,Private room,1402.02,Hyde Park
+831244874418507951,Private room,1402.02,Hyde Park
+831476534718840596,Entire home/apt,8.04,Allston
+831735030713466807,Entire home/apt,6.03,Brighton
+831837934769463043,Entire home/apt,808.01,Mission Hill
+831914165597361101,Entire home/apt,809,Mission Hill
+831920496371165632,Entire home/apt,809,Mission Hill
+831928988006349220,Entire home/apt,809,Mission Hill
+831961056951139768,Entire home/apt,1010.01,Mattapan
+832012838280777118,Entire home/apt,6.01,Brighton
+832067499783398094,Entire home/apt,5.06,Brighton
+832088207533099982,Entire home/apt,5.06,Brighton
+832100634681082476,Entire home/apt,102.04,Fenway
+832114453980214350,Entire home/apt,102.04,Fenway
+832227322277899919,Entire home/apt,820,Roxbury
+832363941447893627,Private room,304,North End
+832364048236856310,Private room,907,Dorchester
+832364151241940075,Private room,9818,Jamaica Plain
+832364540824306679,Private room,8.04,Allston
+832364963131381267,Private room,2.02,Brighton
+832365050954115593,Private room,6.03,Brighton
+832513780375417882,Entire home/apt,1203.01,Jamaica Plain
+832571347831063669,Entire home/apt,510,East Boston
+832598826080883496,Entire home/apt,1001,Dorchester
+833414952486827839,Private room,612.03,South Boston
+834227438457812049,Private room,1402.02,Hyde Park
+834506355938310323,Entire home/apt,6.04,Allston
+835104074261525866,Private room,7.04,Allston
+835693426411320572,Private room,907,Dorchester
+835891445272559508,Private room,917,Dorchester
+835972639813367798,Private room,907,Dorchester
+835972694953438998,Private room,907,Dorchester
+835972800179841046,Private room,301,North End
+835972972086936949,Private room,304,North End
+835973066179565908,Private room,1203.01,Jamaica Plain
+836153649468461318,Entire home/apt,801,Roxbury
+837295820949038139,Private room,7.04,Allston
+837439628788914345,Entire home/apt,102.04,Fenway
+837439944560637250,Entire home/apt,102.04,Fenway
+837538755134178518,Entire home/apt,708.02,South End
+837665944621160923,Entire home/apt,509.01,East Boston
+837676098532127827,Entire home/apt,509.01,East Boston
+837786239370643887,Private room,907,Dorchester
+837807894333216055,Entire home/apt,201.01,Beacon Hill
+839054086059659530,Private room,1205,Jamaica Plain
+839379439129820616,Private room,7.04,Allston
+839390730343699607,Entire home/apt,701.04,Downtown
+839416070641545488,Private room,7.04,Allston
+839425101048100292,Private room,902,Dorchester
+839425316944454173,Private room,7.04,Allston
+839868486583049106,Entire home/apt,108.02,Back Bay
+840519456002071221,Entire home/apt,512,East Boston
+840772669387488360,Private room,902,Dorchester
+840789843089087728,Private room,902,Dorchester
+840822819368086889,Private room,902,Dorchester
+840844287388988380,Private room,902,Dorchester
+840865757562500785,Private room,902,Dorchester
+840898745853352647,Private room,902,Dorchester
+841300163917010243,Entire home/apt,9818,Jamaica Plain
+841306752947174130,Entire home/apt,108.01,Back Bay
+841340391794964228,Entire home/apt,1009,Mattapan
+842140331839890874,Entire home/apt,108.01,Back Bay
+842152124151096859,Entire home/apt,101.04,Back Bay
+844031602728522582,Private room,911,Dorchester
+844064743397984290,Private room,912,Dorchester
+844121974228558188,Private room,814,Roxbury
+844122210795331698,Private room,809,Mission Hill
+844122501922677309,Private room,924,Dorchester
+844144422701937991,Private room,911,Dorchester
+844144437486675921,Private room,304,North End
+844156855860249179,Private room,801,Roxbury
+844156860069032080,Private room,911,Dorchester
+844156990035963261,Private room,821,Roxbury
+844157258451523061,Private room,1203.01,Jamaica Plain
+844159846481180918,Private room,6.04,Allston
+844168181046644114,Private room,4.01,Brighton
+844177024778571157,Private room,8.04,Allston
+844267526849669236,Entire home/apt,101.04,Fenway
+844368405040961955,Entire home/apt,702.01,Downtown
+844858979935490122,Entire home/apt,305,North End
+845725526594307928,Entire home/apt,1106.07,Roslindale
+846239063484503738,Entire home/apt,101.04,Fenway
+846239820073358228,Entire home/apt,702.01,Downtown
+846242634157528301,Entire home/apt,702.01,Downtown
+846387371904887180,Entire home/apt,817,Roxbury
+846507721137290960,Entire home/apt,814,Roxbury
+846521815205406885,Entire home/apt,911,Dorchester
+846941854165910381,Entire home/apt,701.02,Downtown
+847100966016898504,Private room,3.02,Brighton
+847101202176515818,Private room,3.01,Brighton
+847101422189735626,Private room,3.01,Brighton
+847101638232503097,Private room,3.01,Brighton
+847101746939325150,Private room,3.01,Brighton
+847102648283107566,Private room,3.01,Brighton
+847129553841190014,Entire home/apt,712.01,South End
+847189753655203664,Entire home/apt,1101.06,Jamaica Plain
+847226218698875627,Entire home/apt,907,Dorchester
+847346704941478843,Private room,612.01,South Boston
+847777244690501998,Entire home/apt,507,East Boston
+847787466062561534,Entire home/apt,511.01,East Boston
+848620018373566353,Private room,510,East Boston
+848961017797807929,Private room,2.01,Brighton
+849234104694269714,Entire home/apt,303.02,Downtown
+849316099483773204,Entire home/apt,703.02,South End
+849335827776494057,Entire home/apt,303.02,Downtown
+2021489,Private room,610,South Boston
+2108738,Entire home/apt,108.02,Back Bay
+2126053,Entire home/apt,201.01,Beacon Hill
+2141306,Entire home/apt,701.04,Downtown
+2183058,Entire home/apt,304,North End
+2183117,Entire home/apt,7.04,Allston
+2215762,Entire home/apt,705.02,South End
+2262752,Private room,1202.01,Jamaica Plain
+2292495,Entire home/apt,705.02,South End
+2378421,Entire home/apt,1201.03,Jamaica Plain
+2395326,Entire home/apt,703.01,South End
+2410846,Entire home/apt,701.02,Downtown
+2495047,Entire home/apt,705.02,South End
+2526773,Entire home/apt,4.02,Brighton
+2658094,Entire home/apt,305,North End
+2672058,Private room,8.05,Allston
+2701124,Entire home/apt,105,Back Bay
+2723274,Entire home/apt,703.02,South End
+2754975,Entire home/apt,203.02,Beacon Hill
+2864688,Private room,406,Charlestown
+2886933,Entire home/apt,1403,Hyde Park
+3129309,Entire home/apt,301,North End
+3164650,Entire home/apt,1402.01,Hyde Park
+3193484,Private room,1005,Dorchester
+3229255,Entire home/apt,1106.07,Roslindale
+3294152,Entire home/apt,912,Dorchester
+3302294,Entire home/apt,108.02,Back Bay
+3316049,Entire home/apt,704.02,South End
+3343428,Private room,814,Roxbury
+3344322,Private room,915,Dorchester
+3441982,Entire home/apt,815,Roxbury
+3457722,Entire home/apt,2.01,Brighton
+3463914,Entire home/apt,108.02,Back Bay
+3493840,Private room,1202.01,Jamaica Plain
+3520353,Entire home/apt,203.02,Beacon Hill
+3521944,Entire home/apt,1301.01,West Roxbury
+3539510,Entire home/apt,907,Dorchester
+3544343,Entire home/apt,303.02,Downtown
+3602379,Entire home/apt,814,Roxbury
+3605045,Shared room,1005,Dorchester
+3656168,Private room,818,Roxbury
+3705824,Private room,818,Roxbury
+3749523,Entire home/apt,401,Charlestown
+3874798,Entire home/apt,608,South Boston
+3890373,Entire home/apt,203.02,Beacon Hill
+3957602,Private room,1203.01,Jamaica Plain
+3965313,Private room,511.01,East Boston
+3968797,Private room,1106.07,Roslindale
+3969526,Entire home/apt,711.01,South End
+4000384,Private room,813.01,Jamaica Plain
+4089940,Entire home/apt,305,North End
+4090224,Entire home/apt,608,South Boston
+4105704,Entire home/apt,1201.04,Jamaica Plain
+4148586,Entire home/apt,108.01,Back Bay
+4150640,Entire home/apt,305,North End
+4173285,Private room,1005,Dorchester
+4233242,Private room,1204,Jamaica Plain
+4257929,Entire home/apt,101.04,Back Bay
+4263736,Private room,814,Roxbury
+4278067,Entire home/apt,705.02,South End
+4291607,Entire home/apt,5.02,Brighton
+4348422,Private room,1204,Jamaica Plain
+4364925,Entire home/apt,705.02,South End
+4364989,Entire home/apt,705.02,South End
+4410765,Entire home/apt,6.01,Brighton
+4460532,Private room,814,Roxbury
+4461613,Entire home/apt,203.02,Beacon Hill
+4461846,Entire home/apt,707,South End
+4461901,Entire home/apt,707,South End
+4500409,Entire home/apt,107.01,Back Bay
+4525875,Entire home/apt,403,Charlestown
+4555637,Private room,814,Roxbury
+4560053,Entire home/apt,815,Roxbury
+4566095,Entire home/apt,705.02,South End
+4568116,Entire home/apt,814,Roxbury
+4573238,Entire home/apt,304,North End
+4580825,Entire home/apt,304,North End
+4583526,Entire home/apt,1202.01,Jamaica Plain
+4593974,Private room,818,Roxbury
+4593985,Private room,818,Roxbury
+4602191,Entire home/apt,203.01,West End
+4614037,Entire home/apt,502,East Boston
+4623114,Entire home/apt,707,South End
+4624582,Private room,818,Roxbury
+4625517,Private room,810.01,Mission Hill
+4630071,Entire home/apt,4.02,Brighton
+4662379,Entire home/apt,4.02,Brighton
+4698367,Entire home/apt,1303,West Roxbury
+4699828,Entire home/apt,1401.07,Hyde Park
+4710583,Private room,1.01,Allston
+4737304,Private room,2.01,Brighton
+4755586,Private room,1010.02,Mattapan
+4757808,Entire home/apt,201.01,Beacon Hill
+10813,Entire home/apt,108.02,Back Bay
+10986,Entire home/apt,304,North End
+18711,Entire home/apt,907,Dorchester
+29765,Entire home/apt,404.01,Charlestown
+40601,Private room,1204,Jamaica Plain
+45987,Entire home/apt,401,Charlestown
+47521,Private room,921.01,Dorchester
+60029,Private room,814,Roxbury
+67774,Entire home/apt,701.02,Downtown
+69369,Entire home/apt,814,Roxbury
+77681,Private room,403,Charlestown
+77691,Private room,921.01,Dorchester
+163941,Entire home/apt,814,Roxbury
+184893,Private room,404.01,Charlestown
+190170,Entire home/apt,918,Dorchester
+197727,Private room,1201.03,Jamaica Plain
+197972,Entire home/apt,1204,Jamaica Plain
+210097,Entire home/apt,1206,Jamaica Plain
+220676,Private room,305,North End
+257588,Entire home/apt,604,South Boston
+297994,Entire home/apt,608,South Boston
+377474,Private room,921.01,Dorchester
+447826,Private room,1204,Jamaica Plain
+496022,Private room,1201.03,Jamaica Plain
+507525,Entire home/apt,703.02,South End
+530983,Entire home/apt,912,Dorchester
+533152,Entire home/apt,907,Dorchester
+561769,Entire home/apt,912,Dorchester
+570493,Private room,1007,Dorchester
+579605,Entire home/apt,907,Dorchester
+583255,Entire home/apt,5.06,Brighton
+601763,Entire home/apt,1302,West Roxbury
+611081,Entire home/apt,408.01,Charlestown
+646087,Private room,608,South Boston
+708802,Entire home/apt,403,Charlestown
+743211,Entire home/apt,1204,Jamaica Plain
+750438,Private room,1204,Jamaica Plain
+753446,Private room,1104.01,Roslindale
+766700,Entire home/apt,301,North End
+789843,Entire home/apt,108.02,Back Bay
+801680,Entire home/apt,814,Roxbury
+815639,Entire home/apt,301,North End
+820073,Entire home/apt,701.02,Downtown
+849408,Entire home/apt,1106.07,Roslindale
+863788,Entire home/apt,705.01,South End
+891661,Entire home/apt,305,North End
+894539,Private room,1106.07,Roslindale
+916123,Entire home/apt,304,North End
+973695,Entire home/apt,303.02,Downtown
+989163,Entire home/apt,705.02,South End
+1055627,Entire home/apt,203.04,West End
+1077105,Entire home/apt,705.02,South End
+1092093,Entire home/apt,809,Mission Hill
+1109224,Entire home/apt,1204,Jamaica Plain
+1130279,Entire home/apt,305,North End
+1252489,Entire home/apt,202,Beacon Hill
+1275498,Entire home/apt,705.02,South End
+1303261,Entire home/apt,201.01,Beacon Hill
+1321422,Entire home/apt,910.01,Dorchester
+1327725,Entire home/apt,7.01,Allston
+1374434,Private room,814,Roxbury
+1374466,Private room,814,Roxbury
+1403408,Private room,814,Roxbury
+1425973,Private room,708.02,South End
+1445064,Private room,403,Charlestown
+1472520,Private room,910.01,Dorchester
+1541166,Entire home/apt,406,Charlestown
+1544144,Entire home/apt,401,Charlestown
+1545185,Entire home/apt,4.02,Brighton
+1551205,Entire home/apt,104.05,Fenway
+1596470,Entire home/apt,703.02,South End
+1596664,Private room,814,Roxbury
+1644031,Private room,606.01,South Boston
+1668313,Private room,1105.02,Roslindale
+1682936,Entire home/apt,813.02,Roxbury
+1692573,Entire home/apt,1201.03,Jamaica Plain
+1721016,Entire home/apt,1105.02,Roslindale
+1724900,Entire home/apt,1105.02,Roslindale
+1732804,Private room,1006.01,Dorchester
+1810172,Private room,1105.02,Roslindale
+1810397,Entire home/apt,705.02,South End
+1819994,Entire home/apt,101.04,Fenway
+1886037,Entire home/apt,202,Beacon Hill
+1956275,Entire home/apt,1201.05,Jamaica Plain
+2000797,Private room,912,Dorchester
+2014651,Private room,1202.01,Jamaica Plain
+2014882,Private room,4.02,Brighton
+2021483,Entire home/apt,608,South Boston
