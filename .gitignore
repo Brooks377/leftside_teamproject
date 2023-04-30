@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
+
+# ignore models
+outputs/models_NBH.pkl
+outputs/models_tract.pkl
+
+
 # C extensions
 *.so
 
