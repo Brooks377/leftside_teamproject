@@ -3,7 +3,7 @@
 
 [Instructions for Overall Report](https://ledatascifi.github.io/ledatascifi-2023/content/assignments/project.html)
 
-[Streamlit Dashboard Repo](https://github.com/Brooks377/SSLS_dashboard)
+[Streamlit Dashboard Repo](https://github.com/BrooksWalsh/SSLS_dashboard)
 
 
 ## About this Repo:
